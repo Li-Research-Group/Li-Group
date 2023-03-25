@@ -1,10 +1,9 @@
-================
-QSDsan's Website
-================
+=================
+Li Research Group
+=================
 
 Status
 ------
-.. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
-   :target: https://qsdsan.io
+![](https://img.shields.io/badge/status-under%20development-blue?style=flat)
 
-This is the central place for information related to the QSDsan platform. The website is now live, though some functionalities (e.g., the web app) are still under construction.
+This is the website of the Li Research Group at the Department of Civil and Environmental Engineering at Rutgers University-New Brunswick.
