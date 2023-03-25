@@ -1,0 +1,26 @@
+**/*superseded*
+**/*tmp*
+**/figures/*
+**/results/*
+**/.DS_Store*
+**/.ipynb_checkpoints
+**/__pycache__
+*.egg-info
+*.prof
+*.pyc
+*.pyo
+*.Rhistory
+*.sh
+.coverage
+.coveralls.yml
+.jekyll-metadata
+.pypirc
+.sass-cache
+_build
+_site
+build
+# conftest is used for local testing only
+conftest.py
+docs/build/*
+dist
+htmlcov

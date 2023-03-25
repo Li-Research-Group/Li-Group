@@ -1,0 +1,164 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+remote_theme             : 'mmistakes/minimal-mistakes@4.24.0'
+minimal_mistakes_skin    : 'contrast' # 'air', 'aqua', 'contrast', 'dark', 'default', 'dirt', 'mint', 'neon', 'plum', 'sunrise'
+
+# Site Settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale                   : 'en-US'
+title                    : 'Li Research Group'
+title_separator          : '|'
+subtitle                 : 'CEE@Rutgers'
+name                     : &name 'Li Research Group' # &name is a YAML anchor which can be *referenced later
+email                    : 'mailto.yalin.li@gmail.com'
+description              : &description 'Li Research Group website'
+url                      : 'https://localhost:4000' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : '' # the subpath of your site, e.g. "/blog"
+github_username          : 'yalinli2'
+repository               : 'yalinli2/Li-Group'
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo                     : '/images/rutgers.png' # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+github:
+  - metadata
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia
+
+
+# Site Footer
+footer:
+  links:
+    - label: 'Google Scholar'
+      icon: 'fas fa-graduation-cap'
+      url: 'https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en'
+    - label: 'Curriculum Vitae'
+      icon: 'fas fa-file-alt'
+      url: 'https://drive.google.com/file/d/1XxD9vS4LtoyfvWILSEbQZ6toQdKhBdt4/view'
+    - label: 'QSD-Group'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/QSD-Group'
+    - label: 'CEE@Rutgers'
+      icon: 'fas fa-link'
+      url: 'https://cee.rutgers.edu'
+atom_feed:
+  hide: true
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - _site
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: 'utf-8'
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Collections, for search function
+collections:
+  pages:
+    output: false
+    permalink: /:collection/:path/
+
+
+# Defaults, for search function
+defaults:
+  # _pages
+  - scope:
+      path: '_pages'
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

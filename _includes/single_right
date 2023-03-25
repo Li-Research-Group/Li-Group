@@ -1,0 +1,70 @@
+{% if include.id %}
+  {% assign single_right = page[include.id] %}
+{% else %}
+  {% assign single_right = page.single_right %}
+{% endif %}
+
+<div class='single_right'>
+  <table>
+    <style>
+      td {border: 0px}
+      
+    </style>
+
+    <tr>
+      <td colspan='{{ single_right.btn_num }}'>
+        <tr>
+          <td colspan='{{ single_right.btn_num }}' style='text-align:right !important;'>
+            <h3 class='archive__item-title'>{{ single_right.title }}</h3>
+          </td>
+
+          <td rowspan='{{ single_right.rowspan | default: 5 }}' width='50%' style='text-align:center !important;'>
+            <img src='{{ single_right.image_path }}'
+                 alt='{% if single_right.image_alt %}{{ single_right.image_alt }}{% endif %}'
+                 width='{{ single_right.image_width }}'>
+          </td>
+        </tr>
+
+        <tr><td colspan='{{ single_right.btn_num }}' style='text-align:right !important;'>
+          {{ single_right.synopsis | markdownify }}
+        </td></tr>
+
+        <tr><td colspan='{{ single_right.btn_num }}' style='text-align:right !important;'>
+          <div class='archive__item-excerpt'>{{ single_right.citation | markdownify }}</div>
+        </td></tr>
+
+         <tr>
+          {% if single_right.btn_url1 %}
+            <td style='text-align:center !important;'>
+              <a href='{{ single_right.btn_url1 | relative_url }}'
+                 class='btn {{ single_right.btn_class1 }}'>
+                {{ single_right.btn_label1 | default: site.data.ui-text[site.locale].more_label | default: 'Learn More' }}
+               </a> 
+            </td>
+          {% endif %}
+          
+          {% if single_right.btn_url2 %}
+            <td style='text-align:center !important;'>
+              <a href='{{ single_right.btn_url2 | relative_url }}'
+                 class='btn {{ single_right.btn_class2 }}'>
+                {{ single_right.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: 'Learn More' }}
+               </a> 
+            </td>
+          {% endif %}
+
+          {% if single_right.btn_url3 %}
+            <td style='text-align:center !important;'>
+              <a href='{{ single_right.btn_url3 | relative_url }}'
+                 class='btn {{ single_right.btn_class3 }}'>
+                {{ single_right.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: 'Learn More' }}
+               </a> 
+            </td>
+          {% endif %}
+        </tr>
+      </td>
+    </tr>
+  </table>
+  {% if single_right.line %}
+    <hr>
+  {% endif %}
+</div>

@@ -1,0 +1,32 @@
+{% if include.id %}
+  {% assign page_not_found = page[include.id] %}
+{% else %}
+  {% assign page_not_found = page.page_not_found %}
+{% endif %}
+
+<div class='page_not_found'>
+  <br>
+  <table align='center' style='text-align:center !important!;'>
+    <style>
+      td {border:0px; text-align: center;}
+    </style>
+    
+    <tr><td>
+      <img src='/images/404.png' alt='{{ page_not_found.title }}' width='40%'>
+    </td></tr>
+    
+    <tr><td></td></tr>
+
+    <tr><td>
+      <h1>{{ page_not_found.title }}</h1>
+      </td></tr>
+    
+    <tr><td>
+      {{ page_not_found.text }}
+    </td></tr>
+    
+    <tr><td>
+      <a href='{{ page_not_found.btn_url }}' class='btn btn--primary btn--large'>{{ page_not_found.btn_label }}</a>
+    </td></tr>
+  </table>
+</div>

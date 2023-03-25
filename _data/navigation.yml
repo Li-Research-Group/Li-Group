@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: Home
+    url: /
+  - title: 'Research'
+    url: /research/
+  - title: 'Teaching'
+    url: /teaching/
+  - title: 'Members'
+    url: /members/
+  - title: 'Contact'
+    url: /contact/
