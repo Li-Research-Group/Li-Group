@@ -42,7 +42,7 @@ biosteam:
 
 ## Welcome
 
-The Li Research Group in [Civil and Environmental Engineering](https://cee.rutgers.edu/) at Rutgers University focuses on advancing the sustainability of water and energy infrastructure through integrated experimentation and modeling. Specifically, we are interested in (i) experimental development of thermochemical and catalytic technologies for bioprocess engineering and resource recovery; and (ii) sustainable design and systems analysis to guide the research, development, and deployment (RD&D) of technologies and inform decision-making.
+The Li Research Group in [Civil and Environmental Engineering](https://cee.rutgers.edu/) at Rutgers University-New Brunswick focuses on advancing the sustainability of water and energy infrastructure through integrated experimentation and modeling. Specifically, we are interested in (i) experimental development of thermochemical and catalytic technologies for bioprocess engineering and resource recovery; and (ii) sustainable design and systems analysis to guide the research, development, and deployment (RD&D) of technologies and inform decision-making.
 
 <br>
 

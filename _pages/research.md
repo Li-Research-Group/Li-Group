@@ -310,7 +310,7 @@ Select conference presentations.
 
 `15.` **<u>Y. Li</u>**, S. Leow, T. Dong, L.M.L. Laurens, P.T. Pienkos, J.S. Guest, and T.J. Strathmann. Demonstration and Evaluation of Integrated Microalgae Systems for Biofuel Production (Invited  talk for Gonter Award). *258<sup>th</sup> ACS National Meeting & Exposition*, San Diego, CA, United States, August 25-29, 2019.
 
-<img src='/images/presentations/ACS_2019.png#border' alt='ACS Gonter presentation' width='50%' id='image'>
+<img src='/images/research/ACS_2019.png#border' alt='ACS Gonter presentation' width='50%' id='image'>
 
 <br>
 
