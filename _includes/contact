@@ -1,0 +1,32 @@
+{% if include.id %}
+  {% assign contact = page[include.id] %}
+{% else %}
+  {% assign contact = page.contact %}
+{% endif %}
+
+<div class='contact'>
+  <br>
+  <table align='center' style='text-align:center !important!;'>
+    <style>
+      td {border:0px; text-align: center;}
+    </style>
+    
+    <tr><td>
+      <img src='/images/contact.png' alt='{{ contact.title }}' width='40%'>
+    </td></tr>
+    
+    <tr><td></td></tr>
+
+    <tr><td>
+      <h1>{{ contact.title }}</h1>
+      </td></tr>
+    
+    <tr><td>
+      {{ contact.text }}
+    </td></tr>
+    
+    <tr><td>
+      <a href='{{ contact.btn_url }}' class='btn btn--primary btn--large'>{{ contact.btn_label }}</a>
+    </td></tr>
+  </table>
+</div>
