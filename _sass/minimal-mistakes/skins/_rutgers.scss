@@ -9,9 +9,10 @@ $primary-color: #CC0033 !default; /* Rutgers Red */
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: #007FAC !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$masthead-background-color: $primary-color !default;
+$masthead-link-color: #fff !default;
+$masthead-link-color-hover: #fff !default;
+$navicon-link-color-hover: #fff !default;
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;

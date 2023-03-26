@@ -14,14 +14,14 @@
   height: $nav-toggle-height;
   border: 0;
   outline: none;
-  color: $primary-color;
-  background-color: transparent;
+  color: #fff;
+  background-color: $masthead-background-color;
   cursor: pointer;
   -webkit-transition: 0.2s;
   transition: 0.2s;
 
   &:hover {
-    color: mix(#000, $primary-color, 25%);
+    color: $text-color;
   }
 }
 
@@ -46,6 +46,7 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.15s;
     animation-delay: 0.15s;
+    background-color: $masthead-background-color;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
