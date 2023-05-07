@@ -7,6 +7,13 @@ header:
   text_color: black
 excerpt: Advancing Water & Energy Infrastructure through <br> Experimentation & Sustainable Design
 
+Yalin Li:
+  - image_path: /images/members/Yalin_Li.png
+    alt: 'Headshot of Yalin Li'
+    title: 'Lead: Yalin Li'
+    excerpt: '<br> I am an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. I received my B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. During my graduate study, I was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL).
+    <br><br> Prior to joining Rutgers, I worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI) at UIUC.'
+
 qsdsan:
   image_path: /images/index/qsdsan-dmsan.png
   alt: 'Logos of QSDsan and DMsan'
@@ -42,7 +49,9 @@ biosteam:
 
 ## Welcome
 
-The Li Research Group in [Civil and Environmental Engineering](https://cee.rutgers.edu/) at Rutgers University-New Brunswick focuses on advancing the sustainability of water and energy infrastructure through integrated experimentation and modeling. Specifically, we are interested in (i) experimental development of thermochemical and catalytic technologies for bioprocess engineering and resource recovery; and (ii) sustainable design and systems analysis to guide the research, development, and deployment (RD&D) of technologies and inform decision-making.
+{% include feature_row id='Yalin Li' type='left' %}
+
+My research group in the Department of [Civil and Environmental Engineering](https://cee.rutgers.edu/) at Rutgers University-New Brunswick focuses on advancing the sustainability of water and energy infrastructure through integrated experimentation and modeling. Specifically, we are interested in (i) experimental development of thermochemical and catalytic technologies for bioprocess engineering and resource recovery; and (ii) sustainable design and systems analysis to guide the research, development, and deployment (RD&D) of technologies and inform decision-making.
 
 <br>
 

@@ -6,7 +6,5 @@ main:
     url: /research/
   - title: 'Teaching'
     url: /teaching/
-  - title: 'Members'
-    url: /members/
   - title: 'Contact'
     url: /contact/
