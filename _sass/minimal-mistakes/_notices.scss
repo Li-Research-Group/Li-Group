@@ -72,6 +72,20 @@
   }
 }
 
+/* Rutgers */
+.notice--gray {
+  @include notice($li-rutgers-gray);
+}
+.notice--blue {
+  @include notice($li-mid-blue);
+}
+.notice--yellow {
+  @include notice($li-yellow);
+}
+.notice--green {
+  @include notice($li-green);
+}
+
 /* Default notice */
 
 .notice {

@@ -6,6 +6,14 @@
 $text-color: #222222 !default; /* Dark Gray */
 $muted-text-color: $text-color !default;
 $primary-color: #CC0033 !default; /* Rutgers Red */
+$li-rutgers-red: $primary-color !default;
+$li-dark-red: #8E0D18 !default;
+$li-rutgers-gray: #5B6770 !default;
+$li-mid-gray: #666666 !default;
+$li-blue: #007FAC !default;
+$li-mid-blue: #7DBFD6 !default;
+$li-yellow: #EBB600 !default;
+$li-green: #01B945 !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: #007FAC !default;
