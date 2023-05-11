@@ -18,9 +18,9 @@ hr {
 }
 
 singlehr {
-  # border-bottom: 4px double #333;
+  // border-bottom: 4px double #333;
   border-top: 4px double;
-  # padding: 10px 0;
+  // padding: 10px 0;
 }
 
 img[src*='#TOC'] { 
@@ -43,3 +43,6 @@ img[src*='#border'] {
     align: center;
     border: 1px solid #000000;
 }
+
+// Maybe see this for reference on fons
+// https://github.com/mmistakes/minimal-mistakes/discussions/1352
