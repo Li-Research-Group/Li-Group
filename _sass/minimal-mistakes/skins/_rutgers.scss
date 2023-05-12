@@ -3,9 +3,9 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #222222 !default; /* Dark Gray */
+$text-color: #222222 !default; // Dark Gray
 $muted-text-color: $text-color !default;
-$primary-color: #CC0033 !default; /* Rutgers Red */
+$primary-color: #CC0033 !default; // Rutgers Red
 $li-rutgers-red: $primary-color !default;
 $li-dark-red: #8E0D18 !default;
 $li-rutgers-gray: #5B6770 !default;
@@ -17,9 +17,10 @@ $li-green: #01B945 !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: #007FAC !default;
-$masthead-background-color: $primary-color !default;
-$masthead-link-color: #fff !default;
-$masthead-link-color-hover: #fff !default;
+// $masthead-background-color: mix(#fff, $primary-color, 50%)  !default;
+$masthead-background-color: #fff !default;
+$masthead-link-color: #000 !default;
+$masthead-link-color-hover: $primary-color !default;
 $navicon-link-color-hover: #fff !default;
 
 /* contrast syntax highlighting (base16) */

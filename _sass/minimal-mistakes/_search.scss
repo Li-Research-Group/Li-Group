@@ -14,20 +14,21 @@
   height: $nav-toggle-height;
   border: 0;
   outline: none;
-  color: #fff;
+  color: $text-color; //#fff
   background-color: $masthead-background-color;
   cursor: pointer;
   -webkit-transition: 0.2s;
   transition: 0.2s;
 
   &:hover {
-    color: $text-color;
+    color: $primary-color;
   }
 }
 
 .search-icon {
   width: 100%;
   height: 100%;
+  color: $text-color;
 }
 
 .search-content {
