@@ -330,7 +330,9 @@
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
         width: span(7 of 12);
-        font-size: 0.725em; // feature row font size adjustment, on top of archive
+        // This doesn't look good when the window size is small (i.e., on mobile devices)
+        // not using feature now
+        // font-size: 0.725em; // feature row font size adjustment, on top of archive
       }
     }
   }
@@ -374,7 +376,9 @@
         width: span(7 of 12);
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
-        font-size: 0.725em; // feature row font size adjustment, on top of archive
+        // This doesn't look good when the window size is small (i.e., on mobile devices)
+        // not using feature now
+        // font-size: 0.725em; // feature row font size adjustment, on top of archive
       }
     }
   }
@@ -417,7 +421,9 @@
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
-        font-size: 0.725em; // feature row font size adjustment, on top of archive
+        // This doesn't look good when the window size is small (i.e., on mobile devices)
+        // not using feature now
+        // font-size: 0.725em; // feature row font size adjustment, on top of archive
       }
     }
   }
