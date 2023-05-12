@@ -21,15 +21,15 @@
       <td colspan='{{ single_left.btn_num }}'>
 
         <tr><td colspan='{{ single_left.btn_num }}'>
-          <h3 class='archive__item-title'>{{ single_left.title }}</h3>
+          <h2 class='archive__item-title'>{{ single_left.title }}</h2>
         </td></tr>
 
         <tr><td colspan='{{ single_left.btn_num }}'>
-          {{ single_left.synopsis | markdownify }}
+          <div class='archive__item-excerpt'>{{ single_left.synopsis | markdownify }}</div>
         </td></tr>
 
         <tr><td colspan='{{ single_left.btn_num }}'>
-          <div class='archive__item-excerpt'>{{ single_left.citation | markdownify }}</div>
+          {{ single_left.citation | markdownify }}
         </td></tr>
 
         <tr>

@@ -74,7 +74,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 1.2em;
 
   & + p {
     text-indent: 0;
@@ -330,6 +330,7 @@
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
         width: span(7 of 12);
+        font-size: 0.725em; // feature row font size adjustment, on top of archive
       }
     }
   }
@@ -373,6 +374,7 @@
         width: span(7 of 12);
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
+        font-size: 0.725em; // feature row font size adjustment, on top of archive
       }
     }
   }
@@ -415,6 +417,7 @@
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
+        font-size: 0.725em; // feature row font size adjustment, on top of archive
       }
     }
   }

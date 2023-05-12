@@ -19,6 +19,7 @@ qsdsan:
   alt: 'Logos of QSDsan and DMsan'
   title: 'The QSDsan Platform'
   synopsis: 'QSDsan is an open-source platform in Python that integrates system design, process modeling, simulation, TEA, and LCA under uncertainty. Systems developed using QSDsan are deposited in the [EXPOsan](https://github.com/QSD-Group/EXPOsan) (exposition) repository. We also contribute to the development of other open-source tools for water and wastewater treatment, including [WaterTAP](https://watertap.readthedocs.io) funded by the National Alliance for Water Innovation (NAWI). Efforts are also underway to integrate decision-making and optimization capacities (leveraging [DMsan](https://github.com/qsD-Group/DMsan)) as well as to develop interactive education modules.'
+  citation: dsfdfawer
   image_width: 70%
   btn_num: 2
   btn_url1: 'https://qsdsan.readthedocs.io'
