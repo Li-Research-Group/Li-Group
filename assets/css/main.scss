@@ -142,6 +142,17 @@ html {
   @include notice($li-green);
 }
 
+.page__content {
+  .notice--gray,
+  .notice--blue,
+  .notice--yellow,
+  .notice--green {
+    text-align: left;
+    color: $text-color;
+  }
+}
+
+
 .search__toggle {
   color: $text-color;
   background-color: $masthead-background-color;
