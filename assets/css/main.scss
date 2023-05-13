@@ -101,3 +101,47 @@ html {
       font-size: 1.2em;
     }
   }
+
+/* other customization */
+.archive__item-excerpt {
+  font-size: 1.2em;
+}
+
+.masthead {
+  background-color: $masthead-background-color;
+
+  &__inner-wrap {
+    padding: 0em;
+
+    nav {
+      z-index: 10;
+      background-color: $masthead-background-color;
+    }
+  }
+
+  &.sticky {
+    @include clearfix();
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0em;
+    float: right;
+    padding: 0.1em;
+  }
+}
+
+.search__toggle {
+  color: $text-color;
+  background-color: $masthead-background-color;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.search-icon {
+  color: $text-color;
+
+  &__inner-wrap {
+    background-color: $masthead-background-color;
+  }
+}
