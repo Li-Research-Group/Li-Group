@@ -44,7 +44,7 @@ img[src*='#border'] {
     border: 1px solid #000000;
 }
 
-// Maybe see this for reference on fonts
+// Reference on font customization
 // https://github.com/mmistakes/minimal-mistakes/discussions/1352
 
 /* system typefaces */
@@ -127,6 +127,19 @@ html {
     float: right;
     padding: 0.1em;
   }
+}
+
+.notice--gray {
+  @include notice($li-rutgers-gray);
+}
+.notice--blue {
+  @include notice($li-mid-blue);
+}
+.notice--yellow {
+  @include notice($li-yellow);
+}
+.notice--green {
+  @include notice($li-green);
 }
 
 .search__toggle {
