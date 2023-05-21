@@ -42,12 +42,12 @@ search_provider          : lunr # lunr (default), algolia
 # Site Footer
 footer:
   links:
-    - label: 'Google Scholar'
-      icon: 'fas fa-graduation-cap'
-      url: 'https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en'
     - label: 'Curriculum Vitae'
       icon: 'fas fa-file-alt'
       url: 'https://drive.google.com/file/d/1XxD9vS4LtoyfvWILSEbQZ6toQdKhBdt4/view'
+    - label: 'Google Scholar'
+      icon: 'fas fa-graduation-cap'
+      url: 'https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en'
     - label: 'QSD-Group'
       icon: 'fab fa-fw fa-github'
       url: 'https://github.com/QSD-Group'
