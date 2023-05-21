@@ -68,15 +68,6 @@ Key course topics include the thermodynamic and kinetic basis for the compositio
 
 ---
 
-<br>
-
-### Guest Lectures
-- Tools for Sustainability
-- Water Quality Engineering
-- Water and Wastewater Treatment
-
----
-
 ## Interactive Modules
 
 I see tremendous potentials in leveraging the open-source platforms developed in my research to build interactive modules to be used in the classroom. My goal is to make these experiences accessible to everyone - regardless of individuals' programing skills.
