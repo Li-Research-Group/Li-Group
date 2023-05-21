@@ -17,7 +17,7 @@ Rutgers:
   image_width: 90%
 ---
 
-## Join Us
+## Graduate Positions
 
 There are multiple fully funded graduate student positions in Spring or Fall 2024. If you would like to join our group, please reach out to Dr. Li.
 
@@ -50,6 +50,10 @@ Interested candidates should contact Dr. Li through email ([yalinli2@illinois.ed
 
 More information on the graduate programs, including application requirements and deadlines, can be found through the [department website](https://cee.rutgers.edu/graduate-engineering).
 
+
+## Undergraduate Research Opportunities
+
+If you are an undergraduate student and interested to get research experiences from our group, you are welcome to contact Dr. Li (email [yalinli2@illinois.edu](mailto:yalinli2@illinois.edu) and cc [mailto.yalin.li@gmail.com](mailto:mailto.yalin.li@gmail.com)) with the subject line: **Undergraduate Research Opportunity: \<YOUR NAME\>**. Please indicate your academic/research experiences in the email with your CV/resume.
 
 
 ## About Rutgers–New Brunswick
