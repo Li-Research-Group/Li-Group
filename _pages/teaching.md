@@ -38,7 +38,7 @@ ees:
 
 ### Sustainable Design of Water-Energy Systems
 
-The goals of this course are to (i) introduce the concept and method of sustainability design in the context of engineering system design, and (ii) leverage the quantitative sustainable design (QSD) methodology and the open-source platforms in my research for case studies and group projects to engage students with practical applications.
+The goals of this course are to (i) introduce the concept and method of sustainability design in the context of engineering system design, and (ii) leverage the quantitative sustainable design (QSD) methodology and the open-source platforms in my research for case studies and group projects to engage students with practical applications. Check out the [course flyer](https://drive.google.com/file/d/1H-jCpCuH03X1f6CYXQooAZBieMRMUdwS/view?usp=share_link) for Fall 2023.
 
 <br>
 <img src='/images/teaching/quantitative_sustainable_design.png#center' alt='Sustainable design' width='80%' id='image'>
