@@ -21,20 +21,20 @@ Rutgers:
 
 There are multiple fully funded graduate student positions in Spring or Fall 2024. If you would like to join our group, please reach out to Dr. Li.
 
-### Position 1: USDA FORWARD (modeling, Spring 2024)
+### Position 1: USDA FORWARD (modeling)
 This area is funded by a recently awarded $2.5 million USDA project – [Pave the Way: From Organic Waste to Renewable Road with Advanced Resource Recovery Delineation (FORWARD)](https://www.nifa.usda.gov/about-nifa/press-releases/usda-invests-95m-develop-new-bioproducts-agricultural-commodities). The student will lead the development of open-source modules in the [QSDsan](https://qsdsan.readthedocs.io) platform for process simulation, techno-economic analysis (TEA), and life cycle assessment (LCA) of a pilot-scale hydrothermal system for biobinder production for road construction using food waste and swine manure.
 
-### Position 2: sustainable design (modeling, Fall 2024)
+### Position 2: sustainable design (modeling)
 This area will work on the development of open-source platforms including [QSDsan](https://qsdsan.readthedocs.io) and [BioSTEAM](https://biosteam.readthedocs.io) for sustainable design of water and energy infrastructure, including centralized wastewater treatment facilities, non-sewered sanitation systems, and emerging technologies for waste valorization as well as bioenergy and bioproducts.
 
-### Position 3: resource recovery (experimentation, Fall 2024)
+### Position 3: resource recovery (experimentation)
 This area will focus on advancing hydrothermal systems for resource recovery from wet organic wastes (e.g., food waste, sewage sludge), including the production of drop-in biofuels (e.g., sustainable aviation fuels), platform chemicals, renewable materials (e.g., biobinders), fertilizers (e.g., struvite), and soil amendment (e.g., biochar).
 
 We welcome applications from candidates with an undergraduate or MS (preferred for PhD students) degree in Environmental Engineering, Environmental Science, Chemical Engineering, or other related fields. The ideal candidates should be self-motivated, able to work independently as well as collaboratively as part of a team, and have excellent written and oral communication skills. 
 
 **Though not required, the following experiences are highly desired:**
-* Modeling-focused: process modeling (GPS-X, BioWin, CapdetWorks, Aspen Plus, SuperPro Designer), TEA, LCA (openLCA, SimaPro, GREET), geographic modeling (ArcGIS), and programming (Python in particular).
-* Experimentation-focused: wet lab skills and experiences with hydrothermal conversion for biofuel or biochar (e.g., hydrothermal liquefaction or carbonization), catalytic hydrothermal gasification, hydrotreating, product characterization, and analytical instrument (e.g., GC, HPLC).
+* Modeling-focused: process modeling (GPS-X, BioWin, Aspen Plus, SuperPro Designer), TEA, LCA (openLCA, SimaPro, GREET), geographic modeling (ArcGIS), or programming (Python in particular).
+* Experimentation-focused: wet lab skills and experiences with hydrothermal conversion for biofuel or biochar (e.g., hydrothermal liquefaction or carbonization), catalytic hydrothermal gasification, hydrotreating, product characterization, or analytical instrument (e.g., GC, HPLC).
 
 All positions will cover tuition with a competitive stipend and benefits including health insurance. The students will work in a supportive research environment with state-of-the-art facilities and will be engaged in multidisciplinary collaboration for convergence research. Dr. Li will work closely with the students to provide tailored mentoring plans based on their career goals, and will fund activities for professional development (e.g., conferences and workshops for research and leadership development).
 

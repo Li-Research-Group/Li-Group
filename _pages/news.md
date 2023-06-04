@@ -7,6 +7,9 @@ header:
   text_color: black
 ---
 
+**[May 2023]** The paper **Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors** has been accepted by *ACS Omega*. Read the [**Paper**](https://doi.org/10.1021/acsomega.3c01975).
+{: .notice--gray}
+
 **[May 2023]** We are hiring! There are multiple fully funded graduate student positions in Spring or Fall 2024. Check out the [**Join**](/join) page for details!
 {: .notice--blue}
 

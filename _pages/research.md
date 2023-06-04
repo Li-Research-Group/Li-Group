@@ -11,13 +11,23 @@ header:
 
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
+`24.` [Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors](https://doi.org/10.1021/acsomega.3c01975)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acsomega.3c01975/asset/images/medium/ao3c01975_0006.gif#TOC)
+
+Catalytic hydrothermal processing is a promising technology for the production of biofuels used in transportation to alleviate the energy crisis. An important challenge for these processes is the need for an external supply of hydrogen gas to accelerate the deoxygenation of fatty acids or lipids. This study reports on the use of various alcohol and carboxylic acid amendments as sources for in situ hydrogen production to accelerate Ru/C-catalyzed hydrothermal deoxygenation of stearic acid. Addition of these amendments significantly increases yields of liquid hydrocarbon products, including the major product heptadecane, from stearic acid conversion at subcritical conditions (330 °C, 14–16 MPa during the reaction). This research provided guidance for simplifying the catalytic hydrothermal process of biofuel production, making the production of the desired biofuel in one pot possible without the need for an external H<sub>2</sub> supply.
+
+J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors. *ACS Omega* In Press, 2023.
+
+---
+
 `23.` [Advancing the economic and environmental sustainability of the NEWgenerator non-sewered sanitation system](https://pubs.acs.org/doi/10.1021/acsenvironau.3c00001)
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.3c00001/asset/images/medium/vg3c00001_0008.gif#TOC)
 
 Achieving safely managed sanitation and resource recovery in areas that are rural, geographically challenged, or experiencing rapidly increasing population density may not be feasible with centralized facilities due to space requirements, site-specific concerns, and high costs of sewer installation. Nonsewered sanitation (NSS) systems have the potential to provide safely managed sanitation and achieve strict wastewater treatment standards. One such NSS treatment technology is the NEWgenerator, which includes an anaerobic membrane bioreactor (AnMBR), nutrient recovery via ion exchange, and electrochlorination. The system has been shown to achieve robust treatment of real waste for over 100 users, but the technology’s relative life cycle sustainability remains unclear. This study characterizes the financial viability and life cycle environmental impacts of NEWgenerator and prioritizes opportunities to advance system sustainability through targeted improvements and deployment.
 
-S. Watabe, H. A. C. Lohman, Y. Li, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y. Shyu, R. A. Bair, C. J. Castro, R. D. Cusick, D. H. Yeh, and J. S. Guest. *ACS Environmental Au* In Press, 2023.
+S. Watabe, H. A. C. Lohman, **Y. Li**, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y. Shyu, R. A. Bair, C. J. Castro, R. D. Cusick, D. H. Yeh, and J. S. Guest. *ACS Environmental Au* In Press, 2023.
 
 ---
 
@@ -27,7 +37,7 @@ S. Watabe, H. A. C. Lohman, Y. Li, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y.
 
 In resource-limited settings, conventional sanitation systems often fail to meet their goals – with system failures stemming from a mismatch among community needs, constraints, and deployed technologies. This work introduces a multi-criteria decision analysis framework and the open-source tool DMsan for the sustainability analyses of sanitation and resource recovery technologies.
 
-H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, S. M. Cook, and J. S. Guest.  *ACS Environmental Au* In Press, 2023.
+H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, S. M. Cook, and J. S. Guest.  *ACS Environmental Au* **2023**, *3* (3), 179–192.
 
 ---
 
