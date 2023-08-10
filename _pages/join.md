@@ -24,7 +24,7 @@ Currently there are no openings in the group. When new opportunities occur, I wi
 
 ## Undergraduate Research Opportunities
 
-If you are an undergraduate student and interested to get research experiences from our group, you are welcome to contact Dr. Li (email [yalinli2@illinois.edu](mailto:yalinli2@illinois.edu) and cc [mailto.yalin.li@gmail.com](mailto:mailto.yalin.li@gmail.com)) with the subject line: **Undergraduate Research Opportunity: \<YOUR NAME\>**. Please indicate your academic/research experiences in the email with your CV/resume.
+If you are an undergraduate student and interested to get research experiences from our group, you are welcome to contact Dr. Li (email [yalin.li@rutgers.edu](mailto:yalin.li@rutgers.edu)) with the subject line: **Undergraduate Research Opportunity: \<YOUR NAME\>**. Please indicate your academic/research experiences in the email with your CV/resume.
 
 
 ## About Rutgers–New Brunswick
@@ -36,7 +36,7 @@ If you are an undergraduate student and interested to get research experiences f
 contact:
   title: 'Join Us!'
   text: 'There are multiple fully funded graduate student positions in Spring or Fall 2024. If you would like to join our group, please reach out to Dr. Li.'
-  btn_url: 'mailto:mailto.yalin.li@gmail.com'
+  btn_url: 'mailto:yalin.li@rutgers.edu'
   btn_label: 'Email'
 
 {% include contact id='contact' %}
