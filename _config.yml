@@ -42,9 +42,6 @@ search_provider          : lunr # lunr (default), algolia
 # Site Footer
 footer:
   links:
-    - label: 'Email'
-      icon: 'fas fa-envelope'
-      url: 'mailto:yalin.li@rutgers.edu'
     - label: 'Curriculum Vitae'
       icon: 'fas fa-file-alt'
       url: 'https://drive.google.com/file/d/1XxD9vS4LtoyfvWILSEbQZ6toQdKhBdt4/view'
