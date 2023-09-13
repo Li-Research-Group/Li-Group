@@ -9,7 +9,7 @@ header:
 Rutgers:
   image_path: /images/rutgers.png
   alt: 'Rutgers University'
-  synopsis: 'Founded in 1766, [Rutgers–New Brunswick](https://newbrunswick.rutgers.edu) is the flagship location of [Rutgers University](https://www.rutgers.edu). It is New Jersey’s No. 1 public research university, a Top 20 public national university (*U.S. News & World Report*), and a member of the Association of American Universities and the Big Ten Academic Alliance. 
+  synopsis: 'Founded in 1766, [Rutgers–New Brunswick](https://newbrunswick.rutgers.edu) is the flagship location of [Rutgers University](https://www.rutgers.edu) (Rutgers, The State University of New Jersey). It is New Jersey’s No. 1 public research university, a Top 20 public national university (*U.S. News & World Report*), and a member of the Association of American Universities and the Big Ten Academic Alliance. 
 
   <br><br> The [CEE department](https://cee.rutgers.edu) is housed in the new Richard Weeks Hall of Engineering in the Busch Campus, which is conveniently situated in central New Jersey and near the major urban centers of New York City, Philadelphia, and the iconic Jersey Shore.
 
@@ -30,6 +30,8 @@ If you are an undergraduate student and interested to get research experiences f
 ## About Rutgers–New Brunswick
 
 {% include single_left id='Rutgers' %}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.772056580656!2d-74.4621901235605!3d40.5245290714224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3c7734b10144d%3A0xa74dcfc1e6ea23ab!2s500%20Bartholomew%20Rd%2C%20Piscataway%2C%20NJ%2008854!5e0!3m2!1sen!2sus!4v1694572822450!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!-- Old codes using the contact layout
 
