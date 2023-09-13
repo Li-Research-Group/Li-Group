@@ -40,7 +40,7 @@ ees:
 
 Through this course, students will develop an understanding of quantitative sustainable design (QSD) and how to navigate engineering decision-making. Students will learn methods and tools for economic (techno-economic analysis, TEA; life cycle costing, LCC) and environmental (life cycle assessment, LCA) sustainability assessments, and how to link these tools to engineering design decisions under uncertainty. Students will apply these tools to design their engineered systems of interest, with special attention to water and energy infrastructure, water quality processes, resource recovery, green chemistry, and bioenergy/bioproducts.
 
-Check out the [course flyer](https://drive.google.com/file/d/1H-jCpCuH03X1f6CYXQooAZBieMRMUdwS/view?usp=share_link) for Fall 2023.
+Check out the [course flyer](https://drive.google.com/file/d/1t_jPm0EzRcYOeHgUdtjyL_ZtY4LEXUyR/view?usp=sharing) for Fall 2023.
 
 <br>
 <img src='/images/teaching/sustainable_design.png#center' alt='Sustainable design' width='80%' id='image'>
