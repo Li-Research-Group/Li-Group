@@ -7,6 +7,9 @@ header:
   text_color: black
 ---
 
+**[Fall 2023]** [Ali](/members#graduate-students) joined the group as a Ph.D. student. He will lead our [USDA project](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=98256&format=WEBLINK) that examines the sustainability of a hydrothermal system that converts swine manure and other organic feedstocks into biobinders for asphalt that increase the quality of recycled asphalt pavements.
+{: .notice--blue}
+
 **[May 2023]** The paper **Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors** has been accepted by *ACS Omega*. Read the [**Paper**](https://doi.org/10.1021/acsomega.3c01975).
 {: .notice--gray}
 

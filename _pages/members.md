@@ -41,6 +41,10 @@ Ahmad:
 
 {% include single_left id='Ahmad' %}
 
+## Undergraduate Researchers
+
+Xavier Lennard (Biochemistry, LSAMP Spring 2024)
+
 <!-- Old codes for reference
 
 Yalin Li:
