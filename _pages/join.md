@@ -9,7 +9,7 @@ header:
 Rutgers:
   image_path: /images/rutgers.png
   alt: 'Rutgers University'
-  synopsis: 'Founded in 1766, [Rutgers–New Brunswick](https://newbrunswick.rutgers.edu) is the flagship location of [Rutgers University](https://www.rutgers.edu) (Rutgers, The State University of New Jersey). It is New Jersey’s No. 1 public research university, a Top 20 public national university (*U.S. News & World Report*), and a member of the Association of American Universities and the Big Ten Academic Alliance. 
+  synopsis: 'Founded in 1766, [Rutgers–New Brunswick](https://newbrunswick.rutgers.edu) is the flagship location of [Rutgers University](https://www.rutgers.edu) (Rutgers, The State University of New Jersey). It is New Jersey’s No. 1 public research university, a Top 15 public national university (*U.S. News & World Report 2024*), and a member of the Association of American Universities and the Big Ten Academic Alliance. 
 
   <br><br> The [CEE department](https://cee.rutgers.edu) is housed in the new Richard Weeks Hall of Engineering in the Busch Campus, which is conveniently situated in central New Jersey and near the major urban centers of New York City, Philadelphia, and the iconic Jersey Shore.
 
@@ -19,12 +19,12 @@ Rutgers:
 
 ## Graduate Positions
 
-Currently there are no openings in the group. When new opportunities occur, I will advertise on AEESP's [job board](https://www.aeesp.org/jobs). I will also look through students already admitted to Rutgers, and you can learn more about the application process on CEE's [website](https://cee.rutgers.edu/apply-1).
+Currently there are no openings in the group. When new opportunities arise, we will advertise on AEESP's [job board](https://www.aeesp.org/jobs). We will also look through students already admitted to Rutgers, and you can learn more about the application process on CEE's [website](https://cee.rutgers.edu/apply-1).
 
 
 ## Undergraduate Research Opportunities
 
-If you are an undergraduate student and interested to get research experiences from our group, you are welcome to contact Dr. Li (email [yalin.li@rutgers.edu](mailto:yalin.li@rutgers.edu)) with the subject line: **Undergraduate Research Opportunity: \<YOUR NAME\>**. Please indicate your academic/research experiences in the email with your CV/resume.
+Rutgers provides many research opportunities for undergraduate students through the [Aresty Research Center](https://aresty.rutgers.edu/) and [LSAMP](https://lsamp-nb.rutgers.edu/) program (during the semester and summer). If you are an undergraduate student and interested to get research experiences from our group, be sure to check out our projects in these programs.
 
 
 ## About Rutgers–New Brunswick
