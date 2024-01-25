@@ -6,6 +6,8 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Jan 2024]** Happy new year! The paper **Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.3c07394).
+{: .notice--gray}
 
 **[Fall 2023]** [Ali](/members#graduate-students) joined the group as a Ph.D. student. He will lead our [USDA project](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=98256&format=WEBLINK) that examines the sustainability of a hydrothermal system that converts swine manure and other organic feedstocks into biobinders for asphalt that increase the quality of recycled asphalt pavements.
 {: .notice--blue}

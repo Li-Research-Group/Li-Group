@@ -11,13 +11,27 @@ header:
 
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
+### 2024
+
+`25.` [Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes](https://doi.org/10.1021/acs.est.3c07394)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acs.est.3c07394/asset/images/medium/es3c07394_0006.gif#TOC)
+
+Resource recovery from wet organic wastes can support circular economies by creating financial incentives to produce renewable energy and return nutrients to agriculture. In this study, we characterize the potential for hydrothermal liquefaction (HTL)-based resource recovery systems to advance the economic and environmental sustainability of wastewater sludge, FOG (fats, oils, and grease), food waste, green waste, and animal manure management through the production of liquid biofuels (naphtha, diesel), fertilizers (struvite, ammonium sulfate), and power (heat, electricity). Overall, our work demonstrates the potential of HTL-based resource recovery systems to reduce the costs and carbon intensity of resource-rich organic wastes.
+
+J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes. *Environ. Sci. Technol.* 2024. https://doi.org/10.1021/acs.est.3c07394.
+
+---
+
+### 2023
+
 `24.` [Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors](https://doi.org/10.1021/acsomega.3c01975)
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acsomega.3c01975/asset/images/medium/ao3c01975_0006.gif#TOC)
 
 Catalytic hydrothermal processing is a promising technology for the production of biofuels used in transportation to alleviate the energy crisis. An important challenge for these processes is the need for an external supply of hydrogen gas to accelerate the deoxygenation of fatty acids or lipids. This study reports on the use of various alcohol and carboxylic acid amendments as sources for in situ hydrogen production to accelerate Ru/C-catalyzed hydrothermal deoxygenation of stearic acid. Addition of these amendments significantly increases yields of liquid hydrocarbon products, including the major product heptadecane, from stearic acid conversion at subcritical conditions (330 °C, 14–16 MPa during the reaction). This research provided guidance for simplifying the catalytic hydrothermal process of biofuel production, making the production of the desired biofuel in one pot possible without the need for an external H<sub>2</sub> supply.
 
-J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors. *ACS Omega* In Press, 2023.
+J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors. *ACS Omega* **2023**, *8* (22), 19969–19975.
 
 ---
 
@@ -27,7 +41,7 @@ J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. Catalytic H
 
 Achieving safely managed sanitation and resource recovery in areas that are rural, geographically challenged, or experiencing rapidly increasing population density may not be feasible with centralized facilities due to space requirements, site-specific concerns, and high costs of sewer installation. Nonsewered sanitation (NSS) systems have the potential to provide safely managed sanitation and achieve strict wastewater treatment standards. One such NSS treatment technology is the NEWgenerator, which includes an anaerobic membrane bioreactor (AnMBR), nutrient recovery via ion exchange, and electrochlorination. The system has been shown to achieve robust treatment of real waste for over 100 users, but the technology’s relative life cycle sustainability remains unclear. This study characterizes the financial viability and life cycle environmental impacts of NEWgenerator and prioritizes opportunities to advance system sustainability through targeted improvements and deployment.
 
-S. Watabe, H. A. C. Lohman, **Y. Li**, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y. Shyu, R. A. Bair, C. J. Castro, R. D. Cusick, D. H. Yeh, and J. S. Guest. *ACS Environmental Au* In Press, 2023.
+S. Watabe, H. A. C. Lohman, **Y. Li**, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y. Shyu, R. A. Bair, C. J. Castro, R. D. Cusick, D. H. Yeh, and J. S. Guest. *ACS Environ. Au* **2023**, *3* (4), 209–222.
 
 ---
 
@@ -37,7 +51,7 @@ S. Watabe, H. A. C. Lohman, **Y. Li**, V. L. Morgan, L. S. Rowles, T. Stephen, H
 
 In resource-limited settings, conventional sanitation systems often fail to meet their goals – with system failures stemming from a mismatch among community needs, constraints, and deployed technologies. This work introduces a multi-criteria decision analysis framework and the open-source tool DMsan for the sustainability analyses of sanitation and resource recovery technologies.
 
-H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, S. M. Cook, and J. S. Guest.  *ACS Environmental Au* **2023**, *3* (3), 179–192.
+H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, S. M. Cook, and J. S. Guest.  *ACS Environ. Au* **2023**, *3* (3), 179–192.
 
 ---
 
@@ -97,7 +111,7 @@ D. Zeng, **Y. Li**, T. Xia, F. Cui, and J. Zhang. *ACS Omega* **2022**, *7* (37)
 
  In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
 
-L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C. Lohman, D. DeSouza, J. Hallowell, R. D. Cusick, and J. S. Guest. *ACS Environmental Au* **2022**, *2* (5), 455–466.
+L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C. Lohman, D. DeSouza, J. Hallowell, R. D. Cusick, and J. S. Guest. *ACS Environ. Au* **2022**, *2* (5), 455–466.
 
 ---
 
