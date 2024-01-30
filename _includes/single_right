@@ -14,7 +14,7 @@
     <tr>
       <td colspan='{{ single_right.btn_num }}'>
         <tr>
-          <td colspan='{{ single_right.btn_num }}' style='text-align:right !important;'>
+          <td colspan='{{ single_right.btn_num }}' style='text-align:left !important;'>
             <h2 class='archive__item-title'>{{ single_right.title }}</h2>
           </td>
 
@@ -25,11 +25,11 @@
           </td>
         </tr>
 
-        <tr><td colspan='{{ single_right.btn_num }}' style='text-align:right !important;'>
+        <tr><td colspan='{{ single_right.btn_num }}' style='text-align:left !important;'>
           <div class='archive__item-excerpt'>{{ single_right.synopsis | markdownify }}</div>
         </td></tr>
 
-        <tr><td colspan='{{ single_right.btn_num }}' style='text-align:right !important;'>
+        <tr><td colspan='{{ single_right.btn_num }}' style='text-align:left !important;'>
           {{ single_right.citation | markdownify }}
         </td></tr>
 
