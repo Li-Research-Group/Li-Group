@@ -19,7 +19,7 @@ Rutgers:
 
 ## Graduate Positions
 
-Currently there are no openings in the group. When new opportunities arise, we will advertise on AEESP's [job board](https://www.aeesp.org/jobs). We will also look through students already admitted to Rutgers, and you can learn more about the application process on CEE's [website](https://cee.rutgers.edu/apply-1).
+We are hiring a graduate student for this Fall! Sustainable design, techno-economic analysis (TEA), and life cycle assessment (LCA) of water, energy, and civil infrastructure. Contact me at [yalin.li@rutgers.edu](mailto:yalin.li@rutgers.edu) for questions; see details at [https://go.rutgers.edu/gmf200oi](https://go.rutgers.edu/gmf200oi); apply at [https://go.rutgers.edu/a9m5et5e](https://go.rutgers.edu/a9m5et5e).
 
 
 ## Undergraduate Research Opportunities

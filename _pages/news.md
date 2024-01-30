@@ -6,6 +6,9 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Jan 2024]** We are hiring! One funded graduate student position for Fall 2024. Check out the [**Join**](/join) page for details!
+{: .notice--blue}
+
 **[Jan 2024]** Happy new year! The paper **Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.3c07394).
 {: .notice--gray}
 
