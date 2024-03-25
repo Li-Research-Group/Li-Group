@@ -30,6 +30,17 @@ Ahmad:
         [Google Scholar](https://scholar.google.com/citations?user=BPuda6sAAAAJ&hl=en)
         </strong>'
   image_width: 70%
+
+Lennard:
+  image_path: https://media.licdn.com/dms/image/C4E03AQGHm8A2TkByZA/profile-displayphoto-shrink_800_800/0/1653169443053?e=1717027200&v=beta&t=2AxWRarBKW1x-KmNmu1N3CM8V7z5q-3F-lYh5hAeD6w
+  alt: 'Photo of Xavier'
+  title: 'Xavier Lennard'
+  synopsis: 'Xavier Lennard, a Biochemistry major at the Rutgers School of Environmental and Biological Sciences, class of 2025, is actively engaged in research as an LSAMP Scholar at Li Research group. The [LSAMP](http://gslsamp.rutgers.edu/) program aims to enhance diversity and inclusion within non-medical STEM research fields, offering valuable experience to its participants.
+
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/xavier-lennard-43a53223b/)
+        </strong>'
+  image_width: 60%
 ---
 
 ## Lead
@@ -43,7 +54,9 @@ Ahmad:
 
 ## Undergraduate Researchers
 
-Xavier Lennard (Biochemistry, LSAMP Spring 2024)
+{% include single_left id='Lennard' %}
+
+**Naman Shah** (Computer Science/Data Science, [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) 2024)
 
 <!-- Old codes for reference
 
