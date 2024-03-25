@@ -6,7 +6,13 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
-**[Jan 2024]** We are hiring! One funded graduate student position for Fall 2024. Check out the [**Join**](/join) page for details!
+**[Mar 2024]** [Ali](/members#graduate-students) presented his work at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/)!
+{: .notice--yellow}
+
+<br>
+<img src='/images/news/2024-03-27_ahmad_rising star.jpg' alt='Ali explaining his research' width='50%' id='image'>
+
+**[Jan 2024]** We are hiring! One funded graduate student position for Fall 2024. Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
 **[Jan 2024]** Happy new year! The paper **Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.3c07394).
@@ -48,9 +54,10 @@ header:
 <!-- Save for future reference, 
 
 Color codes, consider overriding the color scheme for a darker Rutgers gray for general
-{: .notice--gray} - general (papers, presentations, etc.)
 {: .notice--blue} - personnel (new members, graduation, etc.)
+{: .notice--gray} - papers
 {: .notice--green} - grants, fellowships, etc.
+{: .notice--yellow} - presentations/student updates
 
 Minimal Mistakes' examples:
 https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/#top
