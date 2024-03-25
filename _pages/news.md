@@ -8,9 +8,7 @@ header:
 ---
 **[Mar 2024]** [Ali](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/)!
 {: .notice--yellow}
-
-<br>
-<img src='/images/news/2024-03-27_ahmad_rising star.jpg' alt='Ali explaining his research' width='50%' id='image'>
+<img src='/images/news/2024-03-27_ahmad_rising star.jpg' alt='Ali explaining his research' width='30%' id='image'>
 
 **[Jan 2024]** We are hiring! One funded graduate student position for Fall 2024. Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
