@@ -32,13 +32,25 @@ Ahmad:
   image_width: 70%
 
 Lennard:
-  image_path: https://media.licdn.com/dms/image/C4E03AQGHm8A2TkByZA/profile-displayphoto-shrink_800_800/0/1653169443053?e=1717027200&v=beta&t=2AxWRarBKW1x-KmNmu1N3CM8V7z5q-3F-lYh5hAeD6w
+  image_path: /images/members/Xavier_Lennard.jpg
   alt: 'Photo of Xavier'
   title: 'Xavier Lennard'
   synopsis: 'Xavier Lennard, a Biochemistry major at the Rutgers School of Environmental and Biological Sciences, class of 2025, is actively engaged in research as an LSAMP Scholar at Li Research group. The [LSAMP](http://gslsamp.rutgers.edu/) program aims to enhance diversity and inclusion within non-medical STEM research fields, offering valuable experience to its participants.
 
    <br><br> <strong>
         [LinkedIn](https://www.linkedin.com/in/xavier-lennard-43a53223b/)
+        </strong>'
+  image_width: 60%
+
+Shah:
+  image_path: /images/members/Naman_Shah.jpeg
+  alt: 'Photo of Naman'
+  title: 'Naman Shah'
+  synopsis: 'Naman Shah is a rising sophomore majoring in Computer Science and Data Science at Rutgers University. He has been working in developing Python scripts for over two years. He has been awarded as the winner of Datathon by the Rutgers University Data Science in Spring 2024 for his work in analyzing data from Starbucks and Dunkin Donuts. He is drawn to work on QSDsan and BioSTEAM to bioprocess engineering and resource recovery, specifically for the New Jersey Waste. He is a 2024 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar.
+
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/naman-shah26) &nbsp; | &nbsp;
+        [GitHub](https://github.com/navronaman)
         </strong>'
   image_width: 60%
 ---
@@ -56,7 +68,7 @@ Lennard:
 
 {% include single_left id='Lennard' %}
 
-**Naman Shah** (Computer Science/Data Science, [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) 2024)
+{% include single_left id='Shah' %}
 
 <!-- Old codes for reference
 
