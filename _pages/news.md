@@ -6,7 +6,14 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
-**[Mar 2024]** [Ali](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/)!
+**[May 2024]** [Ali](/members#graduate-students) presented his work on the sustainability evaluation of point-of-use water disinfection technologies at the [2024 World Environmental & Water Resources Congress](https://www.ewricongress.org/).
+{: .notice--yellow}
+<img src='/images/news/2024-05-21_ahmad_ewri.jpg' alt='Ali explaining his research' width='70%' id='image'>
+
+**[Apr 2024]** The paper **Intensive Microalgal Cultivation and Tertiary Phosphorus Recovery from Wastewaters via the EcoRecover Process** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://pubs.acs.org/doi/10.1021/acs.est.3c10264).
+{: .notice--gray}
+
+**[Mar 2024]** [Ali](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/).
 {: .notice--yellow}
 <img src='/images/news/2024-03-27_ahmad_rising star.jpg' alt='Ali explaining his research' width='30%' id='image'>
 

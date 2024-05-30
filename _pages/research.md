@@ -13,13 +13,23 @@ For the most up-to-date list, please refer to my [Google Scholar](https://schola
 
 ### 2024
 
+`26.` [CCharacterization of the EcoRecover process for intensive microalgal cultivation and tertiary nutrient recovery from wastewaters](https://doi.org/10.1021/acs.est.3c10264)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acs.est.3c10264/asset/images/medium/es3c10264_0007.gif#TOC)
+
+Mixed community microalgal wastewater treatment technologies have the potential to advance the limits of technology for biological nutrient recovery while producing a renewable carbon feedstock, but a deeper understanding of their performance is required for system optimization and control. In this study, we characterized the performance of a 568 m3·day–1 Clearas EcoRecover system for tertiary phosphorus removal (and recovery as biomass) at an operating water resource recovery facility (WRRF).
+
+H. R. Molitor, G.-Y. Kim, E. Hartnett, B. Gincley, M. M. Alam, J. Feng, N. M. Avila, A. Fisher, M. Hodaei, **Y. Li**, K. McGraw, R. D. Cusick, I. M. Bradley, A. J. Pinto, and J. S. Guest. Intensive Microalgal Cultivation and Tertiary Phosphorus Recovery from Wastewaters via the EcoRecover Process. *Environ. Sci. Technol.* **2024**, *58* (20), 8803–8814.
+
+---
+
 `25.` [Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes](https://doi.org/10.1021/acs.est.3c07394)
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acs.est.3c07394/asset/images/medium/es3c07394_0006.gif#TOC)
 
 Resource recovery from wet organic wastes can support circular economies by creating financial incentives to produce renewable energy and return nutrients to agriculture. In this study, we characterize the potential for hydrothermal liquefaction (HTL)-based resource recovery systems to advance the economic and environmental sustainability of wastewater sludge, FOG (fats, oils, and grease), food waste, green waste, and animal manure management through the production of liquid biofuels (naphtha, diesel), fertilizers (struvite, ammonium sulfate), and power (heat, electricity). Overall, our work demonstrates the potential of HTL-based resource recovery systems to reduce the costs and carbon intensity of resource-rich organic wastes.
 
-J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes. *Environ. Sci. Technol.* 2024. https://doi.org/10.1021/acs.est.3c07394.
+J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes. *Environ. Sci. Technol.* **2024**, *58* (5), 2528–2541.
 
 ---
 
