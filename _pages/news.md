@@ -6,6 +6,11 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability (PreFerS), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead!
+{: .notice--green}
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7208533847087435776" height="961" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **[May 2024]** [Ali](/members#graduate-students) presented his work on the sustainability evaluation of point-of-use water disinfection technologies at the [2024 World Environmental & Water Resources Congress](https://www.ewricongress.org/).
 {: .notice--yellow}
 <img src='/images/news/2024-05-21_ahmad_ewri.jpg' alt='Ali explaining his research' width='70%' id='image'>
