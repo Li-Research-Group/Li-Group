@@ -6,6 +6,9 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Jul 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [Ali](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
+{: .notice--gray}
+
 **[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability (PreFerS), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead!
 {: .notice--green}
 
