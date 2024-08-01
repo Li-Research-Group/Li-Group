@@ -6,6 +6,10 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Aug 2024]** [Naman, Xavier, and Venus](/members#graduate-students) (left to right in the photo) presented their work at the [2024 Summer Research Symposium](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
+{: .notice--yellow}
+<img src='/images/news/2024-08-01_summer_symposium.png' alt='Naman, Xavier, and Venus presentations' width='100%' id='image'>
+
 **[Jul 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [Ali](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
 {: .notice--gray}
 
