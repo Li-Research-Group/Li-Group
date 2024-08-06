@@ -6,6 +6,9 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Jul 2024]** We are one of the awardees for the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
+{: .notice--green}
+
 **[Aug 2024]** [Naman, Xavier, and Venus](/members#graduate-students) (left to right in the photo) presented their work at the [2024 Summer Research Symposium](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
 {: .notice--yellow}
 <img src='/images/news/2024-08-01_summer_symposium.png' alt='Naman, Xavier, and Venus presentations' width='100%' id='image'>
@@ -13,10 +16,8 @@ header:
 **[Jul 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [Ali](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
 {: .notice--gray}
 
-**[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability (PreFerS), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead!
+**[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability (PreFerS), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead! Read the [**News Release**](https://www.igb.illinois.edu/wheeler/article/148m-grant-supports-singapore-partnership-precision-fermentation).
 {: .notice--green}
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7208533847087435776" height="961" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 **[May 2024]** [Ali](/members#graduate-students) presented his work on the sustainability evaluation of point-of-use water disinfection technologies at the [2024 World Environmental & Water Resources Congress](https://www.ewricongress.org/).
 {: .notice--yellow}
@@ -41,7 +42,7 @@ header:
 **[May 2023]** The paper **Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors** has been accepted by *ACS Omega*. Read the [**Paper**](https://doi.org/10.1021/acsomega.3c01975).
 {: .notice--gray}
 
-**[May 2023]** We are hiring! There are multiple fully funded graduate student positions in Spring or Fall 2024. Check out the [**Join**](/join) page for details!
+**[May 2023]** We are hiring! There are multiple fully funded graduate student positions in Spring or Fall 2024. Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
 **[May 2023]** The paper **Advancing the Economic and Environmental Sustainability of the NEWgenerator Nonsewered Sanitation System** has been accepted by *ACS Environmental Au*. Read the [**Paper**](https://doi.org/10.1021/acsenvironau.3c00001).
