@@ -21,7 +21,7 @@ Li:
   image_width: 60%
 
 Ahmad:
-  image_path: /images/members/Ali_Ahmad.jpg
+  image_path: /images/members/ali_ahmad.jpg
   alt: 'Photo of Ali'
   title: 'Ali Ahmad'
   synopsis: 'Ali received his Chemical Engineering B.S. from Bangladesh University of Engineering & Technology (BUET) and Renewable Energy Technology M.S. from the University of Dhaka. He is currently pursuing a Ph.D. degree in Civil & Environmental Engineering from Rutgers, the State University of New Jersey, New Brunswick. His research interest lies in the intersection of sustainability assessment tools and applied machine learning.
@@ -32,7 +32,7 @@ Ahmad:
   image_width: 60%
 
 Lennard:
-  image_path: /images/members/Xavier_Lennard.jpg
+  image_path: /images/members/xavier_lennard.jpg
   alt: 'Photo of Xavier'
   title: 'Xavier Lennard'
   synopsis: 'Xavier Lennard, a Biochemistry major at the Rutgers School of Environmental and Biological Sciences, class of 2025, is actively engaged in research as an LSAMP Scholar at Li Research group. The [LSAMP](http://gslsamp.rutgers.edu/) program aims to enhance diversity and inclusion within non-medical STEM research fields, offering valuable experience to its participants.
@@ -43,7 +43,7 @@ Lennard:
   image_width: 60%
 
 Shah:
-  image_path: /images/members/Naman_Shah.jpg
+  image_path: /images/members/naman_shah.jpg
   alt: 'Photo of Naman'
   title: 'Naman Shah'
   synopsis: 'Naman Shah is a rising sophomore majoring in Computer Science and Data Science at Rutgers University. He has been working in developing Python scripts for over two years. He has been awarded as the winner of Datathon by the Rutgers University Data Science in Spring 2024 for his work in analyzing data from Starbucks and Dunkin Donuts. He is drawn to work on QSDsan and BioSTEAM to bioprocess engineering and resource recovery, specifically for the New Jersey Waste. He is a 2024 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar.
@@ -55,7 +55,7 @@ Shah:
   image_width: 60%
 
 Ikinnagbon:
-  image_path: /images/members/Venus_Ikinnagbon.jpg
+  image_path: /images/members/venus_ikinnagbon.jpg
   alt: 'Photo of Venus'
   title: 'Venus Ikinnagbon'
   synopsis: 'Venus Ikinnagbon is a senior at Rutgers University in the school of Arts and Sciences, majoring in Biology with a minor in Women and Gender Studies, and is on the pre-med track. As an [LSAMP](http://gslsamp.rutgers.edu/) Scholar, Venus is actively engaged in research, contributing to projects that aim to enhance diversity and inclusion within STEM fields.
