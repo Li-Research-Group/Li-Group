@@ -53,6 +53,17 @@ Shah:
         [GitHub](https://github.com/navronaman)
         </strong>'
   image_width: 60%
+
+Ikinnagbon:
+  image_path: /images/members/Venus_Ikinnagbon.jpg
+  alt: 'Photo of Venus'
+  title: 'Venus Ikinnagbon'
+  synopsis: 'Venus Ikinnagbon is a senior at Rutgers University in the school of Arts and Sciences, majoring in Biology with a minor in Women and Gender Studies, and is on the pre-med track. As an [LSAMP](http://gslsamp.rutgers.edu/) Scholar, Venus is actively engaged in research, contributing to projects that aim to enhance diversity and inclusion within STEM fields.
+
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/venus-ikinnagbon-62b6392a3)
+        </strong>'
+  image_width: 60%
 ---
 
 ## Lead
@@ -69,6 +80,8 @@ Shah:
 {% include single_left id='Lennard' %}
 
 {% include single_left id='Shah' %}
+
+{% include single_left id='Ikinnagbon' %}
 
 <!-- Old codes for reference
 
