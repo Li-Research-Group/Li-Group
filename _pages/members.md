@@ -1,5 +1,5 @@
 ---
-title: 'Members'
+title: 'members'
 layout: splash
 permalink: /members/
 header:
@@ -7,10 +7,10 @@ header:
   text_color: black
 
 Li:
-  image_path: /images/members/Yalin_Li.png
+  image_path: /images/members/yalin_li.png
   alt: 'Photo of Yalin'
   title: 'Yalin Li'
-  synopsis: 'Yalin is an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. Yalin received B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. Yalin was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL) during graduate study.
+  synopsis: 'Dr. Li is an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. Yalin received B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. Yalin was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL) during graduate study.
     
     <br><br> Prior to joining Rutgers, Yalin worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)) at UIUC.
 
@@ -18,7 +18,7 @@ Li:
         [CV](https://drive.google.com/file/d/1XxD9vS4LtoyfvWILSEbQZ6toQdKhBdt4/view) &nbsp; | &nbsp;
         [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en)
         </strong>'
-  image_width: 70%
+  image_width: 60%
 
 Ahmad:
   image_path: /images/members/Ali_Ahmad.jpg
@@ -29,7 +29,7 @@ Ahmad:
    <br><br> <strong>
         [Google Scholar](https://scholar.google.com/citations?user=BPuda6sAAAAJ&hl=en)
         </strong>'
-  image_width: 70%
+  image_width: 60%
 
 Lennard:
   image_path: /images/members/Xavier_Lennard.jpg
@@ -43,7 +43,7 @@ Lennard:
   image_width: 60%
 
 Shah:
-  image_path: /images/members/Naman_Shah.jpeg
+  image_path: /images/members/Naman_Shah.jpg
   alt: 'Photo of Naman'
   title: 'Naman Shah'
   synopsis: 'Naman Shah is a rising sophomore majoring in Computer Science and Data Science at Rutgers University. He has been working in developing Python scripts for over two years. He has been awarded as the winner of Datathon by the Rutgers University Data Science in Spring 2024 for his work in analyzing data from Starbucks and Dunkin Donuts. He is drawn to work on QSDsan and BioSTEAM to bioprocess engineering and resource recovery, specifically for the New Jersey Waste. He is a 2024 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar.
@@ -86,7 +86,7 @@ Ikinnagbon:
 <!-- Old codes for reference
 
 Yalin Li:
-  - image_path: /images/members/Yalin_Li.png
+  - image_path: /images/single_left/Yalin_Li.png
     alt: 'Headshot of Yalin Li'
     title: 'Lead: Yalin Li'
     excerpt: '<br> I am an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. I received my B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. During my graduate study, I was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL).

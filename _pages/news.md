@@ -9,7 +9,7 @@ header:
 **[Jul 2024]** We are one of the awardees for the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
 {: .notice--green}
 
-**[Aug 2024]** [Naman, Xavier, and Venus](/members#graduate-students) (left to right in the photo) presented their work at the [2024 Summer Research Symposium](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
+**[Aug 2024]** [**Naman, Xavier, and Venus**](/members#graduate-students) (left to right in the photo) presented their work at the [**2024 Summer Research Symposium**](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
 {: .notice--yellow}
 <img src='/images/news/2024-08-01_summer_symposium.png' alt='Naman, Xavier, and Venus presentations' width='100%' id='image'>
 
@@ -19,14 +19,14 @@ header:
 **[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability (PreFerS), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead! Read the [**News Release**](https://www.igb.illinois.edu/wheeler/article/148m-grant-supports-singapore-partnership-precision-fermentation).
 {: .notice--green}
 
-**[May 2024]** [Ali](/members#graduate-students) presented his work on the sustainability evaluation of point-of-use water disinfection technologies at the [2024 World Environmental & Water Resources Congress](https://www.ewricongress.org/).
+**[May 2024]** [**Ali**](/members#graduate-students) presented his work on the sustainability evaluation of point-of-use water disinfection technologies at the [2024 World Environmental & Water Resources Congress](https://www.ewricongress.org/).
 {: .notice--yellow}
 <img src='/images/news/2024-05-21_ahmad_ewri.jpg' alt='Ali explaining his research' width='70%' id='image'>
 
 **[Apr 2024]** The paper **Intensive Microalgal Cultivation and Tertiary Phosphorus Recovery from Wastewaters via the EcoRecover Process** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://pubs.acs.org/doi/10.1021/acs.est.3c10264).
 {: .notice--gray}
 
-**[Mar 2024]** [Ali](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/).
+**[Mar 2024]** [**Ali**](/members#graduate-students) presented his work on a machine-learning model for predicting the biocrude yield from hydrothermal liquefaction (HTL) at the 2024 [Rutgers Conference for Rising Stars in Graduate Research](https://ifh.rutgers.edu/events/event/rutgers-conference-for-rising-stars-in-graduate-research-2024/).
 {: .notice--yellow}
 <img src='/images/news/2024-03-27_ahmad_rising star.jpg' alt='Ali explaining his research' width='30%' id='image'>
 
@@ -36,7 +36,7 @@ header:
 **[Jan 2024]** Happy new year! The paper **Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes** has been accepted by *Environmental Science & Technology*. Read the [**Paper**](https://doi.org/10.1021/acs.est.3c07394).
 {: .notice--gray}
 
-**[Fall 2023]** [Ali](/members#graduate-students) joined the group as a Ph.D. student. He will lead our [USDA project](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=98256&format=WEBLINK) that examines the sustainability of a hydrothermal system that converts swine manure and other organic feedstocks into biobinders for asphalt that increase the quality of recycled asphalt pavements.
+**[Fall 2023]** [**Ali**](/members#graduate-students) joined the group as a Ph.D. student. He will lead our [USDA project](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=98256&format=WEBLINK) that examines the sustainability of a hydrothermal system that converts swine manure and other organic feedstocks into biobinders for asphalt that increase the quality of recycled asphalt pavements.
 {: .notice--blue}
 
 **[May 2023]** The paper **Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors** has been accepted by *ACS Omega*. Read the [**Paper**](https://doi.org/10.1021/acsomega.3c01975).
