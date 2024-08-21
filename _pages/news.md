@@ -6,7 +6,19 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
-**[Jul 2024]** We are one of the awardees for the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
+**[Aug 2024]** We are hiring two funded graduate student position for Spring/Summer 2025 (see the hydrothermal microplastics grant and the zero-carbon cement grant announcement below). Check out the [**Join**](/join) page for details!
+{: .notice--blue}
+
+**[Aug 2024]** We are on the Rutgers team that received an award from the US Army Corps of Engineers! Working with the [**Riman**](https://riman.rutgers.edu/) and [**Sills**](https://mmod.rutgers.edu/) group at Rutgers MSE and the [**Nassif**](https://rime.rutgers.edu/) group at Rutgers CEE, we will develop cost effective and zero-carbon cement using recycled concrete rubble. Check out the [**Join**](/join) page if you are interested!
+{: .notice--green}
+
+**[Aug 2024]** Our group was awarded an [**NSF CBET grant**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2427988)! We will lead an effort to investigate the fate and conversion mechanism of microplastics during hydrothermal valorization of wet organic waste. This is a collaboration between us and the [**Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld) group (Rutgers CEE) as well as the [**Arbuckle-Keil**](https://arbuckle.camden.rutgers.edu/) group (Chemistry at Rutgers-Camden). If you are interested, we are looking for a PhD/MS student to work on this project, read the [**Join**](/join) page for details!
+{: .notice--green}
+
+**[Aug 2024]** We are one of the awardees of the New Jersey Water Resources Research Institute (NJWRRI)-USGS [**Annual Grants**](https://njwrri.rutgers.edu/njwrri_funding.htm)! Our project will evaluate an intensive microalgal process to reduce point source phosphorus load from wastewater in order to reduce eutrophication and protect our natural waters.
+{: .notice--green}
+
+**[Jul 2024]** We are one of the awardees of the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
 {: .notice--green}
 
 **[Aug 2024]** [**Naman, Xavier, and Venus**](/members#graduate-students) (left to right in the photo) presented their work at the [**2024 Summer Research Symposium**](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
