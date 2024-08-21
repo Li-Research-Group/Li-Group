@@ -9,7 +9,7 @@ header:
 
 ## Graduate Positions
 
-
+We have two positions available for Spring/Summer 2025. One on microplastics under hydrothermal conditions and one on techno-economic analysis and life cycle assessment of zero-carbon cement. See [here](https://drive.google.com/file/d/1biBym4pcliSVkXywKWiB8tYm6aZsueiU/view?usp=sharing) for the application details and check out the [News](/news) page for the grant announcement.
 
 <!-- When there is no open-positions
 
