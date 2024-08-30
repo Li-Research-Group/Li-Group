@@ -71,11 +71,11 @@ Ikinnagbon:
 <center> <img src='/images/members/group_fa24.jpg' alt='Group photo' width='80%' id='image'> </center>
 
 <br>
-<left> <i> Group photo just before the start of Fall 2024. 
+<left> <i> Group photo just before the start of Fall 2024 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
 <br> Front: Naman, Basil, Yalin, Ali; back: Jason, Saket, Kevin (Washington and Lee University); not pictured: Maggie, Charlotte, Josh, Xavier, Venus, Jonah.
-<br> Credit: awesome 
-<a href='https://cee.rutgers.edu/staff'>Gina</a>.
+<br> Credit: awesome <a href='https://cee.rutgers.edu/staff'>Gina</a>.
 </i> </left>
+
 
 ## Lead
 
