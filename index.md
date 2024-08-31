@@ -1,5 +1,5 @@
 ---
-title: Li Research Group
+title: Home
 layout: splash
 permalink: /
 header:
