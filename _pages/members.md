@@ -14,9 +14,10 @@ Li:
     
     <br><br> Prior to joining Rutgers, Yalin worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio)) at UIUC.
 
-   <br><br> <strong> 
+   <br><br> <strong>
         [CV](https://drive.google.com/file/d/1XxD9vS4LtoyfvWILSEbQZ6toQdKhBdt4/view) &nbsp; | &nbsp;
-        [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en)
+        [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) &nbsp; | &nbsp;
+        [LinkedIn](https://www.linkedin.com/in/yalin-li-rutgers)
         </strong>'
   image_width: 60%
 
