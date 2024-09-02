@@ -12,7 +12,7 @@ Li:
   title: 'Yalin Li'
   synopsis: 'Dr. Li is an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. Yalin received B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. Yalin was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL) during graduate study.
     
-    <br><br> Prior to joining Rutgers, Yalin worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)) at UIUC.
+    <br><br> Prior to joining Rutgers, Yalin worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio)) at UIUC.
 
    <br><br> <strong> 
         [CV](https://drive.google.com/file/d/1XxD9vS4LtoyfvWILSEbQZ6toQdKhBdt4/view) &nbsp; | &nbsp;
@@ -31,14 +31,14 @@ Ahmad:
         </strong>'
   image_width: 60%
 
-Lennard:
-  image_path: /images/members/xavier_lennard.jpg
-  alt: 'Photo of Xavier'
-  title: 'Xavier Lennard'
-  synopsis: 'Xavier Lennard, a Biochemistry major at the Rutgers School of Environmental and Biological Sciences, class of 2025, is actively engaged in research as an LSAMP Scholar at Li Research group. The [LSAMP](http://gslsamp.rutgers.edu/) program aims to enhance diversity and inclusion within non-medical STEM research fields, offering valuable experience to its participants.
+Chiang:
+  image_path: /images/members/jason_chiang.png
+  alt: 'Photo of Jason'
+  title: 'Jason Chiang'
+  synopsis: 'Jason Chiang is a sophomore majoring in Materials Science and Engineering at Rutgers University. Jason is interested in research related to environmental sustainability and as such joined the Li lab in January 2024 to further explore this topic as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program).
 
    <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/xavier-lennard-43a53223b/)
+        [LinkedIn](https://www.linkedin.com/in/jason-chiang-)
         </strong>'
   image_width: 60%
 
@@ -54,16 +54,6 @@ Shah:
         </strong>'
   image_width: 60%
 
-Ikinnagbon:
-  image_path: /images/members/venus_ikinnagbon.jpg
-  alt: 'Photo of Venus'
-  title: 'Venus Ikinnagbon'
-  synopsis: 'Venus Ikinnagbon is a senior at Rutgers University in the school of Arts and Sciences, majoring in Biology with a minor in Women and Gender Studies, and is on the pre-med track. As an [LSAMP](http://gslsamp.rutgers.edu/) Scholar, Venus is actively engaged in research, contributing to projects that aim to enhance diversity and inclusion within STEM fields.
-
-   <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/venus-ikinnagbon-62b6392a3)
-        </strong>'
-  image_width: 60%
 ---
 
 <br>
@@ -87,11 +77,16 @@ Ikinnagbon:
 
 ## Undergraduate Researchers
 
-{% include single_left id='Lennard' %}
+{% include single_left id='Chiang' %}
 
 {% include single_left id='Shah' %}
 
-{% include single_left id='Ikinnagbon' %}
+## Alumni
+
+[Xavier Lennard](https://www.linkedin.com/in/xavier-lennard-43a53223b), Biochemistry, Spring/Summer 2024, LSAMP Scholar.
+
+[Venus Ikinnagbon](https://www.linkedin.com/in/venus-ikinnagbon-62b6392a3), Biology/Women and Gender Studies (minor), Summer 2024, LSAMP Scholar.
+
 
 <!-- Old codes for reference
 
