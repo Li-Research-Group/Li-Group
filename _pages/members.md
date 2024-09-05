@@ -25,10 +25,22 @@ Ahmad:
   image_path: /images/members/ali_ahmad.jpg
   alt: 'Photo of Ali'
   title: 'Ali Ahmad'
-  synopsis: 'Ali received his Chemical Engineering B.S. from Bangladesh University of Engineering & Technology (BUET) and Renewable Energy Technology M.S. from the University of Dhaka. He is currently pursuing a Ph.D. degree in Civil & Environmental Engineering from Rutgers, the State University of New Jersey, New Brunswick. His research interest lies in the intersection of sustainability assessment tools and applied machine learning.
+  synopsis: 'Ali received his Chemical Engineering B.S. from Bangladesh University of Engineering & Technology (BUET) and Renewable Energy Technology M.S. from the University of Dhaka. He is currently pursuing a Ph.D. degree in Civil & Environmental Engineering at Rutgers. His research interest lies in the intersection of sustainability assessment tools and applied machine learning.
 
    <br><br> <strong>
         [Google Scholar](https://scholar.google.com/citations?user=BPuda6sAAAAJ&hl=en)
+        </strong>'
+  image_width: 60%
+
+Mansoor:
+  image_path: /images/members/basil_mansoor.jpg
+  alt: 'Photo of Basil'
+  title: 'Basil Mansoor'
+  synopsis: 'Basil received his Bachelor in Environmental Engineering from National University of Sciences and Technology, Islamabad (NUST). He is currently pursuing a MS in Civil and Environmental Engineering at Rutgers. His research interest lies in sustainable renewable energy with a specific focus on wet organic waste to energy generation (e.g., hydrogen, sustainable aviation fuel [SAF]).
+
+   <br><br> <strong>
+        [Google Scholar](https://scholar.google.com/citations?user=AVHEcysAAAAJ&hl=en) &nbsp; | &nbsp;
+        [LinkedIn](https://www.linkedin.com/in/basil-mansoor-596a261b2)
         </strong>'
   image_width: 60%
 
@@ -63,7 +75,7 @@ Shah:
 
 <br>
 <left> <i> Group photo just before the start of Fall 2024 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
-<br> Front: Naman, Basil, Yalin, Ali; back: Jason, Saket, Kevin (Washington and Lee University); not pictured: Maggie, Charlotte, Josh, Xavier, Venus, Jonah.
+<br> Front: Naman, Basil, Yalin, Ali; back: Jason, Saket, Kevin (Washington and Lee University); not pictured: Maggie, Charlotte, Xavier, Venus, Jonah.
 <br> Credit: awesome <a href='https://cee.rutgers.edu/staff'>Gina</a>.
 </i> </left>
 
@@ -75,6 +87,8 @@ Shah:
 ## Graduate Students
 
 {% include single_left id='Ahmad' %}
+
+{% include single_left id='Mansoor' %}
 
 ## Undergraduate Researchers
 
