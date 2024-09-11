@@ -6,6 +6,9 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Sep 2024]** We are hiring one postdoc for PreFerS. **This position is based in Singapore.** Check out the [**Join**](/join) page for details! 
+{: .notice--blue}
+
 **[Aug 2024]** We are hiring two funded graduate student position for Spring/Summer 2025 (see the hydrothermal microplastics grant and the zero-carbon cement grant announcement below). Check out the [**Join**](/join) page for details!
 {: .notice--blue}
 

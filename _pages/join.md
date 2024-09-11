@@ -7,9 +7,16 @@ header:
   text_color: black
 ---
 
-## Graduate Positions
+## Postdoctoral Researchers
+
+We hiring one postdoctoral researcher for PreFerS (see [News](/news) for more information on PreFerS). The postdoc will lead research on advancing the sustainable design and deployment of technological solutions for reliable and cost-effective production of safe, nutritious, and delicious foods. The postdoc will be co-advised by Prof. [Jeremy Guest](https://engineeringforsustainability.com/) (University of Illinois Urbana-Champaign), Prof. [Chueh Loo Poh](https://cde.nus.edu.sg/bme/staff/dr-pohcl/) (Nanyang Technological University), and me. See more details and apply at [MyCareersFuture](https://www.mycareersfuture.gov.sg/job/sciences/postdoctoral-researcher-illinois-advanced-research-center-singapore-19d74b6ed2feb03876b3706738fb0992) or [jobstreet](https://sg.jobstreet.com/job/78435742).
+
+
+## Graduate Students
 
 We have two positions available for Spring/Summer 2025. One on microplastics under hydrothermal conditions and one on techno-economic analysis and life cycle assessment of zero-carbon cement. See [here](https://drive.google.com/file/d/1biBym4pcliSVkXywKWiB8tYm6aZsueiU/view?usp=sharing) for the application details and check out the [News](/news) page for the grant announcement.
+
+**Note:** I have received many competitive applications for the zero-carbon cement position, it is unlikely that this position will be available for new applicants.
 
 <!-- When there is no open-positions
 
