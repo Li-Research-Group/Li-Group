@@ -11,15 +11,34 @@ header:
 
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
+
 ### 2024
 
-`26.` [CCharacterization of the EcoRecover process for intensive microalgal cultivation and tertiary nutrient recovery from wastewaters](https://doi.org/10.1021/acs.est.3c10264)
+`28.` [Integration of plant and microbial oil processing at oilcane biorefineries for more sustainable biofuel production](https://doi.org/10.1111/gcbb.13183)
+
+Oilcane—an oil-accumulating crop engineered from sugarcane—and microbial oil have the potential to improve renewable oil production and help meet the expected demand for bioderived oleochemicals and fuels. To assess the potential synergies of processing both plant and microbial oils, the economic and environmental implications of integrating microbial oil production at oilcane and sugarcane biorefineries were characterized.
+
+Y. R. Cortés-Peña, W. Woodruff, S. Banerjee, **Y. Li**, V. Singh, C. V. Rao, and J. S. Guest. *GCB Bioenergy* **2024**, *16* (11), e13183.
+
+---
+
+`27.` [Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities](https://doi.org/10.1021/acsenvironau.4c00017)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.4c00017/asset/images/medium/vg4c00017_0005.gif#TOC)
+
+Point-of-use (POU) water disinfection technologies can be adopted to provide access to safe drinking water by treating water at the household level; however, navigating various POU disinfection technologies can be difficult. This research assessed the sustainability of four different POU technologies (chlorination using sodium hypochlorite, a silver-nanoparticle-enabled ceramic water filter, ultraviolet mercury lamps, and ultraviolet light-emitting diodes). Leveraging open-source Python packages (QSDsan and EXPOsan), the cost and environmental impacts of these POU technologies were assessed using techno-economic analysis and life cycle assessment. All technologies were further evaluated across ranges of adoption times, and contextual analysis was performed to evaluate the implications of technology deployment across the world.
+
+B. C. Elijah, **A. Ahmad**, **Y. Li**, J. Plazas-Tuttle, and L. S. Rowles. *ACS Environ. Au* **2024**, *4* (5), 248–259.
+
+---
+
+`26.` [Characterization of the EcoRecover process for intensive microalgal cultivation and tertiary nutrient recovery from wastewaters](https://doi.org/10.1021/acs.est.3c10264)
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acs.est.3c10264/asset/images/medium/es3c10264_0007.gif#TOC)
 
 Mixed community microalgal wastewater treatment technologies have the potential to advance the limits of technology for biological nutrient recovery while producing a renewable carbon feedstock, but a deeper understanding of their performance is required for system optimization and control. In this study, we characterized the performance of a 568 m3·day–1 Clearas EcoRecover system for tertiary phosphorus removal (and recovery as biomass) at an operating water resource recovery facility (WRRF).
 
-H. R. Molitor, G.-Y. Kim, E. Hartnett, B. Gincley, M. M. Alam, J. Feng, N. M. Avila, A. Fisher, M. Hodaei, **Y. Li**, K. McGraw, R. D. Cusick, I. M. Bradley, A. J. Pinto, and J. S. Guest. Intensive Microalgal Cultivation and Tertiary Phosphorus Recovery from Wastewaters via the EcoRecover Process. *Environ. Sci. Technol.* **2024**, *58* (20), 8803–8814.
+H. R. Molitor, G.-Y. Kim, E. Hartnett, B. Gincley, M. M. Alam, J. Feng, N. M. Avila, A. Fisher, M. Hodaei, **Y. Li**, K. McGraw, R. D. Cusick, I. M. Bradley, A. J. Pinto, and J. S. Guest. *Environ. Sci. Technol.* **2024**, *58* (20), 8803–8814.
 
 ---
 
@@ -29,7 +48,7 @@ H. R. Molitor, G.-Y. Kim, E. Hartnett, B. Gincley, M. M. Alam, J. Feng, N. M. Av
 
 Resource recovery from wet organic wastes can support circular economies by creating financial incentives to produce renewable energy and return nutrients to agriculture. In this study, we characterize the potential for hydrothermal liquefaction (HTL)-based resource recovery systems to advance the economic and environmental sustainability of wastewater sludge, FOG (fats, oils, and grease), food waste, green waste, and animal manure management through the production of liquid biofuels (naphtha, diesel), fertilizers (struvite, ammonium sulfate), and power (heat, electricity). Overall, our work demonstrates the potential of HTL-based resource recovery systems to reduce the costs and carbon intensity of resource-rich organic wastes.
 
-J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes. *Environ. Sci. Technol.* **2024**, *58* (5), 2528–2541.
+J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. *Environ. Sci. Technol.* **2024**, *58* (5), 2528–2541.
 
 ---
 
@@ -41,7 +60,7 @@ J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. Characterizing the Opport
 
 Catalytic hydrothermal processing is a promising technology for the production of biofuels used in transportation to alleviate the energy crisis. An important challenge for these processes is the need for an external supply of hydrogen gas to accelerate the deoxygenation of fatty acids or lipids. This study reports on the use of various alcohol and carboxylic acid amendments as sources for in situ hydrogen production to accelerate Ru/C-catalyzed hydrothermal deoxygenation of stearic acid. Addition of these amendments significantly increases yields of liquid hydrocarbon products, including the major product heptadecane, from stearic acid conversion at subcritical conditions (330 °C, 14–16 MPa during the reaction). This research provided guidance for simplifying the catalytic hydrothermal process of biofuel production, making the production of the desired biofuel in one pot possible without the need for an external H<sub>2</sub> supply.
 
-J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors. *ACS Omega* **2023**, *8* (22), 19969–19975.
+J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. *ACS Omega* **2023**, *8* (22), 19969–19975.
 
 ---
 
