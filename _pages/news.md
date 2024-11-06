@@ -6,6 +6,10 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Oct 2024]** [**Ali**](/members#graduate-students) presented his work on the data-driven model for HTL biocrude prediction and techno-economic analysis at the [2024 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2024).
+{: .notice--yellow}
+<img src='/images/news/2024-10-28_ahmad_aiche.png' alt='Ali presenting his research' width='50%' id='image'>
+
 **[Sep 2024]** We are hiring one postdoc for PreFerS. **This position is based in Singapore.** Check out the [**Join**](/join) page for details! 
 {: .notice--blue}
 
