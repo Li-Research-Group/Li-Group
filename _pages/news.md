@@ -10,16 +10,16 @@ header:
 {: .notice--yellow}
 <img src='/images/news/2024-10-28_ahmad_aiche.png' alt='Ali presenting his research' width='50%' id='image'>
 
-**[Sep 2024]** We are hiring one postdoc for PreFerS. **This position is based in Singapore.** Check out the [**Join**](/join) page for details! 
+**[Sep 2024]** We are hiring one postdoc for PreFerS. **This position is based in Singapore.** Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
-**[Aug 2024]** We are hiring two funded graduate student position for Spring/Summer 2025 (see the hydrothermal microplastics grant and the zero-carbon cement grant announcement below). Check out the [**Join**](/join) page for details!
+**[Aug 2024]** We are hiring two funded graduate student position for Spring/Summer 2025 (see the hydrothermal microplastics grant and the zero-carbon cement grant announcement below). Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
-**[Aug 2024]** We are on the Rutgers team that received an award from the US Army Corps of Engineers! Working with the [**Riman**](https://riman.rutgers.edu/) and [**Sills**](https://mmod.rutgers.edu/) group at Rutgers MSE and the [**Nassif**](https://rime.rutgers.edu/) group at Rutgers CEE, we will develop cost effective and zero-carbon cement using recycled concrete rubble. Check out the [**Join**](/join) page if you are interested!
+**[Aug 2024]** We are on the Rutgers team that received an award from the US Army Corps of Engineers! Working with the [**Riman**](https://riman.rutgers.edu/) and [**Sills**](https://mmod.rutgers.edu/) group at Rutgers MSE and the [**Nassif**](https://rime.rutgers.edu/) group at Rutgers CEE, we will develop cost effective and zero-carbon cement using recycled concrete rubble.
 {: .notice--green}
 
-**[Aug 2024]** Our group was awarded an [**NSF CBET grant**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2427988)! We will lead an effort to investigate the fate and conversion mechanism of microplastics during hydrothermal valorization of wet organic waste. This is a collaboration between us and the [**Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld) group (Rutgers CEE) as well as the [**Arbuckle-Keil**](https://arbuckle.camden.rutgers.edu/) group (Chemistry at Rutgers-Camden). If you are interested, we are looking for a PhD/MS student to work on this project, read the [**Join**](/join) page for details!
+**[Aug 2024]** Our group was awarded an [**NSF CBET grant**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2427988)! We will lead an effort to investigate the fate and conversion mechanism of microplastics during hydrothermal valorization of wet organic waste. This is a collaboration between us and the [**Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld) group (Rutgers CEE) as well as the [**Arbuckle-Keil**](https://arbuckle.camden.rutgers.edu/) group (Chemistry at Rutgers-Camden).
 {: .notice--green}
 
 **[Aug 2024]** We are one of the awardees of the New Jersey Water Resources Research Institute (NJWRRI)-USGS [**Annual Grants**](https://njwrri.rutgers.edu/njwrri_funding.htm)! Our project will evaluate an intensive microalgal process to reduce point source phosphorus load from wastewater in order to reduce eutrophication and protect our natural waters.
