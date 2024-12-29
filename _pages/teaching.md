@@ -36,35 +36,19 @@ ees:
 
 ## Course Instructed
 
-### Sustainable Design
+### 16:180:562 Water and Wastewater Treatment
 
-Through this course, students will develop an understanding of quantitative sustainable design (QSD) and how to navigate engineering decision-making. Students will learn methods and tools for economic (techno-economic analysis, TEA; life cycle costing, LCC) and environmental (life cycle assessment, LCA) sustainability assessments, and how to link these tools to engineering design decisions under uncertainty. Students will apply these tools to design their engineered systems of interest, with special attention to water and energy infrastructure, water quality processes, resource recovery, green chemistry, and bioenergy/bioproducts.
-
-Check out the [course flyer](https://drive.google.com/file/d/1t_jPm0EzRcYOeHgUdtjyL_ZtY4LEXUyR/view?usp=sharing) for Fall 2023.
+This course ([syllabus](https://drive.google.com/file/d/19XzQ_lioHbF59835jCJ6B5mjcsI5ftpH/view?usp=drive_link)) covers engineering processes commonly used for drinking water and wastewater treatment, as well as topics of emerging concern. Key topics include drinking water and wastewater quality criteria, water chemistry, integration of unit processes into full scale treatment facilities, reactor design, coagulation, flocculation, sedimentation, filtration, disinfection, water softening, microbiology and biological wastewater treatment, oxidation-reduction processes in treatment, nutrient removal, and residual solids management. A design module is also included that demonstrate the use of process simulation software.
 
 <br>
-<img src='/images/teaching/sustainable_design.png#center' alt='Sustainable design' width='80%' id='image'>
-<center> <i> Leveraging the QSD methodology for water and energy systems. </i> </center>
+<img src='/images/teaching/water_wastewater_treatment.png#center' alt='Water and Wastewater Treatment' width='60%' id='image'>
 
+### 16:180:611 Sustainable Design
 
-### Water and Wastewater Treatment Design
-
-This course introduces the theory and its application for design and operation of processes used in water and wastewater treatment; emphasis is on biological treatment processes and related processes for gas transfer, sludge dewatering, sludge disposal, and solids separations.
+Through this course ([flyer](https://drive.google.com/file/d/1t_jPm0EzRcYOeHgUdtjyL_ZtY4LEXUyR/view?usp=sharing); [syllabus](https://drive.google.com/file/d/1X2lymRGmW4bngyPC34sctMACFFi6wT9n/view?usp=sharing)), students will develop an understanding of quantitative sustainable design (QSD) and how to navigate engineering decision-making. Students will learn methods and tools for economic (techno-economic analysis, TEA; life cycle costing, LCC) and environmental (life cycle assessment, LCA) sustainability assessments, and how to link these tools to engineering design decisions under uncertainty. Students will apply these tools to design their engineered systems of interest, with special attention to water and energy infrastructure, water quality processes, resource recovery, green chemistry, and bioenergy/bioproducts.
 
 <br>
-<img src='/images/teaching/water_wastewater_treatment.png#center' alt='Biological nutrient removal' width='50%' id='image'>
-<center> <i> Course materials for Biological Nutrient Removal. </i> </center>
-
-
-### Environmental Chemistry
-
-The goal of this course is to introduce students to the fundamental principles that govern chemical and biochemical processes in natural and engineered environmental systems, and to employ quantitative approaches to solving aquatic chemistry problems. 
-
-Key course topics include the thermodynamic and kinetic basis for the composition of aquatic systems, chemical equilibrium, acid-base chemistry, aqueous/gas partitioning, alkalinity and pH buffering, metal speciation and precipitation, redox reactions, and sorption processes. Analytical and numerical approaches to solving chemical problems will be illustrated using topics of interest to environmental engineers and scientists.
-
-<br>
-<img src='/images/teaching/environmental_chemistry.png' alt='Sorption' width='100%' id='image'>
-<center> <i> Course materials for the Sorption module. </i> </center>
+<img src='/images/teaching/sustainable_design.png#center' alt='Quantitative Sustainable Design' width='50%' id='image'>
 
 ---
 
