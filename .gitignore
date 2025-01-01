@@ -19,6 +19,7 @@
 _build
 _site
 build
+node_modules
 # conftest is used for local testing only
 conftest.py
 docs/build/*
