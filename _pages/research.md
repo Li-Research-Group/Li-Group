@@ -18,7 +18,7 @@ For the most up-to-date list, please refer to my [Google Scholar](https://schola
 
 Oilcane—an oil-accumulating crop engineered from sugarcane—and microbial oil have the potential to improve renewable oil production and help meet the expected demand for bioderived oleochemicals and fuels. To assess the potential synergies of processing both plant and microbial oils, the economic and environmental implications of integrating microbial oil production at oilcane and sugarcane biorefineries were characterized.
 
-Y. R. Cortés-Peña, W. Woodruff, S. Banerjee, **Y. Li**, V. Singh, C. V. Rao, and J. S. Guest. *GCB Bioenergy* **2024**, *16* (11), e13183.
+Cortés-Peña, Y. R.; Woodruff, W.; Banerjee, S.; **Li, Y.**; Singh, V.; Rao, C. V.; Guest, J. S. *GCB Bioenergy* **2024**, *16* (11), e13183.
 
 ---
 
@@ -28,7 +28,7 @@ Y. R. Cortés-Peña, W. Woodruff, S. Banerjee, **Y. Li**, V. Singh, C. V. Rao, a
 
 Point-of-use (POU) water disinfection technologies can be adopted to provide access to safe drinking water by treating water at the household level; however, navigating various POU disinfection technologies can be difficult. This research assessed the sustainability of four different POU technologies (chlorination using sodium hypochlorite, a silver-nanoparticle-enabled ceramic water filter, ultraviolet mercury lamps, and ultraviolet light-emitting diodes). Leveraging open-source Python packages (QSDsan and EXPOsan), the cost and environmental impacts of these POU technologies were assessed using techno-economic analysis and life cycle assessment. All technologies were further evaluated across ranges of adoption times, and contextual analysis was performed to evaluate the implications of technology deployment across the world.
 
-B. C. Elijah, **A. Ahmad**, **Y. Li**, J. Plazas-Tuttle, and L. S. Rowles. *ACS Environ. Au* **2024**, *4* (5), 248–259.
+Elijah, B. C.; Ahmad, A.; **Li, Y.**; Plazas-Tuttle, J.; Rowles, L. S. *ACS Environ. Au* **2024**, *4* (5), 248–259.
 
 ---
 
@@ -38,7 +38,7 @@ B. C. Elijah, **A. Ahmad**, **Y. Li**, J. Plazas-Tuttle, and L. S. Rowles. *ACS 
 
 Mixed community microalgal wastewater treatment technologies have the potential to advance the limits of technology for biological nutrient recovery while producing a renewable carbon feedstock, but a deeper understanding of their performance is required for system optimization and control. In this study, we characterized the performance of a 568 m3·day–1 Clearas EcoRecover system for tertiary phosphorus removal (and recovery as biomass) at an operating water resource recovery facility (WRRF).
 
-H. R. Molitor, G.-Y. Kim, E. Hartnett, B. Gincley, M. M. Alam, J. Feng, N. M. Avila, A. Fisher, M. Hodaei, **Y. Li**, K. McGraw, R. D. Cusick, I. M. Bradley, A. J. Pinto, and J. S. Guest. *Environ. Sci. Technol.* **2024**, *58* (20), 8803–8814.
+Molitor, H. R.; Kim, G.-Y.; Hartnett, E.; Gincley, B.; Alam, M. M.; Feng, J.; Avila, N. M.; Fisher, A.; Hodaei, M.; **Li, Y.**; McGraw, K.; Cusick, R. D.; Bradley, I. M.; Pinto, A. J.; Guest, J. S. *Environ. Sci. Technol.* **2024**, *58* (20), 8803–8814.
 
 ---
 
@@ -48,7 +48,7 @@ H. R. Molitor, G.-Y. Kim, E. Hartnett, B. Gincley, M. M. Alam, J. Feng, N. M. Av
 
 Resource recovery from wet organic wastes can support circular economies by creating financial incentives to produce renewable energy and return nutrients to agriculture. In this study, we characterize the potential for hydrothermal liquefaction (HTL)-based resource recovery systems to advance the economic and environmental sustainability of wastewater sludge, FOG (fats, oils, and grease), food waste, green waste, and animal manure management through the production of liquid biofuels (naphtha, diesel), fertilizers (struvite, ammonium sulfate), and power (heat, electricity). Overall, our work demonstrates the potential of HTL-based resource recovery systems to reduce the costs and carbon intensity of resource-rich organic wastes.
 
-J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. *Environ. Sci. Technol.* **2024**, *58* (5), 2528–2541.
+Feng, J.; **Li, Y.**; Strathmann, T. J.; Guest, J. S. *Environ. Sci. Technol.* **2024**, *58* (5), 2528–2541.
 
 ---
 
@@ -60,7 +60,7 @@ J. Feng, **Y. Li**, T. J. Strathmann, and J. S. Guest. *Environ. Sci. Technol.* 
 
 Catalytic hydrothermal processing is a promising technology for the production of biofuels used in transportation to alleviate the energy crisis. An important challenge for these processes is the need for an external supply of hydrogen gas to accelerate the deoxygenation of fatty acids or lipids. This study reports on the use of various alcohol and carboxylic acid amendments as sources for in situ hydrogen production to accelerate Ru/C-catalyzed hydrothermal deoxygenation of stearic acid. Addition of these amendments significantly increases yields of liquid hydrocarbon products, including the major product heptadecane, from stearic acid conversion at subcritical conditions (330 °C, 14–16 MPa during the reaction). This research provided guidance for simplifying the catalytic hydrothermal process of biofuel production, making the production of the desired biofuel in one pot possible without the need for an external H<sub>2</sub> supply.
 
-J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. *ACS Omega* **2023**, *8* (22), 19969–19975.
+Wang, J.; Yao, X.; **Li, Y.**; Zhang, J.; Zhao, C.; Strathmann, T. J. *ACS Omega* **2023**, *8* (22), 19969–19975.
 
 ---
 
@@ -70,7 +70,7 @@ J. Wang, X. Yao, **Y. Li**, J. Zhang, C. Zhao, and T. J. Strathmann. *ACS Omega*
 
 Achieving safely managed sanitation and resource recovery in areas that are rural, geographically challenged, or experiencing rapidly increasing population density may not be feasible with centralized facilities due to space requirements, site-specific concerns, and high costs of sewer installation. Nonsewered sanitation (NSS) systems have the potential to provide safely managed sanitation and achieve strict wastewater treatment standards. One such NSS treatment technology is the NEWgenerator, which includes an anaerobic membrane bioreactor (AnMBR), nutrient recovery via ion exchange, and electrochlorination. The system has been shown to achieve robust treatment of real waste for over 100 users, but the technology’s relative life cycle sustainability remains unclear. This study characterizes the financial viability and life cycle environmental impacts of NEWgenerator and prioritizes opportunities to advance system sustainability through targeted improvements and deployment.
 
-S. Watabe, H. A. C. Lohman, **Y. Li**, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y. Shyu, R. A. Bair, C. J. Castro, R. D. Cusick, D. H. Yeh, and J. S. Guest. *ACS Environ. Au* **2023**, *3* (4), 209–222.
+Watabe, S.; Lohman, H. A. C.; **Li, Y.**; Morgan, V. L.; Rowles, L. S.; Stephen, T.; Shyu, H.-Y.; Bair, R. A.; Castro, C. J.; Cusick, R. D.; Yeh, D. H.; Guest, J. S. *ACS Environ. Au* **2023**, *3* (4), 209–222.
 
 ---
 
@@ -80,7 +80,7 @@ S. Watabe, H. A. C. Lohman, **Y. Li**, V. L. Morgan, L. S. Rowles, T. Stephen, H
 
 In resource-limited settings, conventional sanitation systems often fail to meet their goals – with system failures stemming from a mismatch among community needs, constraints, and deployed technologies. This work introduces a multi-criteria decision analysis framework and the open-source tool DMsan for the sustainability analyses of sanitation and resource recovery technologies.
 
-H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, S. M. Cook, and J. S. Guest.  *ACS Environ. Au* **2023**, *3* (3), 179–192.
+Lohman, H. A. C.; Morgan, V. L.; **Li, Y.**; Zhang, X.; Rowles, L. S.; Cook, S. M.; Guest, J. S. *ACS Environ. Au* **2023**, *3* (3), 179–192.
 
 ---
 
@@ -90,7 +90,7 @@ H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, 
 
 This work introduces a high-rate, multistage anaerobic wastewater treatment process that has the potential to substantially improve the economic and environmental sustainability of biorefineries.
 
-**Y. Li**, G. A. Kontos, D. V. Cabrera, N. M. Avila, T. W. Parkinson, M. B. Viswanathan, V. Singh, F. Altpeter, R. A. Labatut, and J. S. Guest. *ACS Sustainable Chem. Eng.* **2023**, *11* (9), 3861–3872.
+**Li, Y.**; Kontos, G. A.; Cabrera, D. V.; Avila, N. M.; Parkinson, T. W.; Viswanathan, M. B.; Singh, V.; Altpeter, F.; Labatut, R. A.; Guest, J. S. *ACS Sustainable Chem. Eng.* **2023**, *11* (9), 3861–3872.
 
 ---
 
@@ -100,7 +100,7 @@ This work introduces a high-rate, multistage anaerobic wastewater treatment proc
 
 This study evaluates the influence of U.S. state-level tax incentives and economic parameters on cellulosic and conventional biofuel production costs.
 
-D. W. Stewart, Y. R. Cortés-Peña, **Y. Li**, A. S. Stillwell, M. Khanna, and J. S. Guest. *Environ. Sci. Technol.* **2023**, *57* (6), 2262–2271.
+Stewart, D. W.; Cortés-Peña, Y. R.; **Li, Y.**; Stillwell, A. S.; Khanna, M.; Guest, J. S. *Environ. Sci. Technol.* **2023**, *57* (6), 2262–2271.
 
 ---
 
@@ -110,7 +110,7 @@ D. W. Stewart, Y. R. Cortés-Peña, **Y. Li**, A. S. Stillwell, M. Khanna, and J
 
 An engineered *Saccharomyces cerevisiae* capable of producing 2,3-butanediol (2,3-BDO) from glucose without accumulating ethanol and glycerol was constructed in this work. Techno-economic analysis (TEA) and life cycle assessment (LCA) of the production of methyl ethyl ketone (MEK) through catalytic dehydration of 2,3-BDO was performed and demonstrated the feasibility of cost-competitive and sustainable bio-based MEK production via yeast fermentation. Further, the fermentation broth containing 2,3-BDO was also tested in *Arabidopsis thaliana* for its potential to be used as a biostimulant, proving the broth could induce drought tolerance without a complicated purification process.
 
-J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, and Y.-S. Jin. *Chem. Eng. J.* **2023**, *451*, 138886.
+Lee, J. W.; Bhagwat, S. S.; Kuanyshev, N.; Cho, Y. B.; Sun, L.; Lee, Y.-G.; Cortés-Peña, Y. R.; **Li, Y.**; Rao, C. V.; Guest, J. S.; Jin, Y.-S. *Chem. Eng. J.* **2023**, *451*, 138886.
 
 ### 2022
 
@@ -120,7 +120,7 @@ J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cort
 
 Research, development, and deployment (RD&D) of innovative technologies are often impeded by the lack of transparent, systematic, and agile approaches to prioritize investment across the expansive landscape of technologies and design/operational decisions. This tutorial review synthesizes research on sustainability analyses to present Quantitative Sustainable Design (QSD) – a structured methodology to expedite the RD&D of water, sanitation, and resource recovery technologies.
 
-**Y. Li**, J. T. Trimmer, S. Hand, X. Zhang, K. G. Chambers, H. A. C. Lohman, R. Shi, D. M. Byrne, S. M. Cook, and J. S. Guest. *Environ. Sci.: Water Res. Technol.* **2022**, *8* (11), 2439-2465.
+**Li, Y.**; T. Trimmer, J.; Hand, S.; Zhang, X.; G. Chambers, K.; C. Lohman, H. A.; Shi, R.; M. Byrne, D.; M. Cook, S.; S. Guest, J. *Environ. Sci.: Water Res. Technol.* **2022**, *8* (11), 2439-2465.
 
 ---
 
@@ -130,7 +130,7 @@ Research, development, and deployment (RD&D) of innovative technologies are ofte
 
 In this study, the metal–organic framework (MOF) was applied as a precursor template to synthesize Co<sub>3</sub>O<sub>4</sub> nanoparticles with a carbon matrix shell (M-Co3O4). The effects of catalyst dosage, methanol dosage, water dosage, temperature, and reaction time on catalytic efficiency were examined with stearic acid as the model reactant. Under the designed condition, M-Co3O4 exhibited high catalytic performance and the catalyst showed higher conversion of stearic acid (98.7%) and selectivity toward C8–C18 alkanes (92.2%) in comparison with Pt/C (95.8% conversion and 93.2% selectivity toward C8–C18). The catalysts were also characterized by a series of characterization techniques including electron microscopy (SEM), high-resolution transmission electron microscopy (HRTEM), X-ray powder diffraction (XRD), X-ray photoelectron spectroscopy (XPS), nitrogen adsorption isotherms (Brunauer–Emmett–Teller (BET) method), and thermogravimetric analysis (TGA). Finally, we proposed that decarbonization (deCO) could be the presumably mechanistic pathway for the production of C8–C18 alkanes from the decomposition of stearic acid.
 
-D. Zeng, **Y. Li**, T. Xia, F. Cui, and J. Zhang. *ACS Omega* **2022**, *7* (37), 33482–33490.
+Zeng, D.; **Li, Y.**; Xia, T.; Cui, F.; Zhang, J. *ACS Omega* **2022**, *7* (37), 33482–33490.
 
 ---
 
@@ -140,7 +140,7 @@ D. Zeng, **Y. Li**, T. Xia, F. Cui, and J. Zhang. *ACS Omega* **2022**, *7* (37)
 
  In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
 
-L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C. Lohman, D. DeSouza, J. Hallowell, R. D. Cusick, and J. S. Guest. *ACS Environ. Au* **2022**, *2* (5), 455–466.
+Rowles, L. S.; Morgan, V. L.; **Li, Y.**; Zhang, X.; Watabe, S.; Stephen, T.; Lohman, H. A. C.; DeSouza, D.; Hallowell, J.; Cusick, R. D.; Guest, J. S. *ACS Environ. Au* **2022**, *2* (5), 455–466.
 
 ---
 
@@ -150,7 +150,7 @@ L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C.
 
 Robust and agile tools are needed to support the research, development, and deployment (RD&D) of sanitation and resource recovery technologies. This work introduces QSDsan – an open-source Python tool that integrates system design, simulation, and sustainability characterization (techno-economic analysis and life cycle assessment) to quickly identify critical barriers, prioritize research opportunities, and navigate multi-dimensional sustainability tradeoffs for technology RD&D. 
 
-**Y. Li**, X. Zhang, V. L. Morgan, H. A. C. Lohman, L. S. Rowles, S. Mittal, A. Kogler, W. A. Tarpeh, and J. S. Guest. *Environ. Sci.: Water Res. Technol.* **2022**, *8* (10), 2289–2303.
+**Li, Y.**; Zhang, X.; Morgan, V. L.; Lohman, H. A. C.; Rowles, L. S.; Mittal, S.; Kogler, A.; Cusick, R. D.; Tarpeh, W. A.; Guest, J. S. *Environ. Sci.: Water Res. Technol.* **2022**, *8* (10), 2289–2303.
 
 ---
 
@@ -162,7 +162,7 @@ Robust and agile tools are needed to support the research, development, and depl
 
 Sustainable design of lignocellulosic 3-hydroxypropionic acid biorefineries producing acrylic acid, with agile techno-economic analysis and life cycle assessment under uncertainty.
 
-S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zhao, and J. S. Guest. *ACS Sustainable Chem. Eng.* **2021**, *9* (49), 16659–16669.
+Bhagwat, S. S.; **Li, Y.**; Cortés-Peña, Y. R.; Brace, E. C.; Martin, T. A.; Zhao, H.; Guest, J. S. *ACS Sustainable Chem. Eng.* **2021**, *9* (49), 16659–16669.
 
 ---
 
@@ -172,7 +172,7 @@ S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zha
 
 Deoxygenation of fatty acids to diesel-like hydrocarbons over Metal–Organic Framework (MOF)-derived metal oxides.
 
-D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.* **2021**, *9* (46), 15612–15622.
+Zeng, D.; **Li, Y.**; Ma, H.; Cui, F.; Zhang, J. *ACS Sustainable Chem. Eng.* **2021**, *9* (46), 15612–15622.
 
 ---
 
@@ -182,7 +182,7 @@ D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.* **
 
 Vapor-phase dehydration and decarboxylation of polyhydroxybutyrate-derived monomer acids (3-hydroxybutyric acid and crotonic acid) to propylene over solid acid catalysts using a packed-bed continuous-flow reactor for dilute waste carbon valorization.
 
-S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. Hafenstine, D. R. Vardon, and T. J. Strathmann. *Catal. Sci. Technol.* **2021**, *11* (20), 6866–6876.
+Leow, S.; Koehler, A. J.; Cronmiller, L. E.; Huo, X.; Lahti, G. D.; **Li, Y.**; Hafenstine, G. R.; Vardon, D. R.; Strathmann, T. J. *Catal. Sci. Technol.* **2021**, *11* (20), 6866–6876.
 
 ---
 
@@ -192,7 +192,7 @@ S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. 
 
 Solids residence time can be leveraged as a selective pressure to tailor mixed phototrophic communities for wastewater nutrient removal and biofuel production.
 
-I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.* **2021**, *55* (18), 12574–12584.
+Bradley, I. M.; **Li, Y.**; Guest, J. S. *Environ. Sci. Technol.* **2021**, *55* (18), 12574–12584.
 
 ---
 
@@ -202,7 +202,7 @@ I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.* **2021**, *5
 
 This reviews summarizes the reactions, catalysts, and influencing factors in the hydrothermal deoxygenation of lipids and fatty acids to diesel-like hydrocarbons.
 
-X. Yao, T. J. Strathmann, **Y. Li**, L. E. Cronmiller, H. Ma, and J. Zhang. *Green Chem.* **2021**, *23* (3), 1114–1129.
+Yao, X.; Strathmann, T. J.; **Li, Y.**; Cronmiller, L. E.; Ma, H.; Zhang, J. *Green Chem.* **2021**, *23* (3), 1114–1129.
 
 ---
 
@@ -212,7 +212,7 @@ X. Yao, T. J. Strathmann, **Y. Li**, L. E. Cronmiller, H. Ma, and J. Zhang. *Gre
 
 Sustainable design of lignocellulosic biorefineries for lactic acid production with agile techno-economic analysis and life cycle assessment under uncertainty.
 
-**Y. Li**, S. Bhagwat, Y. Cortés-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest. *ACS Sustainable Chem. Eng.* **2021**, *9* (3), 1341–1351.
+**Li, Y.**; Bhagwat, S. S.; Cortés-Peña, Y. R.; Ki, D.; Rao, C. V.; Jin, Y.-S.; Guest, J. S. *ACS Sustainable Chem. Eng.* **2021**, *9* (3), 1341–1351.
 
 ---
 
@@ -225,7 +225,7 @@ Sustainable design of lignocellulosic biorefineries for lactic acid production w
 
 This study shows that PFAS sorbed to sludge degrade to varying degrees when sludge is subjected to hydrothermal liquefaction for production of liquid fuel.
 
-J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.* **2020**, *6* (5), 1388–1399.
+Yu, J.; Nickerson, A.; **Li, Y.**; Fang, Y.; Strathmann, T. J. *Environ. Sci.: Water Res. Technol.* **2020**, *6* (5), 1388–1399.
 
 ---
 
@@ -237,7 +237,7 @@ J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: W
 
 Investigation of reaction mechanism and development of a kinetic network model for hydrothermal conversion of polyhydroxybutyrate (PHB) for wastewater valorization.
 
-**Y. Li** and T. J. Strathmann. *Green Chem.* **2019**, *21* (20), 5586–5597.
+**Li, Y.**; Strathmann, T. J. *Green Chem.* **2019**, *21* (20), 5586–5597.
 
 ---
 
@@ -247,7 +247,7 @@ Investigation of reaction mechanism and development of a kinetic network model f
 
 Low-cost Ru catalysts can be applied to produce a mixture of alkanes, matching properties of existing petroleum diesel or jet fuel.
 
-J. Zhang, X. Huo, **Y. Li**, and T. J. Strathmann. *ACS Sustainable Chem. Eng.* **2019**, *7* (17), 14400–14410.
+Zhang, J.; Huo, X.; **Li, Y.**; Strathmann, T. J. *ACS Sustainable Chem. Eng.* **2019**, *7* (17), 14400–14410.
 
 ---
 
@@ -257,7 +257,7 @@ J. Zhang, X. Huo, **Y. Li**, and T. J. Strathmann. *ACS Sustainable Chem. Eng.* 
 
 Evaluation of the treatment efficacy and economic performance of an algal wastewater treatment and valorization system across different seasons.
 
-**Y. Li**, S. A. Slouka, S. M. Henkanatte-Gedera, N. Nirmalakhandan, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.* **2019**, *5* (9), 1545–1557.
+**Li, Y.**; Slouka, S. A.; Henkanatte-Gedera, S. M.; Nirmalakhandan, N.; Strathmann, T. J. *Environ. Sci.: Water Res. Technol.* **2019**, *5* (9), 1545–1557.
 
 ---
 
@@ -267,7 +267,7 @@ Evaluation of the treatment efficacy and economic performance of an algal wastew
 
 Experiments and model predictions show increased algal biofuel yields at lower prices via proposed hybrid conversion systems.
 
-**Y. Li**, S. Leow, T. Dong, N. J. Nagle, E. P. Knoshaug, L. M. L., Laurens, P. T. Pienkos, J. S. Guest, and T. J. Strathmann. *ACS Sustainable Chem. Eng.* **2019**, *7* (6), 5835-5844.
+**Li, Y.**; Leow, S.; Dong, T.; Nagle, N. J.; Knoshaug, E. P.; Laurens, L. M. L.; Pienkos, P. T.; Guest, J. S.; Strathmann, T. J. *ACS Sustainable Chem. Eng.* **2019**, *7* (6), 5835-5844.
 
 ---
 
@@ -279,7 +279,7 @@ Experiments and model predictions show increased algal biofuel yields at lower p
 
 Integrating biological cultivation model with thermochemical/biological unit process models to increase modeling fidelity, provide mechanistic links among unit operations, and quantify minimum selling prices of algal biofuels via techno-economic analysis.
 
-S. Leow, B. D. Shoener, **Y. Li**, J. L. DeBellis, J. Markham, R. Davis, L. M. L. Laurens, P. T. Pienkos, S. M. Cook, T. J. Strathmann, and J. S. Guest. *Environ. Sci. Technol.* **2018**, *52* (22), 13591-13599.
+Leow, S.; Shoener, B. D.; **Li, Y.**; DeBellis, J. L.; Markham, J.; Davis, R.; Laurens, L. M. L.; Pienkos, P. T.; Cook, S. M.; Strathmann, T. J.; Guest, J. S. *Environ. Sci. Technol.* **2018**, *52* (22), 13591-13599.
 
 ---
 
@@ -289,7 +289,7 @@ S. Leow, B. D. Shoener, **Y. Li**, J. L. DeBellis, J. Markham, R. Davis, L. M. L
 
 Design, demonstration, and economic anlaysis of an aqueous-based system for the conversion of wastewater-derived algae and upgrading of crude products.
 
-**Y. Li**, W. A. Tarpeh, K. L. Nelson, and T. J. Strathmann. *Environ. Sci. Technol.* **2018**, *52* (21), 12717-12727.
+**Li, Y.**; Tarpeh, W. A.; Nelson, K. L.; Strathmann, T. J. *Environ. Sci. Technol.* **2018**, *52* (21), 12717-12727.
 
 ---
 
@@ -301,7 +301,7 @@ Design, demonstration, and economic anlaysis of an aqueous-based system for the 
 
 A multiphase component additivity (MCA) model to quantitatively predict both yields and characteristics of products from hydrothermal liquefaction of microalgae.
 
-**Y. Li**, S. Leow, A. C. Fedders, B. K. Sharma, J. S. Guest, and T. J. Strathmann. *Green Chem.* **2017**, *19* (4), 1163-1174.
+**Li, Y.**; Leow, S.; C. Fedders, A.; K. Sharma, B.; S. Guest, J.; J. Strathmann, T. *Green Chem.* **2017**, *19* (4), 1163-1174.
 
 ---
 
@@ -309,4 +309,4 @@ A multiphase component additivity (MCA) model to quantitatively predict both yie
 
 `1.` [Wastewater is an asset – it contains nutrients, energy and precious metals, and scientists are learning how to recover them](https://theconversation.com/wastewater-is-an-asset-it-contains-nutrients-energy-and-precious-metals-and-scientists-are-learning-how-to-recover-them-113264). 
 
-**Y. Li.**, *The Conversation*, 2019.
+**Li., Y.** *The Conversation*, 2019.
