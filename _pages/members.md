@@ -44,6 +44,18 @@ Mansoor:
         </strong>'
   image_width: 60%
 
+Uddin:
+  image_path: /images/members/nizam_uddin.jpg
+  alt: 'Photo of Nizam'
+  title: 'Nizam Uddin'
+  synopsis: 'Nizam received his Bachelor of Science (B.S.) from Bangladesh University of Engineering & Technology (BUET) and Master’s from Georgia Southern University, both in Civil Engineering. He is currently pursuing a Ph.D. in Civil & Environmental Engineering at Rutgers. His research interest lies in valorization of hydrothermal liquefaction (HTL) products and sustainability analysis.
+
+   <br><br> <strong>
+        [Google Scholar](https://scholar.google.com/citations?hl=en&user=aI7XzREAAAAJ) &nbsp; | &nbsp;
+        [LinkedIn](https://www.linkedin.com/in/nizam-uddin-802097174/)
+        </strong>'
+  image_width: 60%
+
 Chiang:
   image_path: /images/members/jason_chiang.png
   alt: 'Photo of Jason'
@@ -89,6 +101,8 @@ Shah:
 {% include single_left id='Ahmad' %}
 
 {% include single_left id='Mansoor' %}
+
+{% include single_left id='Uddin' %}
 
 ## Undergraduate Researchers
 
