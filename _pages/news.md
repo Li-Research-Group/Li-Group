@@ -6,6 +6,9 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Jan 2025]** Happy New Year! Our [group](/members) is growing! **Basil** joined the group in Fall 2024 while **Nizam** and **Yu** started this Spring. Jason, Charlotte, and Maggie have also been working on their Aresty projects/independent study since Fall 2024.
+{: .notice--blue}
+
 **[Oct 2024]** [**Ali**](/members#graduate-students) presented his work on the data-driven model for HTL biocrude prediction and techno-economic analysis at the [2024 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2024).
 {: .notice--yellow}
 <img src='/images/news/2024-10-28_ahmad_aiche.png' alt='Ali presenting his research' width='50%' id='image'>

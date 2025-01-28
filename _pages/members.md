@@ -48,12 +48,23 @@ Uddin:
   image_path: /images/members/nizam_uddin.jpg
   alt: 'Photo of Nizam'
   title: 'Nizam Uddin'
-  synopsis: 'Nizam received his Bachelor of Science (B.S.) from Bangladesh University of Engineering & Technology (BUET) and Master’s from Georgia Southern University, both in Civil Engineering. He is currently pursuing a Ph.D. in Civil & Environmental Engineering at Rutgers. His research interest lies in valorization of hydrothermal liquefaction (HTL) products and sustainability analysis.
+  synopsis: "Nizam received his Bachelor of Science (B.S.) from Bangladesh University of Engineering & Technology (BUET) and Master's from Georgia Southern University, both in Civil Engineering. He is currently pursuing a Ph.D. in Civil & Environmental Engineering at Rutgers. His research interest lies in valorization of hydrothermal liquefaction (HTL) products and sustainability analysis.
 
    <br><br> <strong>
         [Google Scholar](https://scholar.google.com/citations?hl=en&user=aI7XzREAAAAJ) &nbsp; | &nbsp;
         [LinkedIn](https://www.linkedin.com/in/nizam-uddin-802097174/)
-        </strong>'
+        </strong>"
+  image_width: 60%
+
+Zhou:
+  image_path: /images/members/yu_zhou.jpg
+  alt: 'Photo of Yu'
+  title: 'Yu Zhou'
+  synopsis: "Yu received a master's degree from Beijing Normal University and a bachelor's degree from Nanjing University, both in Environmental Science. Currently, Yu is pursuing a PhD in Civil and Environmental Engineering at Rutgers University. Her research focuses on techno-economic analysis (TEA) and life cycle assessment (LCA) of low-carbon concrete.
+
+   <br><br> <strong>
+        [Google Scholar](https://scholar.google.com/citations?hl=en&user=2fQqnCUAAAAJ)
+        </strong>"
   image_width: 60%
 
 Chiang:
@@ -103,6 +114,8 @@ Shah:
 {% include single_left id='Mansoor' %}
 
 {% include single_left id='Uddin' %}
+
+{% include single_left id='Zhou' %}
 
 ## Undergraduate Researchers
 
