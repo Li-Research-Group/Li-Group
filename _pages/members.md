@@ -78,6 +78,13 @@ Chiang:
         </strong>'
   image_width: 60%
 
+Orton:
+  image_path: /images/members/charlotte_orton.jpg
+  alt: 'Photo of Charlotte'
+  title: 'Charlotte Orton'
+  synopsis: 'Charlotte Orton is a junior majoring in Environmental Chemistry at Rutgers University. Her research interests include wastewater and water treatment. Charlotte joined the Li Group in September 2024 working on independent research on Hydrothermal Liquefaction of Microplastics, specifically HDPE. She previously conducted research as an Aresty Research Assistant with Dr. Xiaomeng Jin on the effect of the Canadian Wildfires Impact on Air Pollution in New Jersey and New York during the summer of 2023.'
+  image_width: 60%
+
 Shah:
   image_path: /images/members/naman_shah.jpg
   alt: 'Photo of Naman'
@@ -120,6 +127,8 @@ Shah:
 ## Undergraduate Researchers
 
 {% include single_left id='Chiang' %}
+
+{% include single_left id='Orton' %}
 
 {% include single_left id='Shah' %}
 
