@@ -7,7 +7,7 @@ header:
   text_color: black
 
 Li:
-  image_path: /images/members/yalin_li.png
+  image_path: /images/members/yalin_li.jpg
   alt: 'Photo of Yalin'
   title: 'Yalin Li'
   synopsis: 'Dr. Li is an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. Yalin received B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. Yalin was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL) during graduate study.
