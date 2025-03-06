@@ -21,6 +21,18 @@ Li:
         </strong>'
   image_width: 60%
 
+Peng:
+  image_path: /images/members/ouwen_peng.jpg
+  alt: 'Photo of Ouwen'
+  title: 'Ouwen Peng'
+  synopsis: 'Dr. Ouwen Peng is a postdoctoral researcher in the Bioprocess Engineering team (co-advised with [Dr. Jeremy Guest](https://engineeringforsustainability.com/) at UIUC) at [PreFerS](https://sustainability.illinois.edu/14-8m-grant-supports-singapore-partnership-on-precision-fermentation/), the Centre for Precision Fermentation and Sustainability. Ouwen received his B.Eng. in Materials Science and Engineering from Southern University of Science and Technology (SUSTech) and his Ph.D. in Chemistry from the National University of Singapore (NUS). His current research focuses on techno-economic analysis, life-cycle assessment, and optimization of precision fermentation processes.
+
+   <br><br> <strong>
+        [Google Scholar](https://scholar.google.com/citations?user=fiJD-4oAAAAJ&hl) &nbsp; | &nbsp;
+        [LinkedIn](https://www.linkedin.com/in/ouwen-peng-11206b208)
+        </strong>'
+  image_width: 60%
+
 Ahmad:
   image_path: /images/members/ali_ahmad.jpg
   alt: 'Photo of Ali'
@@ -113,6 +125,10 @@ Shah:
 ## Lead
 
 {% include single_left id='Li' %}
+
+## Postdoctoral Researcher
+
+{% include single_left id='Peng' %}
 
 ## Graduate Students
 
