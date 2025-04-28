@@ -6,6 +6,17 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Apr 2025]** It's been a busy April for the group. I visited National University of Singapore and gave a talk at Nanyang Technological University (thanks to my host Profs. [Bin CAO](https://dr.ntu.edu.sg/cris/rp/rp00248), [Xunchang FEI](https://dr.ntu.edu.sg/cris/rp/rp00435) [pictured], and [Qianhong SHE](https://dr.ntu.edu.sg/cris/rp/rp00187)).
+{: .notice--yellow}
+
+[**Jason** and **Maggie**](/members#undergraduate-researchers) presented their Aresty Research Project at the [Undergraduate Research Symposium](https://aresty.rutgers.edu/research-showcase/undergraduate-research-symposium).
+{: .notice--yellow}
+<img src='/images/news/2025-04_presentations.png' alt='Yalin, Maggie, and Jason presentations' width='100%' id='image'>
+
+And we demonstrated how to turn poops into fertilizers at our [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day-thank-you) event (the [composting toilet](https://go.rutgers.edu/toilet) was the star!). Thanks to **Charlotte**, **Maggie**, **Jason**, **Nizam**, and **Basil** who ran the show!
+{: .notice--yellow}
+<img src='/images/news/2025-04-26_rutgers_day.png' alt='Rutgers Day event' width='100%' id='image'>
+
 **[Jan 2025]** Happy New Year! Our [group](/members) is growing! **Basil** joined the group in Fall 2024 while **Nizam** and **Yu** started this Spring. **Jason**, **Charlotte**, and **Maggie** have also been working on their Aresty projects/independent study since Fall 2024.
 {: .notice--blue}
 
@@ -31,7 +42,7 @@ header:
 **[Jul 2024]** We are one of the awardees of the inaugural Groundwork Grants by the Rutgers Climate and Energy Institute (RCEI). This grant will enable us to develop technologies to convert Alaskan kelp (a renewable biomass feedstock) into value-added bioproducts and low-carbon fuels. Read the [**News Release**](https://rcei.rutgers.edu/rcei-groundwork-grants-to-address-climate-and-the-bioeconomy/).
 {: .notice--green}
 
-**[Aug 2024]** [**Naman, Xavier, and Venus**](/members#graduate-students) (left to right in the photo) presented their work at the [**2024 Summer Research Symposium**](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
+**[Aug 2024]** [**Naman**, **Xavier**, and **Venus**](/members#undergraduate-researchers) (left to right in the photo) presented their work at the [2024 Summer Research Symposium](https://lsamp-nb.rutgers.edu/summer-research-symposium-2024). Congrats on the great presentations and thank you all for the hard work this summer!
 {: .notice--yellow}
 <img src='/images/news/2024-08-01_summer_symposium.png' alt='Naman, Xavier, and Venus presentations' width='100%' id='image'>
 
