@@ -6,6 +6,12 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[May 2025]** We are at [**#AEESP2025**](https://aeesp2025.duke.edu/) - [**Nizam**](/members#graduate-students) gave a poster presentation for his M.S. work with [Prof. Rowles](https://www.rowlesresearch.com/) at Georgia Southern University on co-digestion of food waste and paper mill sludge. And we have a Rutgers photo!
+
+(L to R: [**Yu**](/members#graduate-students), [**Lilia**](https://www.linkedin.com/in/liliaochoa/en) (Fahrenfeld group), [**Prof. Krogmann**](https://envsci.rutgers.edu/profiles/Uta_Krogmann.html), [**Prof. Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld/home), [**Prof. Fennell**](https://sites.google.com/site/fennelllaboratoryatrutgers/home), me, [**Basil**](/members#graduate-students), and [**Nizam**](/members#graduate-students))
+{: .notice--yellow}
+<img src='/images/news/2025-05_aeesp.png' alt='Yalin, Maggie, and Jason presentations' width='100%' id='image'>
+
 **[Apr 2025]** It's been a busy April for the group. I visited National University of Singapore and gave a talk at Nanyang Technological University (thanks to my host Profs. [Bin CAO](https://dr.ntu.edu.sg/cris/rp/rp00248), [Xunchang FEI](https://dr.ntu.edu.sg/cris/rp/rp00435) [pictured], and [Qianhong SHE](https://dr.ntu.edu.sg/cris/rp/rp00187)).
 {: .notice--yellow}
 
@@ -15,7 +21,11 @@ header:
 
 And we demonstrated how to turn poops into fertilizers at our [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day-thank-you) event (the [composting toilet](https://go.rutgers.edu/toilet) was the star!). Thanks to **Charlotte**, **Maggie**, **Jason**, **Nizam**, and **Basil** who ran the show!
 {: .notice--yellow}
-<img src='/images/news/2025-04-26_rutgers_day.png' alt='Rutgers Day event' width='100%' id='image'>
+<img src='/images/news/2025-04-26_rutgers_day1.png' alt='Rutgers Day event' width='100%' id='image'>
+
+We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spite-drizzle-tens-thousands-enjoy-rutgers-day) (I'm not necessarily a senior, but the photo was great).
+{: .notice--yellow}
+<img src='/images/news/2025-04-26_rutgers_day2.png' alt='Rutgers Day event' width='50%' id='image'>
 
 **[Jan 2025]** Happy New Year! Our [group](/members) is growing! **Basil** joined the group in Fall 2024 while **Nizam** and **Yu** started this Spring. **Jason**, **Charlotte**, and **Maggie** have also been working on their Aresty projects/independent study since Fall 2024.
 {: .notice--blue}
