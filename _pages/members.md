@@ -79,14 +79,14 @@ Zhou:
         </strong>"
   image_width: 60%
 
-Chiang:
-  image_path: /images/members/jason_chiang.png
-  alt: 'Photo of Jason'
-  title: 'Jason Chiang'
-  synopsis: 'Jason Chiang is a sophomore majoring in Materials Science and Engineering at Rutgers University. Jason is interested in research related to environmental sustainability and as such joined the Li lab in January 2024 to further explore this topic as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program).
+Du:
+  image_path: /images/members/vicky_du.jpg
+  alt: 'Photo of Vicky'
+  title: 'Vicky Du'
+  synopsis: 'Vicky Du is a rising sophomore majoring in Chemical Engineering at Rutgers University, with a strong interest in research areas such as sustainability, carbon capture, and biomedical applications. She joined the Li Research Group as a 2025 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar to further explore these interests.
 
    <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/jason-chiang-)
+        [LinkedIn](www.linkedin.com/in/vickydu216)
         </strong>'
   image_width: 60%
 
@@ -142,7 +142,7 @@ Shah:
 
 ## Undergraduate Researchers
 
-{% include single_left id='Chiang' %}
+{% include single_left id='Du' %}
 
 {% include single_left id='Orton' %}
 
@@ -150,10 +150,13 @@ Shah:
 
 ## Alumni
 
+[Maggie Wisneski](https://www.linkedin.com/in/maggie-wisneski/), Civil Engineering, Aresty Research Assistant, 2024-2025.
+
+[Jason Chiang](https://www.linkedin.com/in/jason-chiang-/), Materials Science and Engineering, Aresty Research Assistant, 2024-2025.
+
 [Xavier Lennard](https://www.linkedin.com/in/xavier-lennard-43a53223b), Biochemistry, Spring/Summer 2024, LSAMP Scholar.
 
 [Venus Ikinnagbon](https://www.linkedin.com/in/venus-ikinnagbon-62b6392a3), Biology/Women and Gender Studies (minor), Summer 2024, LSAMP Scholar.
-
 
 <!-- Old codes for reference
 
