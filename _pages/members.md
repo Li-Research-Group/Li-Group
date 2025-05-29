@@ -86,7 +86,7 @@ Du:
   synopsis: 'Vicky Du is a rising sophomore majoring in Chemical Engineering at Rutgers University, with a strong interest in research areas such as sustainability, carbon capture, and biomedical applications. She joined the Li Research Group as a 2025 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar to further explore these interests.
 
    <br><br> <strong>
-        [LinkedIn](www.linkedin.com/in/vickydu216)
+        [LinkedIn](https://www.linkedin.com/in/vickydu216)
         </strong>'
   image_width: 60%
 
