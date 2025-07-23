@@ -12,6 +12,36 @@ header:
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 
+### 2025
+
+`31.` [Recovery of Nutrients from the Aqueous Phase of Hydrothermal Liquefaction—A Review](https://doi.org/10.3390/w17142099)
+
+Hydrothermal liquefaction (HTL) is a thermochemical conversion process that converts wet biomass into biocrude oil, a gas phase, a solid phase, and an aqueous phase (HTL-AP). An obstacle to the development and scaling of HTL is the volume of HTL-AP produced during the process, which has high concentrations of nitrogen and carbon and cannot be disposed of in the environment without treatment. The HTL-AP is enriched with organic compounds, particularly light polar organics and nitrogenous compounds, which are inhibitory to microbial treatment in wastewater treatment plants. This review synthesizes published findings on different types of treatment of the HTL-AP for the recovery of valuable nutrients and the removal of toxic compounds. The literature highlights the importance of increasing nitrogen bioavailability in HTL-AP through two-step treatments and by selecting HTL-AP derived from protein-rich feedstocks, which offer higher initial nitrogen content. Further work is needed to optimize chemical and biological treatments for nutrient recovery from HTL-AP, particularly regarding treatment scale and duration. Additionally, economic analyses across different treatment types are currently lacking, but are essential to evaluate their feasibility and practicality.
+
+Bogarin Cantero, B. C.; **Li, Y.**; Kalita, P.; Zhang, Y.; Davidson, P. Recovery of nutrients from the aqueous phase of hydrothermal liquefaction – A Review. *Water* **2025**.
+
+---
+
+`30.` [Defining Economic and Environmental Typologies across 77 Countries to Prioritize Opportunities for Non-Sewered Sanitation](https://doi.org/10.1021/acs.est.5c02064)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acs.est.5c02064/asset/images/medium/es5c02064_0005.gif#TOC)
+
+Lack of access to sanitation is a challenge that persists globally, with low sewerage connection rates in many low- and lower-middle-income countries. Engineered nonsewered sanitation (NSS) technologies can meet treatment requirements without sewers, but their relative sustainability varies across potential deployment sites. Here, we characterize the costs and carbon intensity (CI) of three emerging NSS technologies, two community reinvented toilets (CRTs) and one Omni Processor (OP), across 77 countries, identify sustainability performance typologies, and map typology prevalence in countries across the globe. Locality-specific factors such as wages, diet, and material costs drive regional variability in NSS costs by up to 15-fold and CI up to 2-fold within technologies. Across all three NSS technologies and all scenarios evaluated, low-cost, low-CI typologies are predominantly in countries with lower human development indices (HDI 2–4), demonstrating alignment between the sanitation need and the NSS opportunity space. By elucidating key sustainability drivers and defining typologies, this work can support early-stage decision-making for NSS technology research, development, and deployment.
+
+Lohman, H. A. C.; **Li, Y.**; Zhang, X.; Morgan, V. L.; Watabe, S.; Rowles, L. S.; Cusick, R. D.; Guest, J. S. *Environ. Sci. Technol.* **2025**.
+
+---
+
+`29.` [Greenhouse Gas Accounting Procedures in Low Carbon Fuel Policies Lead to Undervalued Benefits of Miscanthus-Based Sustainable Aviation Fuel](https://doi.org/10.1021/acssusresmgt.4c00486)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acssusresmgt.4c00486/asset/images/medium/rm4c00486_0004.gif#TOC)
+
+Low carbon fuel policies such as the U.S. Renewable Fuel Standard (RFS), Canada Clean Fuel Regulations (CFR), and California Low Carbon Fuel Standard (LCFS) as well as the 45Z tax credit are intended to reduce greenhouse gas (GHG) emissions from transportation. Rigid carbon intensity (CI) accounting procedures in current policies may limit CI responsiveness across candidate sites and processing facilities. This work examines a hypothetical biomass-to-sustainable aviation fuel (SAF) pathway using miscanthus and alcohol-to-jet biorefineries. Results demonstrate that GHG accounting using the CFR/LCFS can reasonably account for distinct levels of net electricity production by a biorefinery, but only the CFR yields similar CI sensitivity to spatially explicit factors in scenario-specific analysis, and most GHG accounting frameworks do not capture CI variation across candidate sites in the United States. Ultimately, this work demonstrates the importance of life cycle assessment (LCA) methodological specifications in low carbon fuel policies and tax credits.
+
+Stewart, D.; Guo, W.; **Li, Y.**; Fan, X.; Coppess, J.; Khanna, M.; Guest, J. *ACS Sustainable Resour. Manage.* **2025**.
+
+---
+
 ### 2024
 
 `28.` [Integration of plant and microbial oil processing at oilcane biorefineries for more sustainable biofuel production](https://doi.org/10.1111/gcbb.13183)
