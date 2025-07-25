@@ -1,7 +1,7 @@
 ---
 title: 'Teaching'
 layout: splash
-permalink: /teaching/
+permalink: /teaching_trial/
 header:
   overlay_image: /images/splash.png
   text_color: black
@@ -59,3 +59,30 @@ I see tremendous potentials in leveraging the open-source platforms developed in
 {% include single_left id='aeesp' %}
 
 {% include single_right id='ees' %}
+
+
+## New Jersey Bioenergy Potential
+
+The New Jersey Agricultural Experiment Station (NJAES) conducted an assessment of NJ’s biomass and the potential for bioenergy production and published the results in the report titled Assessment of Biomass Energy Potential in New Jersey. The report was later updated by the Rutgers EcoComplex into the Bioenergy Calculator. Below you can find a quick visualization of the estimated gross biomass energy for 2010.
+
+Refer to [Rutgers EcoComplex's website](https://ecocomplex.rutgers.edu/biomass-energy-potential.html) for the original report, the Bioenergy Calculator (including modeling assumptions and data sources).
+
+This module was developed with the help of [Yogesh Jaganathan](https://www.linkedin.com/in/yogesh-jaganathan-1970b4304/).
+
+
+<div id="main">
+  <tableau-viz id="tableauViz" src="https://public.tableau.com/views/NJBioenergyPotential_17532827141970/Module"
+    iframe-attr-loading="lazy" iframe-attr-class="border">
+    <iframe-style>
+      .border { border: 1px solid #EFEFEF !important; }
+      .fun { scale(0.9); }
+    </iframe-style>
+
+  </tableau-viz>
+</div>
+<script type="module">
+  import { TableauEventType } from 'https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';
+  const tableauViz = document.getElementById('tableauViz');
+  window.addEventListener('resize', () => tableauViz.resize());
+</script>
+
