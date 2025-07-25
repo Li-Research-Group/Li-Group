@@ -67,7 +67,7 @@ The New Jersey Agricultural Experiment Station (NJAES) conducted an assessment o
 
 Refer to [Rutgers EcoComplex's website](https://ecocomplex.rutgers.edu/biomass-energy-potential.html) for the original report, the Bioenergy Calculator (including modeling assumptions and data sources).
 
-This module was developed with the help of [Yogesh Jaganathan](https://www.linkedin.com/in/yogesh-jaganathan-1970b4304/).
+This visualization module was developed with the help of [Yogesh Jaganathan](https://www.linkedin.com/in/yogesh-jaganathan-1970b4304/).
 
 
 <div id="main">
