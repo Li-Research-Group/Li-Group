@@ -6,7 +6,12 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+**[Aug 2025]** Over the summer, [**Vicky**](/members#undergraduate-researchers) explored how reaction conditions would affect the efficacy of hydrothermal treatment of seaweed. She presented her work at the 2025 Summer Research Symposium. Also a big shout-out to her grad mentor [**Basil**](/members#graduate-students)! 
+{: .notice--yellow}
+<img src='/images/news/2025-07-31_summer_symposium.jpg' alt='Vicky and her poster' width='30%' id='image'>
+
 **[May 2025]** We are at [**#AEESP2025**](https://aeesp2025.duke.edu/) - [**Nizam**](/members#graduate-students) gave a poster presentation for his M.S. work with [**Prof. Rowles**](https://www.rowlesresearch.com/) at Georgia Southern University on co-digestion of food waste and paper mill sludge. And we have a Rutgers photo!
+{: .notice--yellow}
 
 (L to R: [**Yu**](/members#graduate-students), [**Lilia**](https://www.linkedin.com/in/liliaochoa/en) (Fahrenfeld group), [**Prof. Krogmann**](https://envsci.rutgers.edu/profiles/Uta_Krogmann.html), [**Prof. Fahrenfeld**](https://sites.google.com/site/nicolefahrenfeld/home), [**Prof. Fennell**](https://sites.google.com/site/fennelllaboratoryatrutgers/home), me, [**Basil**](/members#graduate-students), and [**Nizam**](/members#graduate-students))
 {: .notice--yellow}
