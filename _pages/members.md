@@ -68,6 +68,17 @@ Uddin:
         </strong>"
   image_width: 60%
 
+Zhang:
+  image_path: /images/members/shirui_zhang.jpg
+  alt: 'Photo of Shirui'
+  title: 'Shirui (Rae) Zhang'
+  synopsis: "Shirui (Rae) Zhang received her bachelor’s degree from Beijing University of Civil Engineering and Architecture and her master’s degree from Beijing University of Technology, where her research focused on municipal wastewater treatment. She later worked as a civil engineer at the Beijing Institute of Architectural Design, concentrating on stormwater management. Her current research focuses on the fate and conversion mechanisms of microplastics.
+
+   <br><br> <strong>
+        [Google Scholar](https://scholar.google.com/citations?hl=en&user=ci07K4kAAAAJ)
+        </strong>"
+  image_width: 60%
+
 Zhou:
   image_path: /images/members/yu_zhou.jpg
   alt: 'Photo of Yu'
@@ -137,6 +148,8 @@ Shah:
 {% include single_left id='Mansoor' %}
 
 {% include single_left id='Uddin' %}
+
+{% include single_left id='Zhang' %}
 
 {% include single_left id='Zhou' %}
 
