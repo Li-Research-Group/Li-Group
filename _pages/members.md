@@ -72,7 +72,7 @@ Zhang:
   image_path: /images/members/shirui_zhang.jpg
   alt: 'Photo of Shirui'
   title: 'Shirui (Rae) Zhang'
-  synopsis: "Shirui (Rae) Zhang received her bachelor’s degree from Beijing University of Civil Engineering and Architecture and her master’s degree from Beijing University of Technology, where her research focused on municipal wastewater treatment. She later worked as a civil engineer at the Beijing Institute of Architectural Design, concentrating on stormwater management. Her current research focuses on the fate and conversion mechanisms of microplastics.
+  synopsis: "Shirui (Rae) received her bachelor’s degree from Beijing University of Civil Engineering and Architecture and her master’s degree from Beijing University of Technology, where her research focused on municipal wastewater treatment. She later worked as a civil engineer at the Beijing Institute of Architectural Design, concentrating on stormwater management. Her current research focuses on the fate and conversion mechanisms of microplastics.
 
    <br><br> <strong>
         [Google Scholar](https://scholar.google.com/citations?hl=en&user=ci07K4kAAAAJ)
@@ -90,11 +90,18 @@ Zhou:
         </strong>"
   image_width: 60%
 
+Akula:
+  image_path: /images/members/marali_akula.png
+  alt: 'Photo of Marali'
+  title: 'Marali Akula'
+  synopsis: 'Marali is a sophomore majoring in environmental engineering at Rutgers University. For the past year, she has been with an project based organization on campus called S.E.E.D (Students for Environmental and Energy Development) and has been doing work with engineering and research through them. Marali joined the group in Fall 2025 as a way to further pursue an interest in environmental science and gain more experience with research.'
+  image_width: 60%
+
 Du:
   image_path: /images/members/vicky_du.jpg
   alt: 'Photo of Vicky'
   title: 'Vicky Du'
-  synopsis: 'Vicky Du is a rising sophomore majoring in Chemical Engineering at Rutgers University, with a strong interest in research areas such as sustainability, carbon capture, and biomedical applications. She joined the Li Research Group as a 2025 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar to further explore these interests.
+  synopsis: 'Vicky is a rising sophomore majoring in Chemical Engineering at Rutgers University, with a strong interest in research areas such as sustainability, carbon capture, and biomedical applications. She joined the Li Research Group as a 2025 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar to further explore these interests.
 
    <br><br> <strong>
         [LinkedIn](https://www.linkedin.com/in/vickydu216)
@@ -105,14 +112,14 @@ Orton:
   image_path: /images/members/charlotte_orton.jpg
   alt: 'Photo of Charlotte'
   title: 'Charlotte Orton'
-  synopsis: 'Charlotte Orton is a senior majoring in Environmental Chemistry at Rutgers University. Her research interests include wastewater and water treatment. Charlotte joined the Li Group in September 2024 working on independent research on Hydrothermal Liquefaction of Microplastics, specifically HDPE. She is now continuing the research for her honors thesis. She previously conducted research as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program) with Dr. Xiaomeng Jin on the effect of the Canadian Wildfires Impact on Air Pollution in New Jersey and New York during the summer of 2023.'
+  synopsis: 'Charlotte is a senior majoring in Environmental Chemistry at Rutgers University. Her research interests include wastewater and water treatment. Charlotte joined the Li Group in September 2024 working on independent research on Hydrothermal Liquefaction of Microplastics, specifically HDPE. She is now continuing the research for her honors thesis. She previously conducted research as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program) with Dr. Xiaomeng Jin on the effect of the Canadian Wildfires Impact on Air Pollution in New Jersey and New York during the summer of 2023.'
   image_width: 60%
 
 Shah:
   image_path: /images/members/naman_shah.jpg
   alt: 'Photo of Naman'
   title: 'Naman Shah'
-  synopsis: 'Naman Shah is a rising sophomore majoring in Computer Science and Data Science at Rutgers University. He has been working in developing Python scripts for over two years. He has been awarded as the winner of Datathon by the Rutgers University Data Science in Spring 2024 for his work in analyzing data from Starbucks and Dunkin Donuts. He is drawn to work on QSDsan and BioSTEAM to bioprocess engineering and resource recovery, specifically for the New Jersey Waste. He is a 2024 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar.
+  synopsis: 'Naman is a junior majoring in Computer Science and Data Science at Rutgers University. He has been working in developing Python scripts for over two years. He has been awarded as the winner of Datathon by the Rutgers University Data Science in Spring 2024 for his work in analyzing data from Starbucks and Dunkin Donuts. He is drawn to work on QSDsan and BioSTEAM to bioprocess engineering and resource recovery, specifically for the New Jersey Waste. He is a 2024 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar.
 
    <br><br> <strong>
         [LinkedIn](https://www.linkedin.com/in/naman-shah26) &nbsp; | &nbsp;
@@ -153,6 +160,8 @@ Shah:
 {% include single_left id='Zhou' %}
 
 ## Undergraduate Researchers
+
+{% include single_left id='Akula' %}
 
 {% include single_left id='Du' %}
 

@@ -9,7 +9,7 @@ header:
 **[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://www.nsf.gov/tip/updates/nsf-invests-more-32m-biotechnology-accelerating-adoption) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)). We will be hiring a postdoc for this project, job posting coming soon!
 {: .notice--green}
 
-**[Sep 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members) is working on updating the bioenergy potential of New Jersey.
+**[Sep 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members#undergraduate-researchers) is working on updating the bioenergy potential of New Jersey.
 {: .notice--blue}
 
 **[Aug 2025]** Over the summer, [**Vicky**](/members#undergraduate-researchers) explored how reaction conditions would affect the efficacy of hydrothermal treatment of seaweed. She presented her work at the 2025 Summer Research Symposium. Also a big shout-out to her grad mentor [**Basil**](/members#graduate-students)! 
