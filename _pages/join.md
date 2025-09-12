@@ -7,6 +7,10 @@ header:
   text_color: black
 ---
 
+## Postdoctoral Researchers
+
+A postdoc position will soon be available for the new [CFIRE grant](/news), job posting coming soon!
+
 ## Graduate Students
 
 Currently there are no openings in the group. When new opportunities arise, I will advertise on AEESP's [job board](https://www.aeesp.org/jobs). I will also look through students already admitted to Rutgers, and you can learn more about the application process on CEE's [website](https://cee.rutgers.edu/graduate-applicant-criteria).

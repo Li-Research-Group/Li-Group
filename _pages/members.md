@@ -105,7 +105,7 @@ Orton:
   image_path: /images/members/charlotte_orton.jpg
   alt: 'Photo of Charlotte'
   title: 'Charlotte Orton'
-  synopsis: 'Charlotte Orton is a junior majoring in Environmental Chemistry at Rutgers University. Her research interests include wastewater and water treatment. Charlotte joined the Li Group in September 2024 working on independent research on Hydrothermal Liquefaction of Microplastics, specifically HDPE. She previously conducted research as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program) with Dr. Xiaomeng Jin on the effect of the Canadian Wildfires Impact on Air Pollution in New Jersey and New York during the summer of 2023.'
+  synopsis: 'Charlotte Orton is a senior majoring in Environmental Chemistry at Rutgers University. Her research interests include wastewater and water treatment. Charlotte joined the Li Group in September 2024 working on independent research on Hydrothermal Liquefaction of Microplastics, specifically HDPE. She is now continuing the research for her honors thesis. She previously conducted research as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program) with Dr. Xiaomeng Jin on the effect of the Canadian Wildfires Impact on Air Pollution in New Jersey and New York during the summer of 2023.'
   image_width: 60%
 
 Shah:
@@ -124,12 +124,11 @@ Shah:
 
 <br>
 
-<center> <img src='/images/members/group_fa24.jpg' alt='Group photo' width='80%' id='image'> </center>
+<center> <img src='/images/members/group_fa25.jpg' alt='Group photo' width='80%' id='image'> </center>
 
 <br>
-<left> <i> Group photo just before the start of Fall 2024 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
-<br> Front: Naman, Basil, Yalin, Ali; back: Jason, Saket, Kevin (Washington and Lee University); not pictured: Maggie, Charlotte, Xavier, Venus, Jonah.
-<br> Credit: awesome <a href='https://cee.rutgers.edu/staff'>Gina</a>.
+<left> <i> Group photo for Fall 2025 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
+<br> Front: Vicky, Yu, Shirui, Charlotte, Marali; back: Ali, Basil, Yalin, Nizam.
 </i> </left>
 
 
