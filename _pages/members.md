@@ -94,7 +94,11 @@ Akula:
   image_path: /images/members/marali_akula.png
   alt: 'Photo of Marali'
   title: 'Marali Akula'
-  synopsis: 'Marali is a sophomore majoring in environmental engineering at Rutgers University. For the past year, she has been with an project based organization on campus called S.E.E.D (Students for Environmental and Energy Development) and has been doing work with engineering and research through them. Marali joined the group in Fall 2025 as a way to further pursue an interest in environmental science and gain more experience with research.'
+  synopsis: 'Marali is a sophomore majoring in environmental engineering at Rutgers University. For the past year, she has been with an project based organization on campus called S.E.E.D (Students for Environmental and Energy Development) and has been doing work with engineering and research through them. Marali joined the group in Fall 2025 as a way to further pursue an interest in environmental science and gain more experience with research.
+   
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/maraliakula)
+        </strong>'
   image_width: 60%
 
 Du:
