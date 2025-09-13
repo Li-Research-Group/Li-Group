@@ -130,13 +130,13 @@ Shah:
 ---
 
 <br>
-
 <center> <img src='/images/members/group_fa25.jpg' alt='Group photo' width='80%' id='image'> </center>
-
-<br>
-<left> <i> Group photo for Fall 2025 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
-<br> Front: Vicky, Yu, Shirui, Charlotte, Marali; back: Ali, Basil, Yalin, Nizam.
-</i> </left>
+<i> 
+  Group photo for Fall 2025 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
+</i>
+<br><b>Front:</b> Vicky, Yu, Shirui, Charlotte, Marali;
+<br><b>Back:</b> Ali, Basil, Yalin, Nizam;
+<br><b>Not pictured:</b> Ouwen.
 
 
 ## Lead
@@ -170,6 +170,14 @@ Shah:
 {% include single_left id='Shah' %}
 
 ## Alumni
+
+### Fall 2024
+<br>
+<center> <img src='/images/members/group_fa24.jpg' alt='Group photo' width='80%' id='image'> </center>
+<br><b>Front:</b> Naman, Basil, Yalin, Ali;
+<br><b>Back:</b> Jason, Saket, Kevin (Washington and Lee University);
+<br><b>Not pictured:</b> Maggie, Charlotte, Xavier, Venus, Jonah.
+<br>
 
 [Maggie Wisneski](https://www.linkedin.com/in/maggie-wisneski/), Civil Engineering, Aresty Research Assistant, 2024-2025.
 
