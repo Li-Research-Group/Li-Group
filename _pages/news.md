@@ -6,7 +6,10 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
-**[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://www.nsf.gov/tip/updates/nsf-invests-more-32m-biotechnology-accelerating-adoption) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)). We will be hiring a postdoc for this project, job posting coming soon!
+**[Sep 2024]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details!
+{: .notice--blue}
+
+**[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://www.nsf.gov/tip/updates/nsf-invests-more-32m-biotechnology-accelerating-adoption) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)).
 {: .notice--green}
 
 **[Sep 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members#undergraduate-researchers) is working on updating the bioenergy potential of New Jersey.
