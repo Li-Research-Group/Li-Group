@@ -36,7 +36,7 @@ ees:
 
 ## Course Instructed
 
-### 16:180:562 Water and Wastewater Treatment
+### 14:180:429/16:180:562 Water and Wastewater Treatment
 
 This course ([syllabus](https://drive.google.com/file/d/19XzQ_lioHbF59835jCJ6B5mjcsI5ftpH/view?usp=drive_link)) covers engineering processes commonly used for drinking water and wastewater treatment, as well as topics of emerging concern. Key topics include drinking water and wastewater quality criteria, water chemistry, integration of unit processes into full scale treatment facilities, reactor design, coagulation, flocculation, sedimentation, filtration, disinfection, water softening, microbiology and biological wastewater treatment, oxidation-reduction processes in treatment, nutrient removal, and residual solids management. A design module is also included that demonstrate the use of process simulation software.
 
