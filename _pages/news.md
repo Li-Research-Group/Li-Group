@@ -6,10 +6,19 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
-**[Sep 2024]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details!
+**[Nov 2025]** [**Ali**](/members#graduate-students) presented his work on the economic and environmental assessment of hydrothermal valorization of US organic waste at the [2025 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2025).
+{: .notice--yellow}
+
+**[Oct 2025]** Two new projects awarded to the group! We joined the [SaBRe](https://sabreproject.org/) (*Sargassum* Biorefinery) project to leverage anaerobic digestion for valuable products from the *Sargassum* seaweed. SaBRe is one of the Virtual Institute on Feedstocks of the Future (VIFF) funded by the Schmidt Sciences, which aims to support science, technology, and engineering research towards the use of underutilized biomass as alternative feedstocks for biomanufacturing.
+{: .notice--green}
+
+We also received an [AEESP Foundation Education Grant](https://aeespfoundation.org/grants), where we will collaborate with the New Jersey 4-H to advocate sustainable food waste management through youth voices. Look forward to get our work started!
+{: .notice--green}
+
+**[Sep 2025]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details!
 {: .notice--blue}
 
-**[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://www.nsf.gov/tip/updates/nsf-invests-more-32m-biotechnology-accelerating-adoption) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)).
+**[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://cee.rutgers.edu/cee-professor-awarded-nsf-cfire-grant-speed-use-cell-free-systems-grow-bioeconomy) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)).
 {: .notice--green}
 
 **[Sep 2025]** New members and new group photo for the new academic year! [**Shirui**](/members#graduate-students) joined the group as a Ph.D. student to work on the hydrothermal conversion of microplastics, and [**Marali**](/members#undergraduate-researchers) is working on updating the bioenergy potential of New Jersey.
