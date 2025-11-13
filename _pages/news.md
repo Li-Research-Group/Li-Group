@@ -6,8 +6,9 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
-**[Nov 2025]** [**Yu**](/members#graduate-students) presented her work on the cost and environmental impact analyses of low-carbon pathways for cement recovery from waste concrete at the [Rutgers Climate Symposium 2025](https://ruclimatesymposium.rutgers.edu/).
+**[Nov 2025]** [**Yu**](/members#graduate-students) presented her work on the cost and environmental impact analyses of low-carbon pathways for cement recovery from waste concrete at the [Rutgers Climate Symposium 2025](https://ruclimatesymposium.rutgers.edu/). (photo credit: [**Shirui**](/members#graduate-students))
 {: .notice--yellow}
+<img src='/images/news/2025-11-12_zhou_climate_symposium.png' alt='Yu poster presentation' width='60%' id='image'>
 
 **[Nov 2025]** [**Ali**](/members#graduate-students) presented his work on the economic and environmental assessment of hydrothermal valorization of US organic waste at the [2025 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2025).
 {: .notice--yellow}
