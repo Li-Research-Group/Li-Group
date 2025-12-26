@@ -6,6 +6,10 @@ header:
   overlay_image: /images/splash.png
   text_color: black
 ---
+
+**[Dec 2025]** **Ali**'s first paper as the lead author, **Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder** has been accepted by *Chemical Engineering Journal*! Congrats [**Ali**](/members#graduate-students) on wrapping up the year on a high note. Read the [**Paper**](https://doi.org/10.1016/j.cej.2025.172283).
+{: .notice--gray}
+
 **[Nov 2025]** [**Yu**](/members#graduate-students) presented her work on the cost and environmental impact analyses of low-carbon pathways for cement recovery from waste concrete at the [Rutgers Climate Symposium 2025](https://ruclimatesymposium.rutgers.edu/). (photo credit: [**Shirui**](/members#graduate-students))
 {: .notice--yellow}
 <img src='/images/news/2025-11-12_zhou_climate_symposium.png' alt='Yu poster presentation' width='60%' id='image'>
@@ -83,7 +87,7 @@ We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spit
 {: .notice--yellow}
 <img src='/images/news/2024-08-01_summer_symposium.png' alt='Naman, Xavier, and Venus presentations' width='100%' id='image'>
 
-**[Jul 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [Ali](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
+**[Jul 2024]** The paper **Assessing the Relative Sustainability of Point-of-Use Water Disinfection Technologies for Off-Grid Communities** has been accepted by *ACS Environmental Au*. Congrats [**Ali**](/members#graduate-students) to this first publication at Rutgers! Read the [**Paper**](https://doi.org/10.1021/acsenvironau.4c00017).
 {: .notice--gray}
 
 **[May 2024]** I'm excited to be a part of the Centre for Precision Fermentation and Sustainability (PreFerS), which strives to realize reliable and cost-effective production of safe, nutritious, and delicious foods in an urban context. Look forward to the groundbreaking work ahead! Read the [**News Release**](https://www.igb.illinois.edu/wheeler/article/148m-grant-supports-singapore-partnership-precision-fermentation).

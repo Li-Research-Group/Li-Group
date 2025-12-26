@@ -14,6 +14,42 @@ For the most up-to-date list, please refer to my [Google Scholar](https://schola
 
 ### 2025
 
+`35.` [Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder](https://doi.org/10.1016/j.cej.2025.172283)
+
+![TOC figure](https://ars.els-cdn.com/content/image/1-s2.0-S138589472513132X-ga1_lrg.jpg#TOC)
+
+This study evaluated the economic and environmental performance of converting food waste into bio-based asphalt binders and coproducts via hydrothermal liquefaction (HTL). Two deployment configurations were considered, including centralized HTL (c-HTL) and decentralized HTL (d-HTL) with upgrading processes to produce biobinders and biofuel additives. Five HTL aqueous phase (AP) management strategies were considered incorporating electrochemical (EC, EC H2, EC Future), disposal to centralized facilities (No EC), and fungal treatment. Techno-economic analysis (TEA) and life cycle assessment (LCA) showed that with an optimal feedstock, a highly cost-competitive biobinder could be produced with net negative emissions in the No EC scenario. On the other hand, current EC-based systems had high MSPs and GWPs due to the large capital and electricity requirements. Sensitivity analysis identified internal rate of return, electricity price, and electrode cost as key cost drivers, which was used in subsequent analyses, where the EC Future scenario demonstrated the potential to close economic and environmental performance gaps with expected technological and infrastructure improvements. Additional analyses on biocrude yield confirmed its significant impacts on system performance, and plant size analysis revealed that based on size, >140 U.S. cities could support cost-competitive biobinder and biofuel production with high-yield food waste alone.
+
+**Ahmad, A.**; Kawale, H. D.; Summers, S.; Bogarin Cantero, B. C.; Allen, C. M.; Hajj, R.; Davidson, P. C.; Zhang, Y.; **Li, Y.** Accepted, *Chemical Engineering Journal*, **2025**.
+
+---
+
+`34.` [Development and Validation of a Process Model and Open-Source Process Simulator for Microalgae-Based Tertiary Phosphorus Recovery](https://doi.org/10.26434/chemrxiv-2024-rqbzn-v2)
+
+Microalgae-based tertiary wastewater treatment has the potential to meet stringent effluent phosphorus limits, with the added benefit of producing a marketable feedstock. However, the lack of validated mechanistic models and their implementation in process simulators have limited the adoption of this technology. In this study, an updated lumped pathway metabolic model was developed to predict effluent phosphorus concentration and biomass yield in response to dynamic influent and varying environmental conditions. The model was implemented in QSDsan and calibrated and validated using batch experimental data and 45 days of continuous online monitoring data from a full-scale microalgae-based tertiary wastewater treatment plant. Overall, the QSDsan-based microalgae process simulator was able to predict effluent phosphorus within 0.02–0.04 mg-P/L, while also capturing the general trends of state variables according to nutrient availability.
+
+Kim, G.-Y.; Molitor, H.; Zhang, X.; **Li, Y.**; Shoener, B.; Schramm, S.; Morgenroth, E.; Snowling, S.; Hartnett, E.; Bradley, I.; Pinto, A.; Guest, J. Accepted, *npj Clean Water*, **2025**.
+
+---
+
+`33.` [An Agile Benchmarking Framework for Wastewater Resource Recovery Technologies](https://doi.org/10.1038/s41545-025-00537-4)
+
+Water resource recovery facilities (WRRFs) face growing pressures to balance compliance, sustainability, and cost while adapting to evolving treatment needs. To support research, development, and deployment (RD&D) of innovative technological solutions, we developed an open-access benchmarking framework comprised of 18 plant-wide simulation models. Implemented in QSDsan, the framework is validated against GPS-X<sup>TM</sup> simulations while capturing distinct system behaviors, treatment performance, energy demand, and operational costs across diverse designs. It offers a rigorous and transparent foundation for comparative technology evaluations, guiding RD&D decision-making and advancing sustainable water management.
+
+Zhang, X.; Rai, S.; Wang, Z.; **Li, Y.**; Guest, J. Accepted, *npj Clean Water*, **2025**.
+
+---
+
+`32.` [Sustainable Triacetic Acid Lactone Production from Sugarcane by Fermentation and Crystallization](https://doi.org/10.1021/acssuschemeng.5c04797)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acssuschemeng.5c04797/asset/images/large/sc5c04797_0006.jpeg#TOC)
+
+Triacetic acid lactone (TAL) has the potential to serve as a bioderived platform chemical for commercial products including sorbic acid and recyclable polydiketoenamine plastics. In this study, we leveraged BioSTEAM to design, simulate, and evaluate (via techno-economic analysis, TEA, and life cycle assessment, LCA) TAL production from sugarcane. We experimentally characterized TAL solubility, calibrated solubility models, and designed a process to separate TAL from fermentation broths by crystallization. Our analyses suggested that the biorefinery could produce TAL as the intermediate for financially viable, low-CI production of sorbic acid and polydiketoenamines. This research highlights the ability of agile TEA-LCA to screen promising designs, navigate sustainability trade-offs, prioritize research needs, and chart quantitative roadmaps to advance bioproducts and biofuels.
+
+Bhagwat, S. S.; Dell’Anna, M. N.; **Li, Y.**; Cao, M.; Brace, E. C.; Bhagwat, S. S.; Huber, G. W.; Zhao, H.; Guest, J. S. *ACS Sustainable Chem. Eng.* **2025**, *13* (42), 17794–17805.
+
+---
+
 `31.` [Recovery of Nutrients from the Aqueous Phase of Hydrothermal Liquefaction—A Review](https://doi.org/10.3390/w17142099)
 
 Hydrothermal liquefaction (HTL) is a thermochemical conversion process that converts wet biomass into biocrude oil, a gas phase, a solid phase, and an aqueous phase (HTL-AP). An obstacle to the development and scaling of HTL is the volume of HTL-AP produced during the process, which has high concentrations of nitrogen and carbon and cannot be disposed of in the environment without treatment. The HTL-AP is enriched with organic compounds, particularly light polar organics and nitrogenous compounds, which are inhibitory to microbial treatment in wastewater treatment plants. This review synthesizes published findings on different types of treatment of the HTL-AP for the recovery of valuable nutrients and the removal of toxic compounds. The literature highlights the importance of increasing nitrogen bioavailability in HTL-AP through two-step treatments and by selecting HTL-AP derived from protein-rich feedstocks, which offer higher initial nitrogen content. Further work is needed to optimize chemical and biological treatments for nutrient recovery from HTL-AP, particularly regarding treatment scale and duration. Additionally, economic analyses across different treatment types are currently lacking, but are essential to evaluate their feasibility and practicality.
@@ -58,7 +94,7 @@ Cortés-Peña, Y. R.; Woodruff, W.; Banerjee, S.; **Li, Y.**; Singh, V.; Rao, C.
 
 Point-of-use (POU) water disinfection technologies can be adopted to provide access to safe drinking water by treating water at the household level; however, navigating various POU disinfection technologies can be difficult. This research assessed the sustainability of four different POU technologies (chlorination using sodium hypochlorite, a silver-nanoparticle-enabled ceramic water filter, ultraviolet mercury lamps, and ultraviolet light-emitting diodes). Leveraging open-source Python packages (QSDsan and EXPOsan), the cost and environmental impacts of these POU technologies were assessed using techno-economic analysis and life cycle assessment. All technologies were further evaluated across ranges of adoption times, and contextual analysis was performed to evaluate the implications of technology deployment across the world.
 
-Elijah, B. C.; Ahmad, A.; **Li, Y.**; Plazas-Tuttle, J.; Rowles, L. S. *ACS Environ. Au* **2024**, *4* (5), 248–259.
+Elijah, B. C.; **Ahmad, A.**; **Li, Y.**; Plazas-Tuttle, J.; Rowles, L. S. *ACS Environ. Au* **2024**, *4* (5), 248–259.
 
 ---
 
