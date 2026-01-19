@@ -7,6 +7,9 @@ header:
   text_color: black
 ---
 
+**[Jan 2026]** New Year and new members. [**Cesar**](/members#postdoctoral-researcher) joined the group as a postdoctoral researcher for the CFIRE project on the process design and TEA of cell-free systems. We are also hosting **Elene Burdiashvili** as an undergraduate researcher for the SUPER program. Welcome both!
+{: .notice--blue}
+
 **[Dec 2025]** **Ali**'s first paper as the lead author, **Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder** has been accepted by *Chemical Engineering Journal*! Congrats [**Ali**](/members#graduate-students) on wrapping up the year on a high note. Read the [**Paper**](https://doi.org/10.1016/j.cej.2025.172283).
 {: .notice--gray}
 
@@ -23,7 +26,7 @@ header:
 We also received an [AEESP Foundation Education Grant](https://aeespfoundation.org/grants), where we will collaborate with the New Jersey 4-H to advocate sustainable food waste management through youth voices. Look forward to get our work started!
 {: .notice--green}
 
-**[Sep 2025]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details!
+**[Sep 2025]** We are hiring a postdoc for CFIRE (see news below). Check out the [**Join**](/join) page for details! (*APPLICATION CLOSED*)
 {: .notice--blue}
 
 **[Sep 2025]** We are part of NSF's >$32 MM [CFIRE](https://cee.rutgers.edu/cee-professor-awarded-nsf-cfire-grant-speed-use-cell-free-systems-grow-bioeconomy) initiative to accelerate the adoption of cell-free systems. Our project, [Ideas Lab: CFIRE: PRESENT: PRotein Evolution in Spore-ENabled TXTL Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693), is a collaboration between Rutgers and [Caravel Bio.](https://www.caravel.bio/), California Institute of Technology ([Dr. Kaihang Wang](https://www.bbe.caltech.edu/people/kaihang-wang)), [Avery Bio.](https://averybio.com/), and Oregon State University ([Dr. Ryan Mehl](https://science.oregonstate.edu/directory/ryan-mehl)).

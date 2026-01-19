@@ -28,8 +28,19 @@ Peng:
   synopsis: 'Dr. Ouwen Peng is a postdoctoral researcher in the Bioprocess Engineering team (co-advised with [Dr. Jeremy Guest](https://engineeringforsustainability.com/) at UIUC) at [PreFerS](https://sustainability.illinois.edu/14-8m-grant-supports-singapore-partnership-on-precision-fermentation/), the Centre for Precision Fermentation and Sustainability. Ouwen received his B.Eng. in Materials Science and Engineering from Southern University of Science and Technology (SUSTech) and his Ph.D. in Chemistry from the National University of Singapore (NUS). His current research focuses on techno-economic analysis, life-cycle assessment, and optimization of precision fermentation processes.
 
    <br><br> <strong>
-        [Google Scholar](https://scholar.google.com/citations?user=fiJD-4oAAAAJ&hl) &nbsp; | &nbsp;
+        [Google Scholar](https://scholar.google.com/citations?user=fiJD-4oAAAAJ&hl=en) &nbsp; | &nbsp;
         [LinkedIn](https://www.linkedin.com/in/ouwen-peng-11206b208)
+        </strong>'
+  image_width: 60%
+
+Ramirez:
+  image_path: /images/members/cesar_ramirez.png
+  alt: 'Photo of Cesar'
+  title: 'Cesar Ramirez'
+  synopsis: 'Dr. Cesar Ramirez is a postdoctoral researcher working on the Cell-Free Systems Toward Increased Range of Use-Inspired Applications (CFIRE) initiative. Cesar received a B.S. in Biomedical Engineering from the University at Buffalo and obtained a Ph.D. in Biomedical Engineering from Rutgers University. His current research focuses on process design, techno-economic analysis (TEA), and market survey/analyses of cell-free systems.
+
+   <br><br> <strong>
+        [Google Scholar](https://scholar.google.com/citations?user=WoTovo8AAAAJ&hl=en)
         </strong>'
   image_width: 60%
 
@@ -150,6 +161,8 @@ Shah:
 ## Postdoctoral Researcher
 
 {% include single_left id='Peng' %}
+
+{% include single_left id='Ramirez' %}
 
 ## Graduate Students
 

@@ -9,10 +9,7 @@ header:
 
 ## Postdoctoral Researchers
 
-We are hiring one postdoctoral researcher for CFIRE. The postdoc will lead research on process design, techno-economic analysis (TEA), and market survey/analyses of cell-free systems. The position is funded as a part of the National Science Foundation’s >$32 MM [CFIRE initiative](https://www.nsf.gov/tip/updates/nsf-invests-more-32m-biotechnology-accelerating-adoption) in biotechnology to accelerate the adoption of cell-free systems. The [project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693) is a collaboration between Rutgers and Caravel Bio., California Institute of Technology, Avery Bio., and Oregon State University.
-
-### To Apply
-Prospective candidates should submit the applications through [Rutgers Job Board](https://jobs.rutgers.edu/postings/260663) (Posting Number: 25FA0899). The following materials are required: brief cover letter, curriculum vitae, names and contact information for three references, and up to two examples of scholarly output (e.g., published or submitted manuscripts; upload as Writing Sample). Application review will begin immediately and continue until the ideal candidate is identified, candidates submitted by 10/31/2025 will be given priority.
+Currently there are no openings in the group.
 
 ## Graduate Students
 
@@ -22,7 +19,10 @@ Currently there are no openings in the group. When new opportunities arise, I wi
 
 ## Postdoctoral Researchers
 
-We hiring one postdoctoral researcher for PreFerS (see [News](/news) for more information on PreFerS). The postdoc will lead research on advancing the sustainable design and deployment of technological solutions for reliable and cost-effective production of safe, nutritious, and delicious foods. The postdoc will be co-advised by Prof. [Jeremy Guest](https://engineeringforsustainability.com/) (University of Illinois Urbana-Champaign), Prof. [Chueh Loo Poh](https://cde.nus.edu.sg/bme/staff/dr-pohcl/) (Nanyang Technological University), and me. See more details and apply at [MyCareersFuture](https://www.mycareersfuture.gov.sg/job/sciences/postdoctoral-researcher-illinois-advanced-research-center-singapore-19d74b6ed2feb03876b3706738fb0992) or [jobstreet](https://sg.jobstreet.com/job/78435742).
+We are hiring one postdoctoral researcher for CFIRE. The postdoc will lead research on process design, techno-economic analysis (TEA), and market survey/analyses of cell-free systems. The position is funded as a part of the National Science Foundation’s >$32 MM [CFIRE initiative](https://www.nsf.gov/tip/updates/nsf-invests-more-32m-biotechnology-accelerating-adoption) in biotechnology to accelerate the adoption of cell-free systems. The [project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452693) is a collaboration between Rutgers and Caravel Bio., California Institute of Technology, Avery Bio., and Oregon State University.
+
+### To Apply
+Prospective candidates should submit the applications through [Rutgers Job Board](https://jobs.rutgers.edu/postings/260663) (Posting Number: 25FA0899). The following materials are required: brief cover letter, curriculum vitae, names and contact information for three references, and up to two examples of scholarly output (e.g., published or submitted manuscripts; upload as Writing Sample). Application review will begin immediately and continue until the ideal candidate is identified, candidates submitted by 10/31/2025 will be given priority.
 
 
 ## Graduate Students
