@@ -7,6 +7,10 @@ header:
   text_color: black
 ---
 
+**[Jan 2026]** [**Nizam**](/members#graduate-students) and [**Charlotte**](/members#undergraduate-researchers) presented their work at the [NJ AWWA One Water Symposium](https://www.njawwa.org/events/EventDetails.aspx?id=2018334). As a member of the NJ AWWA chapter at Rutgers, Charlotte also help organization on the event day.
+{: .notice--yellow}
+<img src='/images/news/2026-01-15_one_water.png' alt='Nizam and Charlotte at the symposium' width='60%' id='image'>
+
 **[Jan 2026]** New Year and new members. [**Cesar**](/members#postdoctoral-researcher) joined the group as a postdoctoral researcher for the CFIRE project on the process design and TEA of cell-free systems. We are also hosting **Elene Burdiashvili** as an undergraduate researcher for the SUPER program. Welcome both!
 {: .notice--blue}
 
