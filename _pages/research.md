@@ -24,7 +24,7 @@ This study evaluated the economic and environmental performance of converting fo
 
 ---
 
-`34.` [Development and Validation of a Process Model and Open-Source Process Simulator for Microalgae-Based Tertiary Phosphorus Recovery](https://doi.org/10.1038/s41545-025-00545-4)
+`34.` [Development of an open-source process simulator for microalgae-based tertiary phosphorus recovery](https://doi.org/10.1038/s41545-025-00545-4)
 
 Microalgae-based tertiary wastewater treatment has the potential to meet stringent effluent phosphorus limits, with the added benefit of producing a marketable feedstock. However, the lack of validated mechanistic models and their implementation in process simulators have limited the adoption of this technology. In this study, an updated lumped pathway metabolic model was developed to predict effluent phosphorus concentration and biomass yield in response to dynamic influent and varying environmental conditions. The model was implemented in QSDsan and calibrated and validated using batch experimental data and 45 days of continuous online monitoring data from a full-scale microalgae-based tertiary wastewater treatment plant. Overall, the QSDsan-based microalgae process simulator was able to predict effluent phosphorus within 0.02–0.04 mg-P/L, while also capturing the general trends of state variables according to nutrient availability.
 
