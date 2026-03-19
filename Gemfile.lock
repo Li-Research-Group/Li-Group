@@ -237,7 +237,7 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.18.1)
+    json (2.19.2)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -305,7 +305,6 @@ GEM
     unicode-display_width (1.8.0)
     uri (1.1.1)
     verbal_expressions (0.1.5)
-    wdm (0.2.0)
     webrick (1.9.1)
 
 PLATFORMS
@@ -326,7 +325,6 @@ DEPENDENCIES
   kramdown-parser-gfm
   minimal-mistakes-jekyll
   tzinfo-data
-  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
