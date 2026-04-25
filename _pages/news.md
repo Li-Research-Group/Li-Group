@@ -7,6 +7,20 @@ header:
   text_color: black
 ---
 
+**[April 2026]** [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day) is here again! Thanks to [**Charlotte**](/members#undergraduate-researchers), [**Shirui**](/members#graduate-students), [**Yu**](/members#graduate-students), [**Nizam**](/members#graduate-students), and [**Basil**](/members#graduate-students) who helped run the show!
+{: .notice--yellow}
+<img src='/images/news/2026-04-25_rutgers_day.png' alt='Rutgers Day 2026' width='100%' id='image'>
+
+**[April 2026]** For his work on food waste recycling, [**Ali**](/members#graduate-students) won a ReFED Scholarship and was invited to the [ReFED Food Waste Summit 2026](https://summit.refed.org/) in Charlotte, North Carolina on May 19-21, 2026.
+{: .notice--green}
+
+**[April 2026]** The C3W (Carbon Capture with Concrete Waste) team from Rutgers are winners of the [2026 OpenAir Carbon Removal Challenge](https://openaircollective.com/crc/). [**Yu**](/members#graduate-students) and her teammates from the Riman group of Rutgers Materials Science and Engineering (Jack Kaszas, Noemie Denis, Ranuri Dissanayaka Mudiyanselage, Karna Krishna, Richie Campbell, Alex Golub) will present their final showcase at the [Carbon Unbound East Coast Summit 2026](https://www.carbonunbound.com/).
+{: .notice--green}
+
+**[April 2026]** April is a busy month! We kicked off the month with the [SaBRe](https://sabreproject.org/) annual meeting at Rutgers, presenting work from [**Nizam**](/members#graduate-students), [**Basil**](/members#graduate-students), and [**Vicky**](/members#undergraduate-researchers). Shirui presented here work at the [Hudson-Delaware Chapter (HDC) Society of Environmental Toxicology and Chemistry (SETAC) Regional Meeting](https://hdcsetac.wildapricot.org/). And [**Ali**](/members#graduate-students) successfully passed his proposal defense!
+{: .notice--yellow}
+<img src='/images/news/2026-04_presentations.png' alt='SaBRe and SETAC' width='80%' id='image'>
+
 **[Jan 2026]** [**Nizam**](/members#graduate-students) and [**Charlotte**](/members#undergraduate-researchers) presented their work at the [NJ AWWA One Water Symposium](https://www.njawwa.org/events/EventDetails.aspx?id=2018334). As a member of the NJ AWWA chapter at Rutgers, Charlotte also help organization on the event day.
 {: .notice--yellow}
 <img src='/images/news/2026-01-15_one_water.png' alt='Nizam and Charlotte at the symposium' width='60%' id='image'>
@@ -57,13 +71,13 @@ We also received an [AEESP Foundation Education Grant](https://aeespfoundation.o
 {: .notice--yellow}
 <img src='/images/news/2025-04_presentations.png' alt='Yalin, Maggie, and Jason presentations' width='100%' id='image'>
 
-And we demonstrated how to turn poops into fertilizers at our [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day-thank-you) event (the [composting toilet](https://go.rutgers.edu/toilet) was the star!). Thanks to **Charlotte**, **Maggie**, **Jason**, **Nizam**, and **Basil** who ran the show!
+And we demonstrated how to turn poops into fertilizers at our [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day-thank-you) event (the [composting toilet](https://go.rutgers.edu/toilet) was the star!). Thanks to [**Charlotte**](/members#undergraduate-researchers), [**Maggie**](/members#undergraduate-researchers), [**Jason**](/members#undergraduate-researchers), [**Nizam**](/members#graduate-students), and [**Basil**](/members#graduate-students) who ran the show!
 {: .notice--yellow}
-<img src='/images/news/2025-04-26_rutgers_day1.png' alt='Rutgers Day event' width='100%' id='image'>
+<img src='/images/news/2025-04-26_rutgers_day1.png' alt='Rutgers Day 2025' width='100%' id='image'>
 
 We are featured in the Rutgers [post](https://newbrunswick.rutgers.edu/news/spite-drizzle-tens-thousands-enjoy-rutgers-day) (I'm not necessarily a senior, but the photo was great).
 {: .notice--yellow}
-<img src='/images/news/2025-04-26_rutgers_day2.png' alt='Rutgers Day event' width='50%' id='image'>
+<img src='/images/news/2025-04-26_rutgers_day2.png' alt='Rutgers Day 2025' width='50%' id='image'>
 
 **[Jan 2025]** Happy New Year! Our [group](/members) is growing! **Basil** joined the group in Fall 2024 while **Nizam** and **Yu** started this Spring. **Jason**, **Charlotte**, and **Maggie** have also been working on their Aresty projects/independent study since Fall 2024.
 {: .notice--blue}
