@@ -11,7 +11,7 @@ header:
 {: .notice--yellow}
 <img src='/images/news/2026-04-25_rutgers_day.png' alt='Rutgers Day 2026' width='100%' id='image'>
 
-**[April 2026]** For his work on food waste recycling, [**Ali**](/members#graduate-students) won a ReFED Scholarship and was invited to the [ReFED Food Waste Summit 2026](https://summit.refed.org/) in Charlotte, North Carolina on May 19-21, 2026.
+**[April 2026]** For his work on food waste recycling, [**Ali**](/members#graduate-students) won a ReFED Scholarship and was invited to the [ReFED Food Waste Solutions Summit 2026](https://summit.refed.org/) in Charlotte, North Carolina on May 19-21, 2026.
 {: .notice--green}
 
 **[April 2026]** The C3W (Carbon Capture with Concrete Waste) team from Rutgers are winners of the [2026 OpenAir Carbon Removal Challenge](https://openaircollective.com/crc/). [**Yu**](/members#graduate-students) and her teammates from the Riman group of Rutgers Materials Science and Engineering (Jack Kaszas, Noemie Denis, Ranuri Dissanayaka Mudiyanselage, Karna Krishna, Richie Campbell, Alex Golub) will present their final showcase at the [Carbon Unbound East Coast Summit 2026](https://www.carbonunbound.com/).
