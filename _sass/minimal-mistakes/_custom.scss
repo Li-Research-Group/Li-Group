@@ -1,0 +1,38 @@
+// Collapsible year/section blocks on the research page
+details {
+  > summary {
+    list-style: none;
+    cursor: pointer;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    // Firefox
+    &::marker {
+      display: none;
+    }
+
+    h3 {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4em;
+      user-select: none;
+
+      &::before {
+        content: "▶";
+        font-size: 0.6em;
+        display: inline-block;
+        transition: transform 0.2s ease;
+      }
+    }
+
+    &:hover h3 {
+      color: $primary-color;
+    }
+  }
+
+  &[open] > summary h3::before {
+    transform: rotate(90deg);
+  }
+}

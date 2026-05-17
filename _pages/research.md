@@ -7,12 +7,41 @@ header:
   text_color: black
 ---
 
+<style>
+details > summary {
+  list-style: none;
+  cursor: pointer;
+}
+details > summary::-webkit-details-marker { display: none; }
+details > summary::marker { display: none; }
+details > summary h3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  user-select: none;
+}
+details > summary h3::before {
+  content: "▶";
+  font-size: 0.6em;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+details[open] > summary h3::before {
+  transform: rotate(90deg);
+}
+details > summary:hover h3 {
+  color: #A32638;
+}
+</style>
+
 ## Peer-reviewed publications
 
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 
-### 2026
+<details open>
+<summary><h3>2026</h3></summary>
+<div markdown="1">
 
 `35.` [Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder](https://doi.org/10.1016/j.cej.2025.172283)
 
@@ -24,7 +53,12 @@ This study evaluated the economic and environmental performance of converting fo
 
 ---
 
-### 2025
+</div>
+</details>
+
+<details>
+<summary><h3>2025</h3></summary>
+<div markdown="1">
 
 `34.` [Development of an open-source process simulator for microalgae-based tertiary phosphorus recovery](https://doi.org/10.1038/s41545-025-00545-4)
 
@@ -48,7 +82,7 @@ Zhang, X.; Rai, S.; Wang, Z.; **Li, Y.**; Guest, J. Accepted, *npj Clean Water*,
 
 Triacetic acid lactone (TAL) has the potential to serve as a bioderived platform chemical for commercial products including sorbic acid and recyclable polydiketoenamine plastics. In this study, we leveraged BioSTEAM to design, simulate, and evaluate (via techno-economic analysis, TEA, and life cycle assessment, LCA) TAL production from sugarcane. We experimentally characterized TAL solubility, calibrated solubility models, and designed a process to separate TAL from fermentation broths by crystallization. Our analyses suggested that the biorefinery could produce TAL as the intermediate for financially viable, low-CI production of sorbic acid and polydiketoenamines. This research highlights the ability of agile TEA-LCA to screen promising designs, navigate sustainability trade-offs, prioritize research needs, and chart quantitative roadmaps to advance bioproducts and biofuels.
 
-Bhagwat, S. S.; Dell’Anna, M. N.; **Li, Y.**; Cao, M.; Brace, E. C.; Bhagwat, S. S.; Huber, G. W.; Zhao, H.; Guest, J. S. *ACS Sustainable Chem. Eng.* **2025**, *13* (42), 17794–17805.
+Bhagwat, S. S.; Dell'Anna, M. N.; **Li, Y.**; Cao, M.; Brace, E. C.; Bhagwat, S. S.; Huber, G. W.; Zhao, H.; Guest, J. S. *ACS Sustainable Chem. Eng.* **2025**, *13* (42), 17794–17805.
 
 ---
 
@@ -80,7 +114,12 @@ Stewart, D.; Guo, W.; **Li, Y.**; Fan, X.; Coppess, J.; Khanna, M.; Guest, J. *A
 
 ---
 
-### 2024
+</div>
+</details>
+
+<details>
+<summary><h3>2024</h3></summary>
+<div markdown="1">
 
 `28.` [Integration of plant and microbial oil processing at oilcane biorefineries for more sustainable biofuel production](https://doi.org/10.1111/gcbb.13183)
 
@@ -120,7 +159,12 @@ Feng, J.; **Li, Y.**; Strathmann, T. J.; Guest, J. S. *Environ. Sci. Technol.* *
 
 ---
 
-### 2023
+</div>
+</details>
+
+<details>
+<summary><h3>2023</h3></summary>
+<div markdown="1">
 
 `24.` [Catalytic Hydrothermal Deoxygenation of Stearic Acid with Ru/C: Effects of Alcohol- and Carboxylic Acid-Based Hydrogen Donors](https://doi.org/10.1021/acsomega.3c01975)
 
@@ -136,7 +180,7 @@ Wang, J.; Yao, X.; **Li, Y.**; Zhang, J.; Zhao, C.; Strathmann, T. J. *ACS Omega
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.3c00001/asset/images/medium/vg3c00001_0008.gif#TOC)
 
-Achieving safely managed sanitation and resource recovery in areas that are rural, geographically challenged, or experiencing rapidly increasing population density may not be feasible with centralized facilities due to space requirements, site-specific concerns, and high costs of sewer installation. Nonsewered sanitation (NSS) systems have the potential to provide safely managed sanitation and achieve strict wastewater treatment standards. One such NSS treatment technology is the NEWgenerator, which includes an anaerobic membrane bioreactor (AnMBR), nutrient recovery via ion exchange, and electrochlorination. The system has been shown to achieve robust treatment of real waste for over 100 users, but the technology’s relative life cycle sustainability remains unclear. This study characterizes the financial viability and life cycle environmental impacts of NEWgenerator and prioritizes opportunities to advance system sustainability through targeted improvements and deployment.
+Achieving safely managed sanitation and resource recovery in areas that are rural, geographically challenged, or experiencing rapidly increasing population density may not be feasible with centralized facilities due to space requirements, site-specific concerns, and high costs of sewer installation. Nonsewered sanitation (NSS) systems have the potential to provide safely managed sanitation and achieve strict wastewater treatment standards. One such NSS treatment technology is the NEWgenerator, which includes an anaerobic membrane bioreactor (AnMBR), nutrient recovery via ion exchange, and electrochlorination. The system has been shown to achieve robust treatment of real waste for over 100 users, but the technology's relative life cycle sustainability remains unclear. This study characterizes the financial viability and life cycle environmental impacts of NEWgenerator and prioritizes opportunities to advance system sustainability through targeted improvements and deployment.
 
 Watabe, S.; Lohman, H. A. C.; **Li, Y.**; Morgan, V. L.; Rowles, L. S.; Stephen, T.; Shyu, H.-Y.; Bair, R. A.; Castro, C. J.; Cusick, R. D.; Yeh, D. H.; Guest, J. S. *ACS Environ. Au* **2023**, *3* (4), 209–222.
 
@@ -180,7 +224,14 @@ An engineered *Saccharomyces cerevisiae* capable of producing 2,3-butanediol (2,
 
 Lee, J. W.; Bhagwat, S. S.; Kuanyshev, N.; Cho, Y. B.; Sun, L.; Lee, Y.-G.; Cortés-Peña, Y. R.; **Li, Y.**; Rao, C. V.; Guest, J. S.; Jin, Y.-S. *Chem. Eng. J.* **2023**, *451*, 138886.
 
-### 2022
+---
+
+</div>
+</details>
+
+<details>
+<summary><h3>2022</h3></summary>
+<div markdown="1">
 
 `18.` [Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review](https://www.doi.org/10.1039/d2ew00431c)
 
@@ -222,7 +273,12 @@ Robust and agile tools are needed to support the research, development, and depl
 
 ---
 
-### 2021
+</div>
+</details>
+
+<details>
+<summary><h3>2021</h3></summary>
+<div markdown="1">
 
 `14.` [Sustainable Production of Acrylic Acid via 3-Hydroxypropionic Acid from Lignocellulosic Biomass](https://doi.org/10.1021/acssuschemeng.1c05441)
 
@@ -284,12 +340,16 @@ Sustainable design of lignocellulosic biorefineries for lactic acid production w
 
 ---
 
-### 2020
+</div>
+</details>
+
+<details>
+<summary><h3>2020</h3></summary>
+<div markdown="1">
 
 `8.` [Fate of Per- and Polyfluoroalkyl Substances (PFAS) during Hydrothermal Liquefaction of Municipal Wastewater Treatment Sludge](https://pubs.rsc.org/en/content/articlelanding/2020/ew/c9ew01139k)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9EW01139K&imageInfo.ImageIdentifier.Year=2020#TOC)
-
 
 This study shows that PFAS sorbed to sludge degrade to varying degrees when sludge is subjected to hydrothermal liquefaction for production of liquid fuel.
 
@@ -297,7 +357,12 @@ Yu, J.; Nickerson, A.; **Li, Y.**; Fang, Y.; Strathmann, T. J. *Environ. Sci.: W
 
 ---
 
-### 2019
+</div>
+</details>
+
+<details>
+<summary><h3>2019</h3></summary>
+<div markdown="1">
 
 `7.` [Kinetics and Mechanism for Hydrothermal Conversion of Polyhydroxybutyrate (PHB) for Wastewater Valorization](https://pubs.rsc.org/en/content/articlelanding/2019/gc/c9gc02507c)
 
@@ -339,7 +404,12 @@ Experiments and model predictions show increased algal biofuel yields at lower p
 
 ---
 
-### 2018
+</div>
+</details>
+
+<details>
+<summary><h3>2018</h3></summary>
+<div markdown="1">
 
 `3.` [A Unified Modeling Framework to Advance Biofuel Production from Microalgae](https://doi.org/10.1021/acs.est.8b03663)
 
@@ -361,7 +431,12 @@ Design, demonstration, and economic anlaysis of an aqueous-based system for the 
 
 ---
 
-### 2017
+</div>
+</details>
+
+<details>
+<summary><h3>2017</h3></summary>
+<div markdown="1">
 
 `1.` [Quantitative Multiphase Model for Hydrothermal Liquefaction of Algal Biomass](https://pubs.rsc.org/en/content/articlelanding/2017/gc/c6gc03294j)
 
@@ -373,8 +448,18 @@ A multiphase component additivity (MCA) model to quantitatively predict both yie
 
 ---
 
+</div>
+</details>
+
 ## Public Media
+
+<details>
+<summary><h3>Articles</h3></summary>
+<div markdown="1">
 
 `1.` [Wastewater is an asset – it contains nutrients, energy and precious metals, and scientists are learning how to recover them](https://theconversation.com/wastewater-is-an-asset-it-contains-nutrients-energy-and-precious-metals-and-scientists-are-learning-how-to-recover-them-113264). 
 
 **Li., Y.** *The Conversation*, 2019.
+
+</div>
+</details>
