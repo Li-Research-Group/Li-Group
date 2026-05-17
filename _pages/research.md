@@ -12,7 +12,7 @@ header:
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 
-### 2025
+### 2026
 
 `35.` [Financial Viability and Carbon Intensity of Hydrothermal Waste Valorization Systems for Bio-Based Asphalt Binder](https://doi.org/10.1016/j.cej.2025.172283)
 
@@ -23,6 +23,8 @@ This study evaluated the economic and environmental performance of converting fo
 **Ahmad, A.**; Kawale, H. D.; Summers, S.; Bogarin Cantero, B. C.; Allen, C. M.; Hajj, R.; Davidson, P. C.; Zhang, Y.; **Li, Y.** Accepted, *Chemical Engineering Journal*, **2025**.
 
 ---
+
+### 2025
 
 `34.` [Development of an open-source process simulator for microalgae-based tertiary phosphorus recovery](https://doi.org/10.1038/s41545-025-00545-4)
 
