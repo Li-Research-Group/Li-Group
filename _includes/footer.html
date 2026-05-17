@@ -1,0 +1,26 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% for link in site.author.links %}
+      {% if link.label and link.url %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i> {% endif %}{{ link.label }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% for link in site.footer.links %}
+      {% if link.label and link.url %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i> {% endif %}{{ link.label }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if site.feed.path %}
+      <li><a href="{{ site.feed.path | relative_url }}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endif %}
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  <span style="font-size: 1.2em;">Yalin Li, Ph.D. | <a href="mailto:yalin.li@rutgers.edu">yalin.li@rutgers.edu</a> | 848-445-2870 | 500 Bartholomew Road, Piscataway, NJ 08854</span>
+</div>
+<div class="page__footer-copyright">
+  &copy; {{ 'now' | date: "%Y" }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+</div>
