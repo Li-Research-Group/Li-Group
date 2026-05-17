@@ -101,17 +101,6 @@ Zhou:
         </strong>"
   image_width: 60%
 
-Akula:
-  image_path: /images/members/marali_akula.png
-  alt: 'Photo of Marali'
-  title: 'Marali Akula'
-  synopsis: 'Marali is a sophomore majoring in environmental engineering at Rutgers University. For the past year, she has been with an project based organization on campus called S.E.E.D (Students for Environmental and Energy Development) and has been doing work with engineering and research through them. Marali joined the group in Fall 2025 as a way to further pursue an interest in environmental science and gain more experience with research.
-   
-   <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/maraliakula)
-        </strong>'
-  image_width: 60%
-
 Du:
   image_path: /images/members/vicky_du.jpg
   alt: 'Photo of Vicky'
@@ -123,35 +112,94 @@ Du:
         </strong>'
   image_width: 60%
 
-Orton:
-  image_path: /images/members/charlotte_orton.jpg
-  alt: 'Photo of Charlotte'
-  title: 'Charlotte Orton'
-  synopsis: 'Charlotte is a senior majoring in Environmental Chemistry at Rutgers University. Her research interests include wastewater and water treatment. Charlotte joined the Li Group in September 2024 working on independent research on Hydrothermal Liquefaction of Microplastics, specifically HDPE. She is now continuing the research for her honors thesis. She previously conducted research as an [Aresty Research Assistant](https://aresty.rutgers.edu/programs/research-assistant-program) with Dr. Xiaomeng Jin on the effect of the Canadian Wildfires Impact on Air Pollution in New Jersey and New York during the summer of 2023.'
-  image_width: 60%
-
-Shah:
-  image_path: /images/members/naman_shah.jpg
-  alt: 'Photo of Naman'
-  title: 'Naman Shah'
-  synopsis: 'Naman is a junior majoring in Computer Science and Data Science at Rutgers University. He has been working in developing Python scripts for over two years. He has been awarded as the winner of Datathon by the Rutgers University Data Science in Spring 2024 for his work in analyzing data from Starbucks and Dunkin Donuts. He is drawn to work on QSDsan and BioSTEAM to bioprocess engineering and resource recovery, specifically for the New Jersey Waste. He is a 2024 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar.
-
-   <br><br> <strong>
-        [LinkedIn](https://www.linkedin.com/in/naman-shah26) &nbsp; | &nbsp;
-        [GitHub](https://github.com/navronaman)
-        </strong>'
-  image_width: 60%
-
 ---
 
-<br>
-<center> <img src='/images/members/group_fa25.jpg' alt='Group photo' width='80%' id='image'> </center>
-<i> 
-  Group photo for Fall 2025 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?). 
-</i>
-<br><b>Front:</b> Vicky, Yu, Shirui, Charlotte, Marali;
-<br><b>Back:</b> Ali, Basil, Yalin, Nizam;
-<br><b>Not pictured:</b> Ouwen.
+<style>
+.gc-slide, .gc-caption { display: none; }
+.gc-slide.active, .gc-caption.active { display: block; animation: gcFade 0.6s ease; }
+@keyframes gcFade { from { opacity: 0; } to { opacity: 1; } }
+.gc-btn {
+  position: absolute;
+  top: 50%; transform: translateY(-50%);
+  background: rgba(163, 38, 56, 0.75);
+  color: #fff; border: none;
+  padding: 0.45em 0.75em; font-size: 1.3em;
+  cursor: pointer; border-radius: 3px; line-height: 1;
+  transition: background 0.2s;
+}
+.gc-btn:hover { background: rgba(142, 13, 24, 0.95); }
+.gc-dot {
+  display: inline-block;
+  width: 10px; height: 10px; margin: 0 4px;
+  background: #ccc; border-radius: 50%; cursor: pointer;
+  transition: background 0.3s;
+}
+.gc-dot.active { background: #A32638; }
+.gc-slide img { width: 100%; height: 600px; object-fit: cover; display: block; }
+details > summary { list-style: none; cursor: pointer; }
+details > summary::-webkit-details-marker { display: none; }
+details > summary::marker { display: none; }
+details > summary h2 { display: inline-flex; align-items: center; gap: 0.4em; user-select: none; }
+details > summary h2::before { content: "▶"; font-size: 0.6em; display: inline-block; transition: transform 0.2s ease; }
+details[open] > summary h2::before { transform: rotate(90deg); }
+details > summary:hover h2 { color: #A32638; }
+</style>
+
+<div id="gc" style="text-align:center; margin: 1em 0 0;">
+  <div style="position:relative; display:inline-block; width:80%; max-width:100%;">
+    <div class="gc-slide active">
+      <img src="/images/members/group/yr26.jpg" alt="End of Year 2026">
+    </div>
+    <div class="gc-slide">
+      <img src="/images/members/group/fa25.jpg" alt="Group photo Fall 2025">
+    </div>
+    <div class="gc-slide">
+      <img src="/images/members/group/fa24.jpg" alt="Group photo Fall 2024">
+    </div>
+    <button class="gc-btn" style="left:0;" onclick="gcMove(-1)">&#10094;</button>
+    <button class="gc-btn" style="right:0;" onclick="gcMove(1)">&#10095;</button>
+  </div>
+  <div style="width:80%; display:inline-block; text-align:left; margin-top:0.4em;">
+    <div class="gc-caption active">
+      <i>End-of-year celebration 2026.</i>
+    </div>
+    <div class="gc-caption">
+      <i>Group photo for Fall 2025 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?).</i>
+      <br><b>Front:</b> Vicky, Yu, Shirui, Charlotte, Marali;
+      <br><b>Back:</b> Ali, Basil, Yalin, Nizam;
+      <br><b>Not pictured:</b> Ouwen.
+    </div>
+    <div class="gc-caption">
+      <i>Group photo for Fall 2024 (<a href='https://www.google.com/maps/d/edit?mid=1ECuaLyOFLiXEr5SvGApKRoUjxC0YdJo&usp=sharing'>where</a> are we from?).</i>
+      <br><b>Front:</b> Naman, Basil, Yalin, Ali;
+      <br><b>Back:</b> Jason, Saket, Kevin (Washington and Lee University);
+      <br><b>Not pictured:</b> Maggie, Charlotte, Xavier, Venus, Jonah.
+    </div>
+  </div>
+  <div style="margin-top: 0.5em;">
+    <span class="gc-dot active" onclick="gcGoto(0)"></span>
+    <span class="gc-dot" onclick="gcGoto(1)"></span>
+    <span class="gc-dot" onclick="gcGoto(2)"></span>
+  </div>
+</div>
+
+<script>
+(function () {
+  var slides   = document.querySelectorAll('#gc .gc-slide');
+  var captions = document.querySelectorAll('#gc .gc-caption');
+  var dots     = document.querySelectorAll('#gc .gc-dot');
+  var cur = 0;
+
+  function show(n) {
+    [slides[cur], captions[cur], dots[cur]].forEach(function(el){ el.classList.remove('active'); });
+    cur = (n + slides.length) % slides.length;
+    [slides[cur], captions[cur], dots[cur]].forEach(function(el){ el.classList.add('active'); });
+  }
+
+  window.gcMove = function(d) { show(cur + d); };
+  window.gcGoto = function(n) { show(n); };
+})();
+</script>
 
 
 ## Lead
@@ -178,39 +226,28 @@ Shah:
 
 ## Undergraduate Researchers
 
-{% include single_left id='Akula' %}
-
 {% include single_left id='Du' %}
 
-{% include single_left id='Orton' %}
 
-{% include single_left id='Shah' %}
+<details>
+<summary><h2>Alumni</h2></summary>
+<div markdown="1">
 
-## Alumni
+[Charlotte Orton](https://www.linkedin.com/in/charlotte-orton-1b350b398/), Environmental Chemistry, Honors research/thesis Fall 2024-Spring 2026.
 
-### Fall 2024
-<br>
-<center> <img src='/images/members/group_fa24.jpg' alt='Group photo' width='80%' id='image'> </center>
-<br><b>Front:</b> Naman, Basil, Yalin, Ali;
-<br><b>Back:</b> Jason, Saket, Kevin (Washington and Lee University);
-<br><b>Not pictured:</b> Maggie, Charlotte, Xavier, Venus, Jonah.
-<br>
+[Elene Burdiashvili](https://www.linkedin.com/in/elene-burdiashvili-053801205/), Electrical Engineering, Project SUPER Scholar, Spring 2026.
 
-[Maggie Wisneski](https://www.linkedin.com/in/maggie-wisneski/), Civil Engineering, Aresty Research Assistant, 2024-2025.
+[Marali Akula](https://www.linkedin.com/in/maraliakula), Environmental Engineering, independent research Fall 2025-Spring 2026.
 
-[Jason Chiang](https://www.linkedin.com/in/jason-chiang-/), Materials Science and Engineering, Aresty Research Assistant, 2024-2025.
+[Naman Shah](https://www.linkedin.com/in/naman-shah26), Computer Science/Data Science, Aresty Summer Science 2024; independent research Fall 2024-Spring 2026.
 
-[Xavier Lennard](https://www.linkedin.com/in/xavier-lennard-43a53223b), Biochemistry, Spring/Summer 2024, LSAMP Scholar.
+[Maggie Wisneski](https://www.linkedin.com/in/maggie-wisneski/), Civil Engineering, Aresty Research Assistant Fall 2024-Spring 2025.
 
-[Venus Ikinnagbon](https://www.linkedin.com/in/venus-ikinnagbon-62b6392a3), Biology/Women and Gender Studies (minor), Summer 2024, LSAMP Scholar.
+[Jason Chiang](https://www.linkedin.com/in/jason-chiang-/), Materials Science and Engineering, Aresty Research Assistant Fall 2024-Spring 2025.
 
-<!-- Old codes for reference
+[Xavier Lennard](https://www.linkedin.com/in/xavier-lennard-43a53223b), Biochemistry, LSAMP Scholar Spring/Summer 2024.
 
-Yalin Li:
-  - image_path: /images/single_left/Yalin_Li.png
-    alt: 'Headshot of Yalin Li'
-    title: 'Lead: Yalin Li'
-    excerpt: '<br> I am an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. I received my B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. During my graduate study, I was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL).
-    <br><br> Prior to joining Rutgers, I worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI) at UIUC.'
+[Venus Ikinnagbon](https://www.linkedin.com/in/venus-ikinnagbon-62b6392a3), Biology/Women and Gender Studies (minor), LSAMP Scholar Summer 2024.
 
--->
+</div>
+</details>
