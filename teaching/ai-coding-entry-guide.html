@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI-Assisted Coding for Researchers</title>
+<style>
+  :root {
+    --accent: #CC0033;        /* Rutgers red */
+    --link: #AD0625;          /* darker red, matches site link color */
+    --bg: #ffffff;
+    --text: #222222;
+    --muted: #5B6770;         /* Rutgers gray */
+    --border: #c9c9c9;
+    --code-bg: #f6f7f8;
+    --note-bg: #fdeff1;       /* light red tint */
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    line-height: 1.65;
+    color: var(--text);
+    background: var(--bg);
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem 5rem;
+  }
+  h1 {
+    font-size: 2.1rem;
+    margin-bottom: 0.3rem;
+    border-bottom: 3px solid var(--accent);
+    padding-bottom: 0.4rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+    margin-top: 2.6rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--border);
+    scroll-margin-top: 7rem;
+  }
+  h3 {
+    font-size: 1.15rem;
+    margin-top: 1.8rem;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin-top: 0;
+  }
+  a { color: var(--link); }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.2rem 0;
+    font-size: 0.95rem;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 0.6rem 0.8rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { background: var(--code-bg); }
+  tr:nth-child(even) td { background: #fafbfc; }
+  code {
+    background: var(--code-bg);
+    padding: 0.15rem 0.35rem;
+    border-radius: 4px;
+    font-size: 0.88em;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+  }
+  pre {
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.8rem 1rem;
+    overflow-x: auto;
+  }
+  pre code { background: none; padding: 0; }
+  blockquote {
+    background: var(--note-bg);
+    border-left: 4px solid var(--accent);
+    margin: 1.2rem 0;
+    padding: 0.7rem 1rem;
+    border-radius: 0 4px 4px 0;
+  }
+  blockquote p { margin: 0; }
+  ol, ul { padding-left: 1.4rem; }
+  li { margin: 0.3rem 0; }
+  hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2.4rem 0;
+  }
+  .prompt {
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: 0 6px 6px 0;
+    padding: 0.6rem 0.9rem;
+    margin: 0.6rem 0;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 0.9rem;
+  }
+  .note { color: var(--muted); font-size: 0.88rem; font-style: italic; }
+  figure { margin: 1.4rem 0; }
+  figure img {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    display: block;
+  }
+  figcaption {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-top: 0.45rem;
+    text-align: center;
+  }
+  details {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    margin: 1.2rem 0;
+    background: var(--code-bg);
+    padding: 0.2rem 0.9rem;
+  }
+  details summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--accent);
+    padding: 0.6rem 0;
+  }
+  details[open] summary {
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.6rem;
+  }
+  details pre { margin-bottom: 0.7rem; }
+  /* --- Sticky nav + tool toggle --- */
+  .topbar {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.8rem;
+  }
+  nav.toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem 1.1rem;
+    padding: 0.6rem 0 0.5rem;
+    font-size: 0.9rem;
+    border-bottom: 1px solid var(--border);
+  }
+  nav.toc a {
+    color: var(--muted);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  nav.toc a:hover { color: var(--accent); text-decoration: underline; }
+  nav.toc a.back-home {
+    color: var(--accent);
+    font-weight: 600;
+    border-right: 1px solid var(--border);
+    padding-right: 1.1rem;
+  }
+  .toolbar {
+    background: var(--bg);
+    padding: 0.6rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+  }
+  .toolbar .label { color: var(--muted); font-size: 0.9rem; }
+  .tabs {
+    display: flex;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .tab {
+    padding: 0.4rem 1.3rem;
+    background: var(--code-bg);
+    border: none;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-family: inherit;
+    color: var(--muted);
+  }
+  .tab:not(:last-child) { border-right: 1px solid var(--border); }
+  .tab.active { background: var(--accent); color: #fff; font-weight: 600; }
+  body[data-tool="cc"] .only-codex { display: none; }
+  body[data-tool="codex"] .only-cc { display: none; }
+  .tool-tag {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.1rem 0.45rem;
+    border-radius: 4px;
+    background: var(--accent);
+    color: #fff;
+    vertical-align: middle;
+    margin-left: 0.4rem;
+  }
+</style>
+</head>
+<body data-tool="cc">
+
+<h1>AI-Assisted Coding for Researchers</h1>
+<p class="subtitle">A practical guide to using Claude Code or Codex with VS Code for everyday research coding.</p>
+
+<div class="topbar">
+  <nav class="toc">
+    <a class="back-home" href="https://yalinli.group/teaching/">&larr; Li Research Group</a>
+    <a href="#what-is-ai-assisted-coding">What is AI-Assisted Coding?</a>
+    <a href="#key-concepts">Key Concepts</a>
+    <a href="#setup">Setup</a>
+    <a href="#your-first-session">Your First Session</a>
+    <a href="#tips">Tips</a>
+    <a href="#notebooklm">NotebookLM + MCP</a>
+  </nav>
+  <div class="toolbar">
+    <span class="label">Showing instructions for:</span>
+    <div class="tabs">
+      <button class="tab active" data-select="cc">Claude Code</button>
+      <button class="tab" data-select="codex">Codex</button>
+    </div>
+  </div>
+</div>
+<p class="note">This guide covers both tools. Use the toggle above to switch — steps marked with a tool tag change with your choice; everything else applies to both.</p>
+
+<h2 id="what-is-ai-assisted-coding">What is AI-Assisted Coding?</h2>
+<p>AI-assisted coding tools like Claude Code and Codex act as a knowledgeable collaborator you can talk to while you work &mdash; like having an expert sitting beside you who can read any file in your project and answer questions about it. You can ask it to explain an unfamiliar file, trace how data flows through a function, or help you understand why code is written the way it is. The AI reads the code alongside you &mdash; it does not run it or guarantee correctness, but it can save hours of digging through documentation.</p>
+
+<h3>A note on "vibe coding"</h3>
+<p>You may have heard the term <strong>vibe coding</strong> &mdash; letting an AI write code from a plain-language description and running it without really reading or understanding what it produced. It can be a fast way to throw together a prototype, but it is risky: the AI may generate code that looks right and runs without errors yet does the wrong thing. In research that is especially problematic, because a wrong number often looks just as plausible as a correct one. This guide focuses on a more careful way of using AI &mdash; to <em>understand</em> code and to support your own judgment, reviewing what it produces rather than accepting it blindly.</p>
+
+<blockquote>
+  <p><strong>&#9888; AI makes mistakes &mdash; your review is essential.</strong><br>
+  AI tools can give confident, fluent answers that are simply wrong: a misremembered function, an outdated API, a subtle logic error. Always check what the AI tells you against the actual code and documentation, and never run, trust, or publish AI-generated code without reading and testing it yourself. The AI is a collaborator, not an authority &mdash; you remain responsible for the result.</p>
+</blockquote>
+
+<p><strong>Claude Code</strong> and <strong>Codex</strong> can both run inside VS Code as extensions. Codex also has a terminal-based CLI, but this beginner guide uses the VS Code extension path so you do not need to install Node.js just to get started. The explanations and example prompts are the same either way.</p>
+
+<h2 id="key-concepts">Key Concepts</h2>
+<p>If these terms are already familiar, skip ahead to <a href="#setup">Setup</a>.</p>
+<table>
+  <thead>
+    <tr><th>Term</th><th>What it means</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Workspace / Directory</strong></td><td>The folder you open with the tool. Everything the AI knows about your project comes from this folder.</td></tr>
+    <tr><td><strong>Codebase</strong></td><td>All the source code files in a project, taken together.</td></tr>
+    <tr><td><strong>IDE</strong></td><td>Integrated Development Environment &mdash; a single application that bundles the tools for writing code: a file browser, text editor, terminal, and more. VS Code (below) is the IDE used in this guide.</td></tr>
+    <tr><td><strong>VS Code</strong></td><td>A free, widely-used IDE from Microsoft (full name: Visual Studio Code). On its own it is a lightweight code editor; it gains full IDE features &mdash; language support, debugging, AI assistants &mdash; through <em>extensions</em>. This guide uses it to browse files, run a terminal, and host Claude Code or Codex. Download at <a href="https://code.visualstudio.com">code.visualstudio.com</a>; full <a href="https://code.visualstudio.com/docs">documentation here</a>.</td></tr>
+    <tr><td><strong>Terminal</strong></td><td>A text-based window for running commands. VS Code has one built in: go to View &rarr; Terminal.</td></tr>
+    <tr><td><strong>Extension</strong></td><td>An add-on that gives VS Code new features &mdash; language support, themes, tools, or AI assistants like Claude Code. You browse and install extensions from VS Code's built-in Extensions Marketplace. See the official <a href="https://code.visualstudio.com/docs/editor/extension-marketplace">Extension Marketplace guide</a>.</td></tr>
+    <tr><td><strong>Prompt</strong></td><td>A message you type to the AI. The quality of your question shapes the quality of the answer.</td></tr>
+    <tr><td><strong>Scientific Python library</strong></td><td>A collection of reusable Python code for scientific work. This guide uses NumPy (numerical computing) for practice; other widely-used examples include SciPy (scientific algorithms), pandas (data tables and analysis), Matplotlib (plotting and visualization), and PyTorch (machine learning).</td></tr>
+  </tbody>
+</table>
+
+<h3>The AI tools, companies, and models</h3>
+<p>A quick map of the names you'll come across &mdash; the companies, their AI assistants, the coding tools, and the models that power them.</p>
+<table>
+  <thead>
+    <tr><th>Term</th><th>What it means</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Anthropic &amp; OpenAI</strong></td><td>The two AI companies whose tools this guide covers. <strong>Anthropic</strong> builds Claude; <strong>OpenAI</strong> builds ChatGPT. Each also makes a coding tool (below).</td></tr>
+    <tr><td><strong>Claude &amp; ChatGPT</strong></td><td>The companies' general-purpose AI assistants &mdash; the chat products you may already have used in a web browser. <strong>Claude</strong> is Anthropic's; <strong>ChatGPT</strong> is OpenAI's.</td></tr>
+    <tr><td><strong>Claude Code &amp; Codex</strong></td><td>The AI <em>coding</em> tools this guide uses. <strong>Claude Code</strong> (from Anthropic, powered by Claude) runs inside VS Code; <strong>Codex</strong> (from OpenAI, powered by its models) is available as a VS Code extension, CLI, web app, and cloud coding agent. This guide uses the VS Code extension path. Unlike the chat products, these can read the files in your project directly.</td></tr>
+    <tr><td><strong>Model</strong></td><td>The underlying AI that does the thinking. Models come in tiers that trade speed against capability: Anthropic's Claude has <strong>Haiku</strong> (fastest, lightest), <strong>Sonnet</strong> (balanced), and <strong>Opus</strong> (most capable); OpenAI offers a similar range. Heavier models handle hard problems better but cost more and respond slower &mdash; the tool often lets you choose which to use.</td></tr>
+    <tr><td><strong>Context window</strong></td><td>How much text the AI can hold in mind at once &mdash; your files, the conversation so far, and its instructions. It is large but limited; in a very long session the earliest parts can drop out of view, so starting a fresh conversation for each new task keeps the AI focused.</td></tr>
+    <tr><td><strong>Tokens (input &amp; output)</strong></td><td>The unit AI text is measured in &mdash; roughly three-quarters of a word. <strong>Input tokens</strong> are what you send the AI (your prompt, files, and the conversation so far); <strong>output tokens</strong> are what it writes back. Both fill the context window, and with API billing they are charged separately, with output usually costing more. A long conversation costs more because its whole history is re-sent as input each turn.</td></tr>
+    <tr><td><strong>Knowledge cutoff</strong></td><td>Each model is trained on data up to a fixed date and knows nothing after it. It may be unaware of a recent library release or a renamed function &mdash; a common source of confident but outdated answers. When in doubt, check against current documentation.</td></tr>
+    <tr><td><strong>Agent / agentic</strong></td><td>An <strong>agentic</strong> tool does more than answer questions &mdash; it takes actions on your behalf across several steps: reading and editing files, running commands, searching the project. Claude Code and Codex are both agentic, which is why they can carry out a task rather than only describe it.</td></tr>
+    <tr><td><strong>Skill</strong></td><td>A reusable instruction set that tells the AI how to approach a particular kind of task &mdash; planning, code review, debugging. Claude Code commonly triggers skills with slash commands, such as <code>/brainstorming</code>; Codex can invoke skills explicitly with <code>/skills</code> or <code>$skill-name</code>, and can also choose relevant skills automatically. Skills are optional and aimed at software-development work rather than the data tasks in this guide.</td></tr>
+    <tr><td><strong>MCP</strong></td><td><strong>MCP</strong> (Model Context Protocol) is an open standard that lets your AI assistant connect to outside services &mdash; note-taking apps, document stores, web tools, and more. Each connection is called an MCP <em>server</em>. See <a href="#notebooklm">Connecting NotebookLM with MCP</a> below for a hands-on example.</td></tr>
+    <tr><td><strong>Hallucination</strong></td><td>When an AI states something false with full confidence &mdash; a function that does not exist, a misremembered API, an invented citation. Hallucinations look just like correct answers, which is why you must verify the AI's output rather than trust it (see the warning above).</td></tr>
+    <tr><td><strong>Subscription vs. API access</strong></td><td>Two ways to pay for the same models. A <strong>subscription</strong> (Claude Pro/Max, ChatGPT Plus/Pro/Business/Edu/Enterprise) is a flat monthly fee with a capped usage allowance &mdash; predictable, and simplest for individuals. <strong>API access</strong> is pay-as-you-go billing through the company's developer platform: charged per token, with no flat fee and no hard cap &mdash; flexible for heavy or automated use, but the cost varies. Access rules and free trials change over time, so check the current pricing page before a workshop.</td></tr>
+    <tr><td><strong>Usage / rate limits</strong></td><td>Even paid subscriptions cap how much you can use within a rolling time window. If you reach the limit, you wait until it resets or upgrade to a higher plan. Heavier models and long conversations use up the allowance faster.</td></tr>
+  </tbody>
+</table>
+
+<h3>A quick tour of the VS Code interface</h3>
+<p>When you open VS Code, the window is divided into a few main areas &mdash; it helps to recognize them before you start. The screenshot below shows them; the table that follows explains each one. For a fuller description, see the official <a href="https://code.visualstudio.com/docs/getstarted/userinterface">VS Code User Interface guide</a>.</p>
+<figure>
+  <img src="vscode_interface.png" alt="Annotated screenshot of the VS Code interface, with the Menu bar, Activity Bar, Side bar, Editor, AI assistant panel, Panel, and Status bar labelled.">
+  <figcaption>The main areas of the VS Code window, with the Claude Code AI assistant panel on the right.</figcaption>
+</figure>
+<table>
+  <thead>
+    <tr><th>Area</th><th>Where it is &amp; what it does</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Menu Bar</strong></td><td>The menus at the top of the window (File, Edit, View, Terminal, Help, and more). Many instructions in this guide use it &mdash; for example <em>File &rarr; Open Folder</em> or <em>View &rarr; Terminal</em>. On macOS it appears in the system menu bar at the top of the screen.</td></tr>
+    <tr><td><strong>Activity Bar</strong></td><td>The narrow strip on the far left. Its icons switch between views &mdash; Explorer (files), Search, Source Control, Run and Debug, and Extensions.</td></tr>
+    <tr><td><strong>Side Bar</strong></td><td>Opens next to the Activity Bar. Most often it shows the <strong>Explorer</strong> &mdash; the file tree of your workspace.</td></tr>
+    <tr><td><strong>Editor</strong></td><td>The large central area where you read and edit files. You can open several files at once as tabs.</td></tr>
+    <tr><td><strong>Panel</strong></td><td>The area below the editor. It holds the integrated <strong>Terminal</strong>, along with Problems and Output. Open it with View &rarr; Terminal.</td></tr>
+    <tr><td><strong>Status Bar</strong></td><td>The strip along the very bottom. Shows information about the current file and project, such as the Python version, error count, and git branch.</td></tr>
+    <tr><td><strong>AI Assistant Panel</strong></td><td>Not part of base VS Code &mdash; added by an AI extension such as Claude Code or Codex. This is the chat window where you talk to the AI, usually docked beside the editor.</td></tr>
+  </tbody>
+</table>
+
+<h2 id="setup">Setup</h2>
+
+<div class="only-cc">
+<blockquote>
+  <p><strong>Before you begin <span class="tool-tag">Claude Code</span></strong><br>Using Claude Code is <strong>not free</strong> &mdash; it requires a paid Claude plan (Pro or Max) or Anthropic API billing. A free account on its own will not work. Set this up at <a href="https://claude.ai">claude.ai</a> before your workshop session; account creation also requires email verification.</p>
+</blockquote>
+
+<h3>1. Install VS Code <span class="tool-tag">Claude Code</span></h3>
+<p>Download from <a href="https://code.visualstudio.com">code.visualstudio.com</a> and run the installer. Accept all defaults &mdash; on Windows, leave all checkboxes checked, as they add useful shortcuts.</p>
+
+<h3>2. Install the Claude Code extension <span class="tool-tag">Claude Code</span></h3>
+<ol>
+  <li>Open VS Code.</li>
+  <li>Click the Extensions icon in the left sidebar, or press <code>Ctrl+Shift+X</code> (Windows/Linux) or <code>Cmd+Shift+X</code> (Mac).</li>
+  <li>Search for <strong>Claude Code</strong>.</li>
+  <li>Click <strong>Install</strong>. The button will change to <strong>Disable</strong> once installation is complete.</li>
+</ol>
+
+<h3>3. Sign in <span class="tool-tag">Claude Code</span></h3>
+<p>After installation, press <code>Ctrl+L</code> (Windows/Linux) or <code>Cmd+L</code> (Mac) to open the Claude Code panel. You will be prompted to sign in with your Anthropic account. Once signed in, the Claude Code chat panel will appear with a text input &mdash; you are ready to use it.</p>
+
+<h3>4. Open your project folder <span class="tool-tag">Claude Code</span></h3>
+<p>Go to <strong>File &rarr; Open Folder</strong> and select the folder you want to explore. This becomes your <strong>workspace</strong> &mdash; the AI can see all files inside it.</p>
+<p class="note">For more detail and troubleshooting, see the official <a href="https://code.claude.com/docs">Claude Code documentation</a> from Anthropic.</p>
+</div>
+
+<div class="only-codex">
+<blockquote>
+  <p><strong>Before you begin <span class="tool-tag">Codex</span></strong><br>Codex access is included with eligible ChatGPT plans (such as Plus, Pro, Business, Edu, and Enterprise) or can be used with an OpenAI API key. Free or trial access may change over time, so confirm your access before your workshop session.</p>
+</blockquote>
+
+<h3>1. Install VS Code <span class="tool-tag">Codex</span></h3>
+<p>Download from <a href="https://code.visualstudio.com">code.visualstudio.com</a> and run the installer. Accept all defaults &mdash; on Windows, leave all checkboxes checked, as they add useful shortcuts.</p>
+
+<h3>2. Install the Codex extension <span class="tool-tag">Codex</span></h3>
+<ol>
+  <li>Open VS Code.</li>
+  <li>Click the Extensions icon in the left sidebar, or press <code>Ctrl+Shift+X</code> (Windows/Linux) or <code>Cmd+Shift+X</code> (Mac).</li>
+  <li>Search for <strong>Codex</strong>.</li>
+  <li>Install the official OpenAI Codex extension.</li>
+</ol>
+
+<h3>3. Sign in <span class="tool-tag">Codex</span></h3>
+<p>Open Codex from the VS Code sidebar. The first time, it will prompt you to sign in with your ChatGPT account or an API key. Once signed in, the Codex chat panel will appear &mdash; you are ready to use it.</p>
+
+<h3>4. Open your project folder <span class="tool-tag">Codex</span></h3>
+<p>Go to <strong>File &rarr; Open Folder</strong> and select the folder you want to explore. This becomes your <strong>workspace</strong> &mdash; the AI can see files inside it when you include them in the conversation or ask it to inspect the project.</p>
+<p class="note">Node.js is only needed if you prefer the Codex CLI instead of the VS Code extension. For the CLI route, install Node.js LTS, run <code>npm i -g @openai/codex</code>, then launch <code>codex</code> from inside your project folder.</p>
+<p class="note">For more detail and troubleshooting, see the official <a href="https://developers.openai.com/codex">Codex documentation</a> from OpenAI.</p>
+</div>
+
+<hr>
+
+<h2 id="your-first-session">Your First Session</h2>
+<p>In this session you'll use your AI assistant to do a small but real piece of data work &mdash; loading, cleaning, and visualizing a dataset with scientific Python libraries. This is the everyday way researchers use these tools: you describe what you want, the AI helps you write the code, and you check that it does the right thing. You don't have to write the code from scratch &mdash; but you do need to read and understand what the AI produces.</p>
+
+<h3>Set up a practice folder</h3>
+<ol>
+  <li>Create a new, empty folder somewhere convenient (for example, <code>penguins-practice</code>) and open it in VS Code: <strong>File &rarr; Open Folder</strong>. This folder is your <strong>workspace</strong>.</li>
+  <li>Open a terminal (<strong>View &rarr; Terminal</strong>) and install the libraries this exercise uses:
+    <pre><code>pip install pandas seaborn matplotlib</code></pre>
+  </li>
+  <li>Create a new file named <code>penguins.py</code> (or a Jupyter notebook, if you prefer). You'll paste the AI's code here as you work through the task.</li>
+</ol>
+<p class="note">Not sure whether Python is installed? Ask your assistant: <em>"How do I check whether Python is installed, and install it if it isn't?"</em></p>
+
+<h3>Open the assistant</h3>
+<p class="only-cc"><span class="tool-tag">Claude Code</span> Press <code>Ctrl+L</code> (Windows/Linux) or <code>Cmd+L</code> (Mac) to open the Claude Code chat panel.</p>
+<p class="only-codex"><span class="tool-tag">Codex</span> Open Codex from the VS Code sidebar. If you do not see it, restart VS Code after installing the extension.</p>
+
+<h3>The task: clean and visualize the Palmer Penguins dataset</h3>
+<p>The <strong>Palmer Penguins</strong> dataset records body measurements &mdash; bill length, flipper length, body mass, and more &mdash; for three penguin species. A few rows have missing values, which makes it a realistic example for practicing data cleaning. It loads in one line through the seaborn library.</p>
+<p>Work through these prompts with your assistant one at a time. After each one, <strong>read the code it gives you, paste it into <code>penguins.py</code>, run it, and check the result</strong> before moving on. If a line is unclear, ask the assistant to explain it.</p>
+<div class="prompt">Write Python code to load the Palmer Penguins dataset using seaborn, then show the first few rows and the column names.</div>
+<div class="prompt">How many rows have missing values, and which columns are affected? Write code to find out.</div>
+<div class="prompt">Add code to handle the missing values. Explain the difference between dropping those rows and filling them in, and when each choice makes sense.</div>
+<div class="prompt">Make a scatter plot of bill length versus bill depth, with each species shown in a different color.</div>
+<div class="prompt">Improve the plot: add a clear title, axis labels with units, and a legend.</div>
+<div class="prompt">Pick a line of this code you're not sure about and ask the assistant to explain exactly what it does.</div>
+
+<h3>Going further</h3>
+<p>Once the basics work, ask for more: a histogram of body mass by species, a table of average measurements per species, or a different chart type. Each time, ask the AI <em>why</em> it chose a particular approach &mdash; that is how you learn to use the libraries yourself, rather than just collecting answers.</p>
+
+<h3>Sample solution</h3>
+<p>Try the prompts yourself first &mdash; working through them with the AI is the point of the exercise. If you get stuck, or just want to compare, you can reveal one possible solution below. Your assistant's code may look different and still be correct; whatever you end up with, make sure you can read and explain every line.</p>
+<details>
+  <summary>Show sample code (penguins.py)</summary>
+  <pre><code>import seaborn as sns
+import matplotlib.pyplot as plt
+
+# 1. Load the dataset and take a first look
+penguins = sns.load_dataset("penguins")
+print(penguins.head())
+print(penguins.columns.tolist())
+
+# 2. Check for missing values
+print(penguins.isna().sum())                     # missing values per column
+print("Rows with any missing value:",
+      penguins.isna().any(axis=1).sum())
+
+# 3. Handle the missing values
+#    dropna() removes rows that have gaps.
+#    fillna() would instead fill them in (e.g. with a column average).
+#    Dropping is simplest here; filling keeps more rows but invents values.
+penguins_clean = penguins.dropna()
+
+# 4 &amp; 5. Scatter plot of bill dimensions, colored by species, with labels
+sns.scatterplot(
+    data=penguins_clean,
+    x="bill_length_mm",
+    y="bill_depth_mm",
+    hue="species",
+)
+plt.xlabel("Bill length (mm)")
+plt.ylabel("Bill depth (mm)")
+plt.title("Penguin bill dimensions by species")
+plt.legend(title="Species")
+plt.show()
+</code></pre>
+</details>
+
+<hr>
+
+<h2 id="tips">Tips for Asking Good Questions</h2>
+<p>The prompts in the left column are natural starting points &mdash; the versions on the right are more specific and tend to get better answers:</p>
+<table>
+  <thead>
+    <tr><th>Instead of...</th><th>Try...</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>"Explain this code"</td><td>"Explain what this <code>dropna()</code> line does, and how it changes my dataset."</td></tr>
+    <tr><td>"Make a plot"</td><td>"Make a scatter plot of bill length vs bill depth, colored by species, with labelled axes and a title."</td></tr>
+    <tr><td>"I don't understand"</td><td>"I'm a chemical engineer. Can you explain what a DataFrame is using an analogy to a spreadsheet?"</td></tr>
+    <tr><td>"Is this right?"</td><td>"What assumptions does this cleaning step make about my data, and when would it give a wrong result?"</td></tr>
+  </tbody>
+</table>
+<p><strong>General rule:</strong> the more context you give, the better the answer. Tell the AI your background, what you're trying to understand, and why.</p>
+
+<hr>
+
+<h2 id="notebooklm">Connecting NotebookLM with MCP</h2>
+<p><a href="https://notebooklm.google.com">Google NotebookLM</a> is a research tool where you upload documents, papers, and notes and ask questions about them. Using <strong>MCP</strong> (see <a href="#key-concepts">Key Concepts</a>), you can connect NotebookLM to your AI assistant &mdash; so Claude Code or Codex can draw on your NotebookLM notebooks while it helps you, for example pulling facts from a paper you saved there.</p>
+<p>This part is optional and a little more advanced than the rest of the guide, but it is a good first taste of how MCP extends what your assistant can do.</p>
+
+<blockquote>
+  <p><strong>What you'll need</strong><br>Python (installed in the previous section), a Google account with <a href="https://notebooklm.google.com">NotebookLM</a> access, and a web browser. The connection is made by a community tool, <a href="https://github.com/jacob-bd/notebooklm-mcp-cli">notebooklm-mcp-cli</a> &mdash; look over what it does before granting it access to your Google account.</p>
+</blockquote>
+
+<h3>1. Install the NotebookLM MCP tool</h3>
+<p>In a terminal (View &rarr; Terminal), run:</p>
+<pre><code>pip install notebooklm-mcp-cli</code></pre>
+<p>This gives you two commands: <code>nlm</code> (a command-line tool) and <code>notebooklm-mcp</code> (the MCP server your assistant connects to).</p>
+
+<h3>2. Sign in to NotebookLM</h3>
+<p>Run <code>nlm login</code>. This opens your browser; sign in to your Google account, and the tool captures the sign-in automatically. Confirm it worked with <code>nlm login --check</code>.</p>
+
+<h3>3. Connect it to your assistant</h3>
+<p class="only-cc"><span class="tool-tag">Claude Code</span> Run:</p>
+<pre class="only-cc"><code>nlm setup add claude-code</code></pre>
+<p class="only-codex"><span class="tool-tag">Codex</span> Run:</p>
+<pre class="only-codex"><code>nlm setup add codex</code></pre>
+<p>Then check the connection with <code>nlm doctor</code>.</p>
+
+<h3>4. Restart and try it</h3>
+<p class="only-cc"><span class="tool-tag">Claude Code</span> Restart Claude Code, or type <code>/mcp</code> in the chat to reconnect.</p>
+<p class="only-codex"><span class="tool-tag">Codex</span> Restart Codex so it picks up the new connection.</p>
+<p>You can now ask your assistant things like:</p>
+<div class="prompt">List all my NotebookLM notebooks.</div>
+<div class="prompt">Summarize the key findings from the sources in my "literature review" notebook.</div>
+<p class="note">Setup commands can change between versions &mdash; these follow <a href="https://github.com/jacob-bd/notebooklm-mcp-cli/tree/v0.6.9">notebooklm-mcp-cli v0.6.9</a>. If something doesn't work, check that project's current README.</p>
+
+<hr>
+<p class="note">This guide was itself created with AI-assisted coding &mdash; drafted using Claude Code, then reviewed and edited by its authors.</p>
+
+<script>
+  document.querySelectorAll('.tab').forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      document.body.dataset.tool = tab.dataset.select;
+      document.querySelectorAll('.tab').forEach(function (t) {
+        t.classList.toggle('active', t === tab);
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

@@ -52,6 +52,13 @@ Through this course ([flyer](https://drive.google.com/file/d/1t_jPm0EzRcYOeHgUdt
 
 ---
 
+## AI-Assisted Coding
+
+AI-assisted coding tools (e.g., [Claude Code](https://code.claude.com/docs), [Codex](https://developers.openai.com/codex)) have made programming more accessible, and I see them as a valuable aid for students and researchers - particularly those without an extensive coding background. When used thoughtfully (and full acknowledging that AI makes mistakes despite sounding confident), these tools can help explain unfamiliar code, navigate how data flows through a program, and accelerate everyday scientific work. Of course. To help others get started, I have put together an entry-level guide that introduces the core concepts, walks through setting up these tools in VS Code, and illustrates what a first working session looks like, with the help of both Claude Code and Codex.
+
+<a href="{{ '/teaching/ai-coding-entry-guide.html' | relative_url }}" class="btn btn--primary btn--large">AI-Assisted Coding: An Entry Guide</a>
+
+
 ## Workshop Modules
 
 I see tremendous potentials in leveraging the open-source platforms developed in my research to build interactive modules to be used in the classroom. My goal is to make these experiences accessible to everyone - regardless of individuals' programing skills.
