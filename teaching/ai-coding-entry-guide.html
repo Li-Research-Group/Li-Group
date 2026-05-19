@@ -223,7 +223,7 @@
     <a href="#setup">Setup</a>
     <a href="#your-first-session">Your First Session</a>
     <a href="#tips">Tips</a>
-    <a href="#notebooklm">NotebookLM + MCP</a>
+    <a href="#notebooklm">MCP in practice: NotebookLM</a>
   </nav>
   <div class="toolbar">
     <span class="label">Showing instructions for:</span>
@@ -282,7 +282,7 @@
     <tr><td><strong>Knowledge cutoff</strong></td><td>Each model is trained on data up to a fixed date and knows nothing after it. It may be unaware of a recent library release or a renamed function &mdash; a common source of confident but outdated answers. When in doubt, check against current documentation.</td></tr>
     <tr><td><strong>Agent / agentic</strong></td><td>An <strong>agentic</strong> tool does more than answer questions &mdash; it takes actions on your behalf across several steps: reading and editing files, running commands, searching the project. Claude Code and Codex are both agentic, which is why they can carry out a task rather than only describe it.</td></tr>
     <tr><td><strong>Skill</strong></td><td>A reusable instruction set that tells the AI how to approach a particular kind of task &mdash; planning, code review, debugging. Claude Code commonly triggers skills with slash commands, such as <code>/brainstorming</code>; Codex can invoke skills explicitly with <code>/skills</code> or <code>$skill-name</code>, and can also choose relevant skills automatically. Skills are optional and aimed at software-development work rather than the data tasks in this guide.</td></tr>
-    <tr><td><strong>MCP</strong></td><td><strong>MCP</strong> (Model Context Protocol) is an open standard that lets your AI assistant connect to outside services &mdash; note-taking apps, document stores, web tools, and more. Each connection is called an MCP <em>server</em>. See <a href="#notebooklm">Connecting NotebookLM with MCP</a> below for a hands-on example.</td></tr>
+    <tr><td><strong>MCP</strong></td><td><strong>MCP</strong> (Model Context Protocol) is an open standard that lets your AI assistant connect to outside services &mdash; note-taking apps, document stores, web tools, and more. Each connection is called an MCP <em>server</em>. See <a href="#notebooklm">MCP in practice: NotebookLM</a> below for a hands-on example.</td></tr>
     <tr><td><strong>Hallucination</strong></td><td>When an AI states something false with full confidence &mdash; a function that does not exist, a misremembered API, an invented citation. Hallucinations look just like correct answers, which is why you must verify the AI's output rather than trust it (see the warning above).</td></tr>
     <tr><td><strong>Subscription vs. API access</strong></td><td>Two ways to pay for the same models. A <strong>subscription</strong> (Claude Pro/Max, ChatGPT Plus/Pro/Business/Edu/Enterprise) is a flat monthly fee with a capped usage allowance &mdash; predictable, and simplest for individuals. <strong>API access</strong> is pay-as-you-go billing through the company's developer platform: charged per token, with no flat fee and no hard cap &mdash; flexible for heavy or automated use, but the cost varies. Access rules and free trials change over time, so check the current pricing page before a workshop.</td></tr>
     <tr><td><strong>Usage / rate limits</strong></td><td>Even paid subscriptions cap how much you can use within a rolling time window. If you reach the limit, you wait until it resets or upgrade to a higher plan. Heavier models and long conversations use up the allowance faster.</td></tr>
@@ -369,20 +369,24 @@
 <h3>Set up a practice folder</h3>
 <ol>
   <li>Create a new, empty folder somewhere convenient (for example, <code>penguins-practice</code>) and open it in VS Code: <strong>File &rarr; Open Folder</strong>. This folder is your <strong>workspace</strong>.</li>
-  <li>Open a terminal (<strong>View &rarr; Terminal</strong>) and install the libraries this exercise uses:
-    <pre><code>pip install pandas seaborn matplotlib</code></pre>
-  </li>
-  <li>Create a new file named <code>penguins.py</code> (or a Jupyter notebook, if you prefer). You'll paste the AI's code here as you work through the task.</li>
+  <li>Open a terminal inside VS Code with <strong>View &rarr; Terminal</strong> &mdash; this is where code runs and where software gets installed.</li>
 </ol>
-<p class="note">Not sure whether Python is installed? Ask your assistant: <em>"How do I check whether Python is installed, and install it if it isn't?"</em></p>
 
 <h3>Open the assistant</h3>
 <p class="only-cc"><span class="tool-tag">Claude Code</span> Press <code>Ctrl+L</code> (Windows/Linux) or <code>Cmd+L</code> (Mac) to open the Claude Code chat panel.</p>
 <p class="only-codex"><span class="tool-tag">Codex</span> Open Codex from the VS Code sidebar. If you do not see it, restart VS Code after installing the extension.</p>
 
+<h3>Your first task: set up the Python environment</h3>
+<p>This exercise runs on <strong>Python</strong> and a few scientific libraries. Rather than installing them by hand, let the assistant do it &mdash; setting up an environment is itself a normal, useful piece of AI-assisted work, and a good first thing to try. Give it this prompt:</p>
+<div class="prompt">Check whether Python is installed on this computer. If it is not, walk me through installing it step by step. Once Python is ready, install the packages pandas, seaborn, and matplotlib.</div>
+<p>Follow along as it works: it will run commands in the terminal, and may ask you to confirm a step or to close and reopen the terminal so a fresh install is picked up. Read what it is doing rather than just clicking through &mdash; this is exactly the "understand what the AI does" habit this guide is about.</p>
+<blockquote>
+  <p><strong>Fallback: the Anaconda distribution</strong><br>If the install runs into trouble &mdash; or you would rather get everything in one download &mdash; install <a href="https://www.anaconda.com/download">Anaconda</a> (or the lighter <a href="https://www.anaconda.com/docs/getting-started/miniconda/install">Miniconda</a>). It bundles Python together with pandas, seaborn, and matplotlib, so the practice session works without a separate install step. Let your assistant know you are using Anaconda so it uses the matching <code>conda</code> commands.</p>
+</blockquote>
+
 <h3>The task: clean and visualize the Palmer Penguins dataset</h3>
 <p>The <strong>Palmer Penguins</strong> dataset records body measurements &mdash; bill length, flipper length, body mass, and more &mdash; for three penguin species. A few rows have missing values, which makes it a realistic example for practicing data cleaning. It loads in one line through the seaborn library.</p>
-<p>Work through these prompts with your assistant one at a time. After each one, <strong>read the code it gives you, paste it into <code>penguins.py</code>, run it, and check the result</strong> before moving on. If a line is unclear, ask the assistant to explain it.</p>
+<p>Create a new file named <code>penguins.py</code> in your practice folder (or a Jupyter notebook, if you prefer) &mdash; you'll build it up as you go. Work through these prompts with your assistant one at a time. After each one, <strong>read the code it gives you, paste it into <code>penguins.py</code>, run it, and check the result</strong> before moving on. If a line is unclear, ask the assistant to explain it.</p>
 <div class="prompt">Write Python code to load the Palmer Penguins dataset using seaborn, then show the first few rows and the column names.</div>
 <div class="prompt">How many rows have missing values, and which columns are affected? Write code to find out.</div>
 <div class="prompt">Add code to handle the missing values. Explain the difference between dropping those rows and filling them in, and when each choice makes sense.</div>
@@ -450,7 +454,7 @@ plt.show()
 
 <hr>
 
-<h2 id="notebooklm">Connecting NotebookLM with MCP</h2>
+<h2 id="notebooklm">MCP in practice: NotebookLM</h2>
 <p><a href="https://notebooklm.google.com">Google NotebookLM</a> is a research tool where you upload documents, papers, and notes and ask questions about them. Using <strong>MCP</strong> (see <a href="#key-concepts">Key Concepts</a>), you can connect NotebookLM to your AI assistant &mdash; so Claude Code or Codex can draw on your NotebookLM notebooks while it helps you, for example pulling facts from a paper you saved there.</p>
 <p>This part is optional and a little more advanced than the rest of the guide, but it is a good first taste of how MCP extends what your assistant can do.</p>
 
