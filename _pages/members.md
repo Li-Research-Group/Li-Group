@@ -112,6 +112,17 @@ Du:
         </strong>'
   image_width: 60%
 
+Hashimoto:
+  image_path: /images/members/ella_hashimoto.jpg
+  alt: 'Photo of Ella'
+  title: 'Ella Hashimoto'
+  synopsis: 'Ella is a rising sophomore majoring in Mechanical Engineering at Rutgers University, interested in sustainability and aerospace applications. She joined the Li Research Group as a 2026 [Aresty Summer Science](https://aresty.rutgers.edu/programs/summer-science-program) scholar to delve deeper into the field of research and learn more about sustainable energy.
+
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/ella-hashimoto-ba64aa382/)
+        </strong>'
+  image_width: 60%
+
 ---
 
 <style>
@@ -227,6 +238,8 @@ details > summary:hover h2 { color: #A32638; }
 ## Undergraduate Researchers
 
 {% include single_left id='Du' %}
+
+{% include single_left id='Hashimoto' %}
 
 
 <details>
