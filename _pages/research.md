@@ -7,33 +7,6 @@ header:
   text_color: black
 ---
 
-<style>
-details > summary {
-  list-style: none;
-  cursor: pointer;
-}
-details > summary::-webkit-details-marker { display: none; }
-details > summary::marker { display: none; }
-details > summary h3 {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4em;
-  user-select: none;
-}
-details > summary h3::before {
-  content: "▶";
-  font-size: 0.6em;
-  display: inline-block;
-  transition: transform 0.2s ease;
-}
-details[open] > summary h3::before {
-  transform: rotate(90deg);
-}
-details > summary:hover h3 {
-  color: #A32638;
-}
-</style>
-
 ## Peer-reviewed publications
 
 For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.

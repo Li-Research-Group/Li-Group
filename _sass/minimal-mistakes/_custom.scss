@@ -1,4 +1,4 @@
-// Collapsible year/section blocks on the research page
+// Collapsible year/section blocks (research and news pages)
 details {
   > summary {
     list-style: none;
@@ -28,7 +28,7 @@ details {
     }
 
     &:hover h3 {
-      color: $primary-color;
+      color: #A32638;
     }
   }
 
