@@ -112,6 +112,17 @@ Du:
         </strong>'
   image_width: 60%
 
+Encarnación-Santiago:
+  image_path: /images/members/franchelis_encarnacion-santiago.jpg
+  alt: 'Photo of Franchelis'
+  title: 'Franchelís Encarnación-Santiago'
+  synopsis: 'Franchelís is a second-year Chemistry major at the University of Puerto Rico, with core interests in sustainability, biological conversion, and environmental and biomedical applications. She joined the Li Research Group through the [RISE](https://aresty.rutgers.edu/programs-funding/the-research-intensive-summer-experience) program to expand her research skills and further explore these fields..
+
+   <br><br> <strong>
+        [LinkedIn](https://www.linkedin.com/in/franchel%C3%ADs-m-encarnaci%C3%B3n-santiago-b75422411/)
+        </strong>'
+  image_width: 60%
+
 Hashimoto:
   image_path: /images/members/ella_hashimoto.jpg
   alt: 'Photo of Ella'
@@ -238,6 +249,8 @@ details > summary:hover h2 { color: #A32638; }
 ## Undergraduate Researchers
 
 {% include single_left id='Du' %}
+
+{% include single_left id='Encarnación-Santiago' %}
 
 {% include single_left id='Hashimoto' %}
 
