@@ -11,16 +11,16 @@ header:
 <summary><h3>2026</h3></summary>
 <div markdown="1">
 
+**[May 2026]** The C3W (Carbon Capture with Concrete Waste) team from Rutgers are winners of the [2026 OpenAir Carbon Removal Challenge](https://openaircollective.com/crc/). [**Yu**](/members#graduate-students) and her teammates from the Riman group of Rutgers Materials Science and Engineering (Jack Kaszas, Noemie Denis, Ranuri Dissanayaka Mudiyanselage, Karna Krishna, Richie Campbell, Alex Golub) will present their final showcase at the [Carbon Unbound East Coast Summit 2026](https://www.carbonunbound.com/).
+{: .notice--green}
+<img src='/images/news/2026-05_openair_challenge.png' alt='OpenAir Carbon Removal Challenge 2026' width='80%' id='image'>
+
 **[April 2026]** [Rutgers Day](https://newbrunswick.rutgers.edu/rutgers-day) is here again! Thanks to [**Charlotte**](/members#undergraduate-researchers), [**Shirui**](/members#graduate-students), [**Yu**](/members#graduate-students), [**Nizam**](/members#graduate-students), and [**Basil**](/members#graduate-students) who helped run the show!
 {: .notice--yellow}
 <img src='/images/news/2026-04-25_rutgers_day.png' alt='Rutgers Day 2026' width='100%' id='image'>
 
 **[April 2026]** For his work on food waste recycling, [**Ali**](/members#graduate-students) won a ReFED Scholarship and was invited to the [ReFED Food Waste Solutions Summit 2026](https://summit.refed.org/) in Charlotte, North Carolina on May 19-21, 2026.
 {: .notice--green}
-
-**[April 2026]** The C3W (Carbon Capture with Concrete Waste) team from Rutgers are winners of the [2026 OpenAir Carbon Removal Challenge](https://openaircollective.com/crc/). [**Yu**](/members#graduate-students) and her teammates from the Riman group of Rutgers Materials Science and Engineering (Jack Kaszas, Noemie Denis, Ranuri Dissanayaka Mudiyanselage, Karna Krishna, Richie Campbell, Alex Golub) will present their final showcase at the [Carbon Unbound East Coast Summit 2026](https://www.carbonunbound.com/).
-{: .notice--green}
-<img src='/images/news/2026-05_openair_challenge.png' alt='OpenAir Carbon Removal Challenge 2026' width='80%' id='image'>
 
 **[April 2026]** April is a busy month! We kicked off the month with the [SaBRe](https://sabreproject.org/) annual meeting at Rutgers, presenting work from [**Nizam**](/members#graduate-students), [**Basil**](/members#graduate-students), and [**Vicky**](/members#undergraduate-researchers). Shirui presented here work at the [Hudson-Delaware Chapter (HDC) Society of Environmental Toxicology and Chemistry (SETAC) Regional Meeting](https://hdcsetac.wildapricot.org/). And [**Ali**](/members#graduate-students) successfully passed his proposal defense!
 {: .notice--yellow}
