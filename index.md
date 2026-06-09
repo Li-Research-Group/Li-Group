@@ -8,18 +8,15 @@ header:
 excerpt: Advancing Water & Energy Infrastructure through <br> Experimentation & Sustainable Design
 
 qsdsan:
-  image_path: /images/index/qsdsan-dmsan.png
-  alt: 'Logos of QSDsan and DMsan'
+  image_path: /images/index/qsdsan.png
+  alt: 'Logo of QSDsan'
   title: 'The QSDsan Platform'
   synopsis: 'QSDsan is an open-source platform in Python that integrates system design, process modeling, simulation, TEA, and LCA under uncertainty. Systems developed using QSDsan are deposited in the [EXPOsan](https://github.com/QSD-Group/EXPOsan) (exposition) repository. We also contribute to the development of other open-source tools for water and wastewater treatment, including [WaterTAP](https://watertap.readthedocs.io) funded by the National Alliance for Water Innovation (NAWI). Efforts are also underway to integrate decision-making and optimization capacities (leveraging [DMsan](https://github.com/qsD-Group/DMsan)) as well as to develop interactive education modules.'
-  image_width: 70%
-  btn_num: 2
-  btn_url1: 'https://qsdsan.readthedocs.io'
+  image_width: 100%
+  btn_num: 1
+  btn_url1: 'https://qsdsan.com'
   btn_class1: 'btn--primary btn--large'
-  btn_label1: 'Documentation'
-  btn_url2: 'https://qsdsan.com'
-  btn_class2: 'btn--primary btn--large'
-  btn_label2: 'Website'
+  btn_label1: 'QSDsan Website ↗'
   line: true
 
 biosteam:
@@ -28,13 +25,10 @@ biosteam:
   title: 'The BioSTEAM Platform'
   synopsis: 'Supported by the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio)), BioSTEAM enables the design, simulation, TEA, and LCA of biorefineries under uncertainty. It has been used by researchers across the world to design assess the sustainability of novel feedstocks and emerging bioproducts. Work is also underway to connect BioSTEAM with upstream ecosystem and logistic models to enable dynamic, high-resolution, and spatiotemporally resolved field-to-refinery modeling framework.'
   image_width: 60%
-  btn_num: 2
+  btn_num: 1
   btn_url1: 'https://biosteam.readthedocs.io'
   btn_class1: 'btn--primary btn--large'
-  btn_label1: 'Documentation'
-  btn_url2: 'https://biosteam.netlify.app/'
-  btn_class2: 'btn--primary btn--large'
-  btn_label2: 'Web App'
+  btn_label1: 'BioSTEAM Website ↗'
   line: true
 
 
@@ -69,40 +63,3 @@ The wide applicability of the QSD methodology allows us to collaborate with rese
 {% include single_left id='qsdsan' %}
 
 {% include single_right id='biosteam' %}
-
-
-<!-- Old codes for reference
-
-Li:
-  image_path: /images/members/Yalin_Li.png
-  alt: 'Headshot of Yalin Li'
-  title: 'Lead: Yalin Li'
-  synopsis: 'I am an Assistant Professor in the Department of Civil and Environmental Engineering at Rutgers University. I received my B. Eng. from Tongji University, M.S. from the University of Illinois Urbana-Champaign (UIUC), and Ph.D. from Colorado School of Mines, all in Environmental Engineering. During my graduate study, I was a visiting scholar at the Illinois Sustainable Technology Center and National Renewable Energy Laboratory (NREL).
-    
-    <br><br> Prior to joining Rutgers, I worked at the Institute for Sustainability, Energy, and Environment (iSEE) and the Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/)) at UIUC.'
-  image_width: 70%
-
-qsdsan:
-- image_path: /images/index/qsdsan-dmsan.png
-  alt: 'QSDsan and DMsan logos'
-  title: 'The QSDsan Platform'
-  excerpt: 'QSDsan is an open-source platform in Python that integrates system design, process modeling, simulation, TEA, and LCA under uncertainty. Systems developed using QSDsan are deposited in the [EXPOsan](https://github.com/QSD-Group/EXPOsan) (exposition) repository. We also contribute to the development of other open-source tools for water and wastewater treatment, including [WaterTAP](https://watertap.readthedocs.io) funded by the National Alliance for Water Innovation (NAWI). Efforts are also underway to integrate decision-making and optimization capacities (leveraging [DMsan](https://github.com/qsD-Group/DMsan)) as well as to develop interactive education modules.'
-  url: 'https://qsdsan.com'
-  btn_label: 'Learn More'
-  btn_class: 'btn--primary'
-
-
-biosteam:
-- image_path: /images/index/biosteam.png
-  alt: 'BioSTEAM logo'
-  title: 'The BioSTEAM Platform'
-  excerpt: 'Supported by the Center for Advanced Bioenergy and Bioproducts Innovation (CABBI), BioSTEAM enables the design, simulation, TEA, and LCA of biorefineries under uncertainty. It has been used by researchers across the world to design assess the sustainability of novel feedstocks and emerging bioproducts. Work is also underway to connect BioSTEAM with upstream ecosystem and logistic models to enable dynamic, high-resolution, and spatiotemporally resolved field-to-refinery modeling framework.'
-  url: 'https://biosteam.readthedocs.io'
-  btn_label: 'Learn More'
-  btn_class: 'btn--primary'
-
-
-{% include feature_row id='biosteam' type='left' %}
-
--->
-
